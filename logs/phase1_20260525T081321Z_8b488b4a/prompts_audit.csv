@@ -1,0 +1,274 @@
+﻿record_id,cell_key,stimulus_id,prompt_text
+05699afb-183c-416d-8d38-05adbc89306a,P1-EN|openai/gpt-4o|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+0267ccbc-6cb2-4072-afef-aa1411ca0390,P1-EN|openai/gpt-4o|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+916e91e5-6457-4a0b-b26b-b902027f7e02,P1-EN|openai/gpt-4o|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+ebd21ceb-631a-49b8-90b7-655d8f48b3ce,P1-EN|anthropic/claude-3.5-sonnet|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+740b72ce-27cc-4b13-9ab9-333c1b29f51e,P1-EN|anthropic/claude-3.5-sonnet|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+73abe49a-07a2-4180-87c6-688cdf13636b,P1-EN|anthropic/claude-3.5-sonnet|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+382810e6-f1c7-4b27-bfbc-b894fb5b7969,P1-EN|google/gemini-2.0-flash-001|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+3cc08a1b-f86c-4d7f-a1c3-b3fe762a0252,P1-EN|google/gemini-2.0-flash-001|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+ffacc1e2-1e0e-4585-b314-9bb2d5e49c94,P1-EN|google/gemini-2.0-flash-001|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+e30d4844-b1a9-40da-892c-bc8e1618b9e7,P1-EN|meta-llama/llama-3.3-70b-instruct|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+57c06c03-4010-41d3-9ea4-e1e956228d5c,P1-EN|meta-llama/llama-3.3-70b-instruct|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+68c76c9a-9b55-4cf4-826b-e21f08c71a00,P1-EN|meta-llama/llama-3.3-70b-instruct|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+373a6023-9348-4e08-836c-0fdb9c0a50ec,P1-EN|mistralai/mistral-large-2411|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+e918bee7-0498-4cc0-aef9-af83534e6618,P1-EN|mistralai/mistral-large-2411|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+017fd21e-cd17-44c7-a6e8-d38561d66d72,P1-EN|mistralai/mistral-large-2411|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+c0763da1-4175-4974-92d1-52306ee91cd7,P1-EN|qwen/qwen-2.5-72b-instruct|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+c6174efa-b176-499d-8dfa-75303c48fb87,P1-EN|qwen/qwen-2.5-72b-instruct|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+56565c2a-0ecb-4c6d-a96f-2111dd007897,P1-EN|qwen/qwen-2.5-72b-instruct|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+49b90b60-04fc-4ec8-8a25-918501d07719,P1-CS|openai/gpt-4o|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+fcabf0ac-0c29-4d84-87bc-241069de5415,P1-CS|openai/gpt-4o|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+dcc73794-d6e5-40fb-a0ed-e53eb30d57dc,P1-CS|openai/gpt-4o|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+0dbcba84-0663-402b-a91b-a9c017c1ea5e,P1-CS|anthropic/claude-3.5-sonnet|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+02f5fb73-644b-4105-9b2f-a4ec7f535be1,P1-CS|anthropic/claude-3.5-sonnet|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+b054e1bf-dbc1-4001-8bb2-8b64eb083bca,P1-CS|anthropic/claude-3.5-sonnet|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+b1661497-13c6-495d-b62d-918054a0815d,P1-CS|google/gemini-2.0-flash-001|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+f77db5e3-57f6-4284-8a0c-cbdc761b73ac,P1-CS|google/gemini-2.0-flash-001|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+b64a5f5a-db2e-4168-a9f2-3e1d93b0421e,P1-CS|google/gemini-2.0-flash-001|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+ff0ebf46-4d1f-4f1a-adb1-b846a6f76159,P1-CS|meta-llama/llama-3.3-70b-instruct|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+4635b421-2b0e-4964-8cc8-5e2ae9da770b,P1-CS|meta-llama/llama-3.3-70b-instruct|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+2a4c510b-be93-4f90-98f4-aff6c086df85,P1-CS|meta-llama/llama-3.3-70b-instruct|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+f8ea9cbf-2f6a-4848-a90f-2263e8b6e455,P1-CS|mistralai/mistral-large-2411|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+cba65b46-2438-45b3-95ab-2644fa16fb8c,P1-CS|mistralai/mistral-large-2411|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+ee4428a9-3f0f-4983-bdf4-bb0101cccc39,P1-CS|mistralai/mistral-large-2411|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+f03392e4-dda2-45ae-98a1-596ff1e33594,P1-CS|qwen/qwen-2.5-72b-instruct|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+a8f5a8e5-ca80-426c-81fe-b7362918c1df,P1-CS|qwen/qwen-2.5-72b-instruct|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+79a1c451-8219-4a99-9185-d1885f7a877a,P1-CS|qwen/qwen-2.5-72b-instruct|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+88fb656c-bc85-489f-aee0-b83c3e4585c2,P1-JA|openai/gpt-4o|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+1b1ab8a0-edc6-497f-bf50-28537a20c9cf,P1-JA|openai/gpt-4o|2,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+4dd66687-6f1e-419e-b60a-1edf8217d612,P1-JA|openai/gpt-4o|3,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+dc5e5daa-5042-4f3f-82b8-fed2c041406c,P1-JA|anthropic/claude-3.5-sonnet|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+007d18a6-59c3-47f3-b906-592e70398753,P1-JA|anthropic/claude-3.5-sonnet|2,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+d967bd64-c2bd-4a73-9811-9ce058d16739,P1-JA|anthropic/claude-3.5-sonnet|3,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+df0a1324-ad57-4ce9-883c-4b0a2a9e35f1,P1-JA|google/gemini-2.0-flash-001|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+153aab6d-3afa-4330-9d5d-6907f4d93ca1,P1-JA|google/gemini-2.0-flash-001|2,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+e3e487d3-7fc8-42eb-a7f0-98d78051e562,P1-JA|google/gemini-2.0-flash-001|3,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+5417ef5b-5572-44e4-b2cb-b11e808ce754,P1-EN|anthropic/claude-sonnet-4|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+1f563071-f592-4dfc-8d74-110b177c5736,P1-EN|anthropic/claude-sonnet-4|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+72c21c46-d885-45e7-8f92-ac132e642648,P1-EN|anthropic/claude-sonnet-4|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+4c4321ca-ebc4-4d68-9ce4-49bb75378fb2,P1-EN|google/gemini-2.0-flash-001|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+2f861b39-a31c-47c7-89ab-fb4c887e6d3d,P1-EN|google/gemini-2.0-flash-001|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+e05a16ab-a971-49cb-8e22-13e974d8c9c4,P1-EN|google/gemini-2.0-flash-001|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+ff588785-e51f-45c2-9f9b-9b601e7812e4,P1-EN|meta-llama/llama-3.3-70b-instruct|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+dba0048e-d26c-4863-8930-025b3792ebf9,P1-EN|meta-llama/llama-3.3-70b-instruct|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+0ef41bd7-7612-4240-973d-79245b720b21,P1-EN|meta-llama/llama-3.3-70b-instruct|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+0ea464d8-fd8d-4282-8267-729c4e90439b,P1-EN|mistralai/mistral-large-2411|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+743210d1-16d7-4438-95fa-598a78f6d8b1,P1-EN|mistralai/mistral-large-2411|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+a8e0f7a9-94fe-4b29-8e10-337b3d696579,P1-EN|mistralai/mistral-large-2411|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+0ba55c79-b964-4a94-a8a8-8766bbc1d4db,P1-EN|qwen/qwen-2.5-72b-instruct|1,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+e38ae4c8-1de9-4b4c-a239-4419be0810ad,P1-EN|qwen/qwen-2.5-72b-instruct|2,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+ca8e4129-ac6e-43d3-a09a-d743b9c18170,P1-JA|meta-llama/llama-3.3-70b-instruct|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+97d7cf9a-0d16-471f-abc1-bc67f16bae6d,P1-EN|qwen/qwen-2.5-72b-instruct|3,P1-EN,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?"
+60533d87-4601-4e43-a066-56d404795a0b,P1-CS|anthropic/claude-sonnet-4|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+f86903e2-0c6d-49c7-ae92-ec87a4603225,P1-CS|anthropic/claude-sonnet-4|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+fd7e4519-c71e-459c-bc98-13b83b3c60f9,P1-CS|anthropic/claude-sonnet-4|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+8c1e1045-90d8-4df0-b2e7-bca3c70f2283,P1-CS|google/gemini-2.0-flash-001|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+d05c4b23-91bb-46d1-b1e6-61e5b6c64255,P1-CS|google/gemini-2.0-flash-001|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+e6d4c26e-580b-424f-a246-b3448dbd657a,P1-CS|google/gemini-2.0-flash-001|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+c929ae0d-a13c-4f33-8e7a-a962ab17b2a3,P1-CS|meta-llama/llama-3.3-70b-instruct|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+5b40be19-1efa-420f-a0ff-ef08d139f9a0,P1-CS|meta-llama/llama-3.3-70b-instruct|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+7c9b0e92-4716-4b6c-9445-290458bd1110,P1-CS|meta-llama/llama-3.3-70b-instruct|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+f708d381-f038-430f-a644-d65485368bbf,P1-CS|mistralai/mistral-large-2411|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+cdd77444-d12a-4f9a-9b84-14e1a71bbd43,P1-CS|mistralai/mistral-large-2411|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+3dd0ac37-c0fa-4ddc-af32-1fd682d3ff76,P1-CS|mistralai/mistral-large-2411|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+1ec9eb29-8730-4845-a89a-6b0c48d68537,P1-CS|qwen/qwen-2.5-72b-instruct|1,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+b0acba3a-a095-4aab-8d0b-9d40368276a8,P1-CS|qwen/qwen-2.5-72b-instruct|2,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+29f8112f-2f76-4215-9344-77e302c20f0c,P1-CS|qwen/qwen-2.5-72b-instruct|3,P1-CS,"Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?"
+e28328e0-42c5-4dc0-b9b7-36c1e5d2a7a0,P1-JA|anthropic/claude-sonnet-4|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+67e07a77-74b2-4af8-b600-2a2b231567d3,P1-JA|anthropic/claude-sonnet-4|2,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+c087867a-4909-40a4-b0d8-e59870943fd7,P1-JA|anthropic/claude-sonnet-4|3,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+b7587e84-efb4-49eb-9dcd-6c4bf23da1bf,P1-JA|google/gemini-2.0-flash-001|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+3537d72c-5900-4093-96d2-e0d02ec11348,P1-JA|google/gemini-2.0-flash-001|2,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+5c01c050-bc50-483e-9e7f-c7abb30236ab,P1-JA|google/gemini-2.0-flash-001|3,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+cc8216bb-c87b-48d4-9f72-a6035dea6936,P1-JA|meta-llama/llama-3.3-70b-instruct|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+4ddd7ae1-f7a8-4269-b13c-cdb4241bd303,P1-JA|meta-llama/llama-3.3-70b-instruct|2,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+55a5064d-ccdd-4e4b-ab5a-d2f9727f7e22,P1-JA|meta-llama/llama-3.3-70b-instruct|3,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+dcdc6486-35c3-46dc-a380-bc1a77b432bd,P1-JA|mistralai/mistral-large-2411|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+b493708f-63b6-4b87-9437-3ad4e787c4f3,P1-JA|mistralai/mistral-large-2411|2,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+1d3143ca-c2a6-4781-aad7-860b7811af5f,P1-JA|mistralai/mistral-large-2411|3,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+012d6a58-ce1a-4254-aab4-db2f7ec4b58b,P1-JA|qwen/qwen-2.5-72b-instruct|1,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+30169d33-1e92-4f38-a70b-926149883854,P1-JA|qwen/qwen-2.5-72b-instruct|2,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"
+00d8c33b-3adb-468e-b989-49b7d6d6b921,P1-JA|qwen/qwen-2.5-72b-instruct|3,P1-JA,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。"

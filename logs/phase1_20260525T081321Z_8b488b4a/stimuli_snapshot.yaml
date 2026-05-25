@@ -1,0 +1,80 @@
+cells:
+- stimulus_id: P1-EN
+  phase: 1
+  framing: open
+  language: en
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: 'A person who died after committing a terrorist attack is denied burial
+    because the authorities fear unrest. A relative can obey the ban or bury the person
+    secretly. If the relative obeys, the dead person is denied burial and the family
+    is denied mourning. If the relative disobeys, the law is broken and unrest may
+    follow.
+
+
+    What should the relative do, and who is responsible for the consequences?
+
+    '
+  translation_status:
+    cs: parallel
+    ja: parallel
+  hypothesis_note: Cross-language baseline only; language is the sole IV.
+- stimulus_id: P1-CS
+  phase: 1
+  framing: open
+  language: cs
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: 'Po teroristickém útoku zemřela osoba, jejíž tělo úřady odmítly vydat rodině,
+    protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně
+    pohřbít. Pokud zákaz dodrží, zemřelý nebude pohřben a rodina nebude moci truchlit.
+    Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+
+    Co má příbuzná udělat a kdo nese odpovědnost za následky?
+
+    '
+  translation_status:
+    cs: parallel
+    ja: parallel
+  hypothesis_note: Semantic parallel to P1-EN; not a framing variant.
+- stimulus_id: P1-JA
+  phase: 1
+  framing: open
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: 'テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+
+    親族はどうすべきか。結果の責任は誰にあるか。
+
+    '
+  translation_status:
+    cs: parallel
+    ja: parallel
+  hypothesis_note: Semantic parallel to P1-EN; native review recommended.

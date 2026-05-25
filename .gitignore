@@ -10,9 +10,8 @@ __pycache__/
 .venv/
 venv/
 
-# --- Run logs (data); keep only README ---
-logs/*
-!logs/README.md
+# --- Run logs (data) shared as part of the corpus ---
+# (set to ignore by adding e.g. `logs/phase1_*/` if a future run is private)
 
 # --- Intermediate / per-run analysis outputs ---
 output/coding_queue/
