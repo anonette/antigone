@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "run_id": "phase1_20260525T135121Z_eab51040",
+  "title": "Phase 1 -- 10 most surprising findings",
+  "subtitle": "Six current multilingual LLMs (gpt-4o, claude-sonnet-4, gemini-2.0-flash, llama-3.3-70b, mistral-large-2411, qwen-2.5-72b) x three languages (EN, CS, JA) x three replicates of the burial-ban dilemma. 54 manually coded responses at temperature = 0.",
+  "headline": "Language shifts the model's verdict more than temperature noise does, but only on what is recommended -- not on how agency is staged in the reply itself.",
+  "findings": [
+    {
+      "id": 1,
+      "title": "Only one model is language-invariant",
+      "tag": "central_finding",
+      "summary": "5 of 6 models change their modal recommendation just because the prompt language changed -- identical facts, identical temperature, identical seed. Only mistral-large is invariant (compromise everywhere). gpt-4o, claude, gemini, llama, and qwen all shift their modal VAR-A across EN/CS/JA.",
+      "evidence": "modal_per_cell_var_a (rows: model, columns: EN/CS/JA, value: modal code)",
+      "related_chart": 5,
+      "implication": "Language alone, without any framing manipulation, moves the verdict in most current LLMs. The Phase 1 hypothesis (language = IV) is confirmed."
+    },
+    {
+      "id": 2,
+      "title": "Japanese is the most legalistic, not the most collectivist",
+      "tag": "counterintuitive",
+      "summary": "72% of all Japanese replies endorse legal_challenge (courts, dialogue with toukyoku, human-rights groups), versus 44% in Czech and 17% in English. Pre-registered intuition might say JA would pull toward affectedness or collective harmony; instead the model verdict is the most institutionally legalistic of the three.",
+      "evidence": "by_language.var_a -- ja: 13/18 legal_challenge, 3/18 undecided, 1 secret_bury, 1 compromise",
+      "related_chart": 1,
+      "implication": "When researchers expect 'cultural softness' in Japanese model output, they often get the opposite -- LLM Japanese reads like institutional pull, not communal yielding."
+    },
+    {
+      "id": 3,
+      "title": "Only Claude blames the deceased terrorist -- and only in English",
+      "tag": "model_x_language",
+      "summary": "Across 54 responses, only 3 cells code deceased as the primary responsibility locus (VAR-B). All three are Claude in English (P1-EN, all 3 replicates). The same Claude in Czech and Japanese behaves like every other model and blames authorities. This is Claude-specific moralizing that is itself language-conditional.",
+      "evidence": "by_model_language.var_b -- claude4 en: deceased x3; claude4 cs/ja: authorities",
+      "related_chart": 4,
+      "implication": "Model 'fingerprints' are language-conditional. A property of Claude may simply not exist when you query it in Czech."
+    },
+    {
+      "id": 4,
+      "title": "Llama in Japanese is the only cell that blames the relative",
+      "tag": "model_x_language",
+      "summary": "In 17 of 18 (model x language) cells, the reply stages authorities institutionally and assigns blame to authorities or distributed. The single exception: llama 3.3 in JA, which says 'kekka no sekinin wa shinzoku ni aru' -- the responsibility is on the relative. Two of three llama JA replicates code individualized / relative. No other model in any language does this.",
+      "evidence": "replicate_stability_var_a + by_model_language.var_b; llama3.3 ja r1,r3: relative; llama3.3 ja r2: distributed",
+      "related_chart": 4,
+      "implication": "Llama's tendency to wobble out of the institutional default appears specifically in Japanese -- which is the very language where everyone else converges hardest on institutional staging."
+    },
+    {
+      "id": 5,
+      "title": "Mistral at temperature 0 gave 3 different verdicts to the same Japanese prompt",
+      "tag": "methods_caveat",
+      "summary": "Same prompt, same model, same seed parameter, temperature = 0. Three independent calls returned three different action codes: r1 compromise, r2 legal_challenge, r3 undecided. This is direct evidence that OpenRouter providers ignore the seed parameter for non-OpenAI models.",
+      "evidence": "replicate_stability_var_a -- mistralL ja: n_unique = 3",
+      "related_chart": 7,
+      "implication": "The deterministic guarantee of temperature = 0 is a polite fiction at the provider edge. Several 'replicates' in our other cells are also not really independent samples. Phase 2 will switch to temperature = 0.3 to surface real variance."
+    },
+    {
+      "id": 6,
+      "title": "Only 1 of 54 responses endorses secret burial",
+      "tag": "central_finding",
+      "summary": "54 calls, 5 possible action codes, secret_bury is the explicit second option in the prompt. Across 6 models x 3 languages x 3 replicates, only ONE reply endorses it: qwen 2.5 in Japanese, replicate 3 -- 'missou wo sentaku suru koto ga rinriteki ni seitouka sareru' (secret burial is ethically justified). 53/54 = 98% of LLMs refuse the disobedience branch.",
+      "evidence": "by_language.var_a -- ja secret_bury: 1; all other cells: 0",
+      "related_chart": 1,
+      "implication": "Current LLMs pre-empt the binary they were given. Even when offered defiance on equal footing, they re-route to mediation."
+    },
+    {
+      "id": 7,
+      "title": "Pure obedience is also nearly absent -- except in Czech Llama",
+      "tag": "central_finding",
+      "summary": "Across 54 cells, 'obey' shows up exactly once: llama 3.3 P1-CS r3, which writes 'Pribuzna by se mela podridit zakazu'. The other two llama CS replicates code legal_challenge. Together with finding 6: the two explicitly offered options (obey, secret_bury) together account for ~4% of replies.",
+      "evidence": "by_language.var_a -- cs obey: 1; everywhere else: 0",
+      "related_chart": 1,
+      "implication": "Models do not actually answer the binary they are asked. They reframe the problem into a third option (legal_challenge / compromise / undecided)."
+    },
+    {
+      "id": 8,
+      "title": "Institutional staging is a universal cognitive default",
+      "tag": "central_finding",
+      "summary": "Regardless of model and language, 89% or more of replies stage authorities as the actor (VAR-D = institutional). This is independent of what the reply then recommends. Even replies that endorse compromise or legal_challenge typically narrate 'the authorities must decide', 'the authorities are responsible'.",
+      "evidence": "by_language.var_d -- en/cs: 100% institutional; ja: 89% institutional",
+      "related_chart": 3,
+      "implication": "The grammar of the reply is more universal than its content. Variation in VAR-A (action) sits on top of a shared institutional frame. Phase 2 deagentive prompts (C2, E2) target exactly this default."
+    },
+    {
+      "id": 9,
+      "title": "English is the hedging language",
+      "tag": "language_x_action",
+      "summary": "When asked in English, models are most likely to refuse to commit. 33% of EN replies are coded 'undecided' (engages with both options but refuses to rank). CS = 0%, JA = 17%.",
+      "evidence": "by_language.var_a -- en undecided: 6/18",
+      "related_chart": 1,
+      "implication": "The institutional grammars of English -- 'balancing', 'no single right answer', 'it depends on values' -- give the model a culturally available exit that Czech does not."
+    },
+    {
+      "id": 10,
+      "title": "Japanese is 3-4x shorter and 100% flattens stance",
+      "tag": "language_baseline",
+      "summary": "Median response length across all 6 models: EN > CS > JA. Claude writes 1,632 chars in EN and 472 in JA (3.5x ratio) for the same content. And on VAR-R (Japanese register mirroring): 18 of 18 JA responses flatten the prompt's stance into plain analyst Japanese (de aru chou). No model mirrors any Japanese stance, evidential, or aspect marker.",
+      "evidence": "response_length_median + by_language.var_r_ja -- 18/18 flattens_neutral",
+      "related_chart": 8,
+      "implication": "Sets the Phase 2 baseline. If J3 (family POV), J5 (toukyoku reportative), J9 (you da ne shared stance) also produce 100% flattening, the flattening hypothesis is strongly supported."
+    }
+  ],
+  "phase2_implications": [
+    {
+      "finding_id": 1,
+      "phase2_action": "Test mistral on C2 deagentive and E2 deagentive -- does deagentive grammar finally break the language-invariance?"
+    },
+    {
+      "finding_id": 3,
+      "phase2_action": "Run E2-E5 on Claude -- which English framing axis pushes Claude off the 'deceased did it' frame?"
+    },
+    {
+      "finding_id": 4,
+      "phase2_action": "Run J3 (V2 family POV) and J4 (V3 adversative passive) on llama -- does it amplify or reverse the relative-blame finding?"
+    },
+    {
+      "finding_id": 5,
+      "phase2_action": "Run all of Phase 2 at temperature = 0.3 (already wired via --temperature flag) to get genuine replicate variance."
+    },
+    {
+      "finding_id": 6,
+      "phase2_action": "Run C2 and E2 (deagentive). The missing agent may break the binary refusal -- does any model now endorse secret_bury when authorities are not named?"
+    },
+    {
+      "finding_id": 8,
+      "phase2_action": "C4 (family affectedness, ethical dative) and J3 (family POV) test whether the institutional default holds when the prompt foregrounds the family."
+    },
+    {
+      "finding_id": 10,
+      "phase2_action": "J3, J5, J9 each carry a distinct Japanese stance marker. Mirroring rate (VAR-R != flattens_neutral) is the Phase 2 Japanese dependent measure."
+    }
+  ]
+}

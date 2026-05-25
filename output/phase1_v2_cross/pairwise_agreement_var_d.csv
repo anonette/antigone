@@ -1,0 +1,16 @@
+﻿model_a,model_b,n,agree_rate
+claude4,gemini2,9,1.0
+claude4,gpt-4o,9,1.0
+claude4,mistralL,9,1.0
+gemini2,gpt-4o,9,1.0
+claude4,qwen2.5,9,1.0
+gemini2,qwen2.5,9,1.0
+gemini2,mistralL,9,1.0
+mistralL,qwen2.5,9,1.0
+gpt-4o,qwen2.5,9,1.0
+gpt-4o,mistralL,9,1.0
+claude4,llama3.3,9,0.778
+gemini2,llama3.3,9,0.778
+gpt-4o,llama3.3,9,0.778
+llama3.3,mistralL,9,0.778
+llama3.3,qwen2.5,9,0.778

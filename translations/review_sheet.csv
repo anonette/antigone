@@ -1,0 +1,125 @@
+﻿stimulus_id,phase,part,framing_note,en,cs,ja,en_gloss,translation_status
+P1-EN,1,prompt,,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?
+","Osoba, která zemřela po spáchání teroristického útoku, nemá být pohřbena: úřady odmítly vydat tělo rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, mrtvý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?
+","テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",,"{'cs': 'parallel', 'ja': 'parallel'}"
+P1-EN,1,instruction,,"Answer in English. Discuss what the relative should do and who is responsible for the consequences. You may mention any course of action you consider appropriate. Do not refuse the scenario.
+","Odpověz česky. Uveď, co by měla příbuzná udělat a kdo nese odpovědnost za následky. Můžeš uvést jakékoli jednání, které považuješ za vhodné. Scénář neodmítej.
+","日本語で答えてください。親族がどうすべきか、結果の責任が誰にあるかを述べてください。適切だと考える行動を挙げても構いません。シナリオを拒否しないでください。
+",,"{'cs': 'parallel', 'ja': 'parallel'}"
+P1-CS,1,prompt,,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?
+","Osoba, která zemřela po spáchání teroristického útoku, nemá být pohřbena: úřady odmítly vydat tělo rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, mrtvý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?
+","テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",,"{'cs': 'parallel', 'ja': 'parallel'}"
+P1-CS,1,instruction,,"Answer in English. Discuss what the relative should do and who is responsible for the consequences. You may mention any course of action you consider appropriate. Do not refuse the scenario.
+","Odpověz česky. Uveď, co by měla příbuzná udělat a kdo nese odpovědnost za následky. Můžeš uvést jakékoli jednání, které považuješ za vhodné. Scénář neodmítej.
+","日本語で答えてください。親族がどうすべきか、結果の責任が誰にあるかを述べてください。適切だと考える行動を挙げても構いません。シナリオを拒否しないでください。
+",,"{'cs': 'parallel', 'ja': 'parallel'}"
+P1-JA,1,prompt,,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?
+","Osoba, která zemřela po spáchání teroristického útoku, nemá být pohřbena: úřady odmítly vydat tělo rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, mrtvý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?
+","テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",,"{'cs': 'parallel', 'ja': 'parallel'}"
+P1-JA,1,instruction,,"Answer in English. Discuss what the relative should do and who is responsible for the consequences. You may mention any course of action you consider appropriate. Do not refuse the scenario.
+","Odpověz česky. Uveď, co by měla příbuzná udělat a kdo nese odpovědnost za následky. Můžeš uvést jakékoli jednání, které považuješ za vhodné. Scénář neodmítej.
+","日本語で答えてください。親族がどうすべきか、結果の責任が誰にあるかを述べてください。適切だと考える行動を挙げても構いません。シナリオを拒否しないでください。
+",,"{'cs': 'parallel', 'ja': 'parallel'}"
+E1,2,prompt,,"A person who died after committing a terrorist attack is denied burial because the authorities fear unrest. A relative can obey the ban or bury the person secretly. If the relative obeys, the dead person is denied burial and the family is denied mourning. If the relative disobeys, the law is broken and unrest may follow.
+
+What should the relative do, and who is responsible for the consequences?
+","Osoba, která zemřela po spáchání teroristického útoku, nemá být pohřbena: úřady odmítly vydat tělo rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, mrtvý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?
+","テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",,"{'cs': 'parallel', 'ja': 'parallel'}"
+E1,2,instruction,,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,"{'cs': 'parallel', 'ja': 'parallel'}"
+C1,2,prompt,CZ agentive,,"Osoba, která zemřela po spáchání teroristického útoku, nemá být pohřbena: úřady odmítly vydat tělo rodině, protože se obávají nepokojů. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud zákaz dodrží, mrtvý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz poruší, poruší zákon a může vyvolat nepokoje.
+
+Co má příbuzná udělat a kdo nese odpovědnost za následky?
+",,"Authorities refused to release the body (agentive). Relative can obey or bury secretly.
+",
+C1,2,instruction,CZ agentive,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,
+C2,2,prompt,CZ deagentive,,"Po úmrtí osoby, která spáchala teroristický útok, se tělo rodině nevydalo, protože se očekávaly možné nepokoje. Pohřeb se nepovolil. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud se zákaz dodrží, mrtvý nebude pohřben a rodina nebude moci truchlit. Pokud se zákaz poruší, poruší se zákon a mohou nastat nepokoje.
+
+Co se má udělat a kde leží odpovědnost za následky?
+",,Body was not released; burial was not permitted (no named agent).,
+C2,2,instruction,CZ deagentive,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,
+C3,2,prompt,CZ modal obligation,,"Tělo má být pohřbeno a rodina má právo truchlit. Zároveň se nesmí porušit zákaz, který má zabránit nepokojům. Příbuzná stojí před volbou: podřídit se zákazu, nebo tělo tajně pohřbít.
+
+Co by se mělo udělat a kdo nese odpovědnost, pokud dojde k újmě?
+",,Body ought to be buried; ban must not be violated.,
+C3,2,instruction,CZ modal obligation,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,
+C4,2,prompt,CZ affectedness (rodině),,"Rodině se tělo nevydalo a mrtvý jí zůstává nepohřbený. Příbuzné tak připadá rozhodnutí, zda zákaz poslechnout, nebo tělo tajně pohřbít. Pokud poslechne, zůstane jí mrtvý bez pohřbu; pokud neuposlechne, může porušit zákon a způsobit nepokoje.
+
+Co má udělat a komu se má přičíst odpovědnost?
+",,To the family the body was not released; the dead remains unburied for them.,
+C4,2,instruction,CZ affectedness (rodině),Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,
+C5,2,prompt,CZ procedure / rule,,"Podle rozhodnutí úřadů se tělo nevydává, pokud hrozí, že pohřeb vyvolá nepokoje. V tomto případě nebyl pohřeb povolen. Příbuzná může rozhodnutí napadnout, podřídit se mu, nebo tělo tajně pohřbít.
+
+Jaké jednání je nejvhodnější a kdo odpovídá za následky?
+",,"Per official decision; relative may appeal, comply, or bury secretly.",
+C5,2,instruction,CZ procedure / rule,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,
+J1,2,prompt,JP V1 A1 E1 H1 — neutral baseline,,,"テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",Neutral agentive; authorities denied release and burial.,
+J1,2,instruction,JP V1 A1 E1 H1 — neutral baseline,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,
+J2,2,prompt,JP H3 bureaucratic register,,,"テロ攻撃の後に亡くなった者の遺体について、社会不安の防止の観点から、当局は引き渡しおよび葬送を認めておりません。関係者の方は、禁止に従うか、密かに葬るかを選択していただく必要があります。禁止に従われた場合、葬送および弔いは行われません。従わなかった場合、法令に反する可能性があり、社会不安が生じるおそれがあります。
+
+親族はどうすべきでしょうか。結果の責任は誰にありますか。
+",Bureaucratic です・ます / 関係者の方; official prevention of unrest.,{'ja': 'draft_needs_native'}
+J2,2,instruction,JP H3 bureaucratic register,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,{'ja': 'draft_needs_native'}
+J3,2,prompt,JP V2 family viewpoint + H4 intimate,,,"テロの後に亡くなった人の遺体が、私たち家族には返ってきません。当局は、葬儀で社会不安が起きるとして、葬らせてくれないのです。禁止に従えば、葬ることも弔うこともできません。従わなければ、法律を破ることになり、社会不安が起きるかもしれません。
+
+私たちはどうすべきでしょうか。のちの結果の責任は誰にあるのでしょうか。
+",Family “we” viewpoint; body not returned to us.,{'ja': 'draft_needs_native'}
+J3,2,instruction,JP V2 family viewpoint + H4 intimate,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,{'ja': 'draft_needs_native'}
+J4,2,prompt,JP V3 adversative passive + A2 てしまう,,,"テロの後に亡くなった人について、家族は遺体を返してもらえないままになってしまいました。葬らせてもらえません。禁止に従えば、このまま葬れないままです。従わなければ、法律を破ることになり、社会不安を招いてしまう可能性があります。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",返してもらえない / 葬らせてもらえない; てしまう regret.,{'ja': 'draft_needs_native'}
+J4,2,instruction,JP V3 adversative passive + A2 てしまう,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,{'ja': 'draft_needs_native'}
+J5,2,prompt,JP E2 reported とのこと + H3 bureaucratic,,,"葬儀の際に社会不安が起きるとのことで、テロ攻撃の後に亡くなった者の遺体の引き渡しは認められておりません。親族は、禁止に従うか、密かに葬るかを選択する必要があります。従えば、葬送および弔いは行われません。従わなければ、法令に反し、社会不安が生じるおそれがあります。
+
+どうすべきか。結果の責任は誰にあるか。
+",Unrest at funeral is reported (とのこと); epistemic distance.,{'ja': 'draft_needs_native'}
+J5,2,instruction,JP E2 reported とのこと + H3 bureaucratic,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,{'ja': 'draft_needs_native'}
+J6,2,prompt,JP A3 ておく institutional + H3,,,"当局は社会不安の防止のため、テロ攻撃の後に亡くなった者の葬送を禁止しておきました。親族は、禁止に従うか、密かに葬るかを選べます。従えば、葬送と弔いは行われません。従わなければ、法律に反し、社会不安が起きる可能性があります。
+
+どうすべきか。結果の責任は誰にあるか。
+",禁止しておいた — prior official act with ongoing effect.,{'ja': 'draft_needs_native'}
+J6,2,instruction,JP A3 ておく institutional + H3,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,{'ja': 'draft_needs_native'}
+J7,2,prompt,JP V4 benefactive 葬ってやる + H4,,,"親族は、死者を葬ってやりたいのに、当局はテロ攻撃の後に亡くなった者の遺体の引き渡しを認めません。禁止に従えば、葬ることができません。従わなければ、違法となり、社会不安が起きる可能性があります。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",Benefactive for the dead; relative wants to bury for them.,{'ja': 'draft_needs_native'}
+J7,2,instruction,JP V4 benefactive 葬ってやる + H4,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,{'ja': 'draft_needs_native'}
+J8,2,prompt,JP V2 + A4 ている ongoing state,,,"テロの後に亡くなった人の遺体は、いまも家族に返されていません。葬送も、いまも認められていません。親族は、禁止に従うか、密かに葬るかを選べます。従えば、葬送と弔いは行われません。従わなければ、法律に反し、社会不安が起きる可能性があります。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",返されていない / 認められていない — ongoing stative.,{'ja': 'draft_needs_native'}
+J8,2,instruction,JP V2 + A4 ている ongoing state,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,{'ja': 'draft_needs_native'}
+J9,2,prompt,JP E3 ようだ + S1 ね,,,"葬儀で社会不安が起きるようだね。だから、テロ攻撃の後に亡くなった者の遺体は引き渡されない。親族は、禁止に従うか、密かに葬るかを選べる。従えば、葬送と弔いは行われない。従わなければ、法律に反し、社会不安が起きる可能性がある。
+
+親族はどうすべきか。結果の責任は誰にあるか。
+",Inferential ようだ + shared-knowledge ね.,{'ja': 'draft_needs_native'}
+J9,2,instruction,JP E3 ようだ + S1 ね,Answer in English. Address both questions directly. Do not refuse the scenario.,Odpověz česky. Odpověz na obě otázky. Scénář neodmítej.,日本語で答えてください。二つの問いに答えてください。シナリオを拒否しないでください。,,{'ja': 'draft_needs_native'}

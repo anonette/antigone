@@ -1,0 +1,10 @@
+# Stimulus registry index
+# Research: RESEARCH.md
+#
+# Phase 1 (open):  stimuli_phase1.yaml  — 3 cells: P1-EN, P1-CS, P1-JA
+# Phase 2 (framed): stimuli_phase2.yaml  — 15 cells: E1, C1–C5, J1–J9
+#
+# Run Phase 1 first. Use Phase 2 only after baseline language comparison.
+
+phase_1_file: stimuli_phase1.yaml
+phase_2_file: stimuli_phase2.yaml

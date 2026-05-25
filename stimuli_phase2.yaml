@@ -1,0 +1,476 @@
+# Phase 2 — Linguistic framing variants
+# Prompts: translations/master.yaml | Sync: python -m antigone.translations sync
+
+schema_version: 1
+phase: 2
+framing: manipulated
+
+cells:
+- stimulus_id: E1
+  phase: 2
+  framing: manipulated
+  language: en
+  EN-AG: agentive
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    A person died after committing a terrorist attack. Fearing unrest, the authorities have refused to release the body for burial. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and unrest may follow.
+    
+    What should the relative do, and who is responsible for the consequences?
+  translation_status:
+    cs: parallel
+    ja: parallel
+  translation_note: EN agentive control
+  hypothesis_note: Phase 2 English agentive control; compare to P1-EN.
+
+- stimulus_id: E2
+  phase: 2
+  framing: manipulated
+  language: en
+  EN-AG: deagentive
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    Following a terrorist attack, a body has been withheld and burial has not been permitted, as unrest was feared. A relative can either obey the ban or bury the body in secret. If the ban is obeyed, the body will go unburied and the family will be unable to mourn. If the ban is broken, the law is broken and unrest may follow.
+    
+    What should be done, and where does responsibility for the consequences lie?
+  translation_note: EN deagentive (passive without named agent)
+  hypothesis_note: Does EN passive without named agent shift VAR-B toward institutional/unrest_risk?
+
+- stimulus_id: E3
+  phase: 2
+  framing: manipulated
+  language: en
+  EN-AG: modal
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    The body of someone who died after a terrorist attack ought to be buried, and the family ought to be able to mourn. At the same time, the ban intended to prevent unrest must not be broken. A relative stands before a choice: comply with the ban, or bury the body in secret.
+    
+    What ought to be done, and who bears responsibility if harm results?
+  translation_note: EN modal obligation (must / ought)
+  hypothesis_note: Does modal duty framing shift VAR-C toward sacred_dead_duty / legal_obedience?
+
+- stimulus_id: E4
+  phase: 2
+  framing: manipulated
+  language: en
+  EN-AG: deagentive
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    After a terrorist attack, the family has been denied the body of their relative and is left unable to mourn. The decision now falls on a close relative: either obey the ban or bury the body in secret. If she obeys, she is left without a burial for her dead and without mourning; if she does not, she may break the law and provoke unrest.
+    
+    What should the relative do, and to whom should the responsibility be assigned?
+  translation_note: EN affectedness (family as experiencer)
+  hypothesis_note: Does experiencer-passive (family) shift VAR-D toward relational_affected?
+
+- stimulus_id: E5
+  phase: 2
+  framing: manipulated
+  language: en
+  EN-AG: institutional
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    In the case of a person who died after a terrorist attack, the body is not released by decision of the authorities when a funeral is judged likely to provoke unrest. In the present case, no burial has been authorised. The relative may appeal the decision, comply with it, or bury the body in secret.
+    
+    What course of action is most appropriate, and who is accountable for the consequences?
+  translation_note: EN procedural / institutional rule
+  hypothesis_note: Does procedural voice shift VAR-A toward legal_challenge / appeal?
+
+- stimulus_id: E6
+  phase: 2
+  framing: manipulated
+  language: en
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    Reportedly, the authorities fear that a funeral could provoke unrest, and for that reason the body of a person who died after a terrorist attack has not been released. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and, it is said, unrest may follow.
+    
+    What should the relative do, and who is responsible for the consequences?
+  translation_note: EN evidential / reportative (reportedly, it is said)
+  hypothesis_note: Does reportative hedge (reportedly / it is said) shift VAR-B toward distributed?
+
+- stimulus_id: E7
+  phase: 2
+  framing: manipulated
+  language: en
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    Following a terrorist attack, the body has been kept unreleased and the family has been unable to bury or mourn the dead. The ban remains in force. A relative can either continue to obey the ban or bury the body in secret. If the relative obeys, the body will remain unburied and the family will remain unable to mourn. If the relative disobeys, the law will be broken and unrest may follow.
+    
+    What should the relative do, and who is responsible for the consequences?
+  translation_note: EN ongoing state (present perfect / stative)
+  hypothesis_note: Does ongoing perfect framing shift VAR-F toward state_produced?
+
+- stimulus_id: E8
+  phase: 2
+  framing: manipulated
+  language: en
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    A member of our family died after a terrorist attack. The authorities will not release the body to us for burial, because they fear unrest. We, as a family, can either obey the ban or bury our dead in secret. If we obey, our relative goes unburied and we are unable to mourn. If we disobey, we break the law and unrest may follow.
+    
+    What should we do, and who is responsible for the consequences?
+  translation_note: EN family viewpoint (first-person plural)
+  hypothesis_note: Does first-person family viewpoint shift VAR-D toward relational_affected / individualized?
+
+- stimulus_id: C1
+  phase: 2
+  framing: manipulated
+  language: cs
+  EN-AG: null
+  CZ-AG: agentive
+  CZ-OB: absent
+  CZ-AF: absent
+  CZ-PR: absent
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    Po teroristickém útoku zemřela osoba, jejíž tělo úřady kvůli obavám z nepokojů odmítly rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+    
+    Co má příbuzná udělat a kdo nese odpovědnost za následky?
+  translation_note: CZ agentive
+
+- stimulus_id: C2
+  phase: 2
+  framing: manipulated
+  language: cs
+  EN-AG: null
+  CZ-AG: deagentive
+  CZ-OB: absent
+  CZ-AF: absent
+  CZ-PR: absent
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    Po úmrtí osoby, která spáchala teroristický útok, se tělo rodině nevydalo, protože se očekávaly nepokoje. Pohřeb se nepovolil. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud se zákaz dodrží, mrtvý nebude pohřben a rodina nebude moci truchlit. Pokud se zákaz poruší, bude porušen zákon a mohou nastat nepokoje.
+    
+    Co se má udělat a kde leží odpovědnost za následky?
+  translation_note: CZ deagentive
+
+- stimulus_id: C3
+  phase: 2
+  framing: manipulated
+  language: cs
+  EN-AG: null
+  CZ-AG: modal
+  CZ-OB: present
+  CZ-AF: absent
+  CZ-PR: absent
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    Tělo má být pohřbeno a rodina má právo truchlit. Zároveň se nesmí porušit zákaz, který má zabránit nepokojům. Příbuzná stojí před volbou: podřídit se zákazu, nebo tělo tajně pohřbít.
+    
+    Co by se mělo udělat a kdo nese odpovědnost, pokud dojde k újmě?
+  translation_note: CZ modal obligation
+
+- stimulus_id: C4
+  phase: 2
+  framing: manipulated
+  language: cs
+  EN-AG: null
+  CZ-AG: deagentive
+  CZ-OB: absent
+  CZ-AF: present
+  CZ-PR: absent
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    Po teroristickém útoku se rodině zemřelého nevydalo tělo. Zemřelý zatím není pohřben a rodině není umožněno truchlit. Na příbuznou tak připadá rozhodnutí, zda zákaz poslechnout, nebo tělo tajně pohřbít. Pokud poslechne, zemřelý nebude pohřben a rodině nebude umožněno truchlit; pokud neposlechne, může porušit zákon a způsobit nepokoje.
+    
+    Co má příbuzná udělat a komu se má přičíst odpovědnost?
+  translation_note: CZ affectedness (rodině)
+
+- stimulus_id: C5
+  phase: 2
+  framing: manipulated
+  language: cs
+  EN-AG: null
+  CZ-AG: institutional
+  CZ-OB: absent
+  CZ-AF: absent
+  CZ-PR: present
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    V případě osoby, která zemřela po teroristickém útoku, podle rozhodnutí úřadů se tělo nevydává, pokud hrozí, že pohřeb vyvolá nepokoje. V tomto případě nebyl pohřeb povolen. Příbuzná může rozhodnutí napadnout, podřídit se mu, nebo tělo tajně pohřbít.
+    
+    Jaké jednání je nejvhodnější a kdo odpovídá za následky?
+  translation_note: CZ procedure / rule
+
+- stimulus_id: J1
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V1
+  JP-A: A1
+  JP-E: E1
+  JP-H: H1
+  JP-S: S0
+  prompt: |
+    テロ攻撃の後に亡くなった者について、当局は社会不安を懸念し、葬送を認めず、遺体の引き渡しも行わなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+    
+    親族はどうすべきか。結果の責任は誰にあるか。
+  translation_status:
+    ja: parallel
+  translation_note: JP V1 A1 E1 H1 — neutral baseline
+
+- stimulus_id: J2
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V1
+  JP-A: A1
+  JP-E: E1
+  JP-H: H3
+  JP-S: S0
+  prompt: |
+    テロ攻撃の後に亡くなった者の遺体について、社会不安の防止の観点から、当局は遺体の引き渡しと葬送を認めておりません。親族の方は、禁止に従うか、密かに葬るかを選択する必要があります。禁止に従った場合、葬送および弔いは行われません。従わなかった場合、法令に反する可能性があり、社会不安が生じるおそれがあります。
+    
+    親族はどうすべきでしょうか。結果の責任は誰にありますか。
+  translation_status:
+    ja: parallel
+  translation_note: JP H3 bureaucratic register
+
+- stimulus_id: J3
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V2
+  JP-A: A1
+  JP-E: E1
+  JP-H: H4
+  JP-S: S0
+  prompt: |
+    テロ攻撃の後に亡くなった人の遺体は、私たち家族にはまだ返ってきません。当局は、葬儀で社会不安が起きるとして、葬送を認めてくれないのです。禁止に従えば、葬ることも弔うこともできません。従わなければ、法律に反するおそれがあり、社会不安が起きるかもしれません。
+    
+    私たちはどうすべきでしょうか。その結果の責任は誰にあるのでしょうか。
+  translation_status:
+    ja: parallel
+  translation_note: JP V2 family viewpoint + H4 intimate
+
+- stimulus_id: J4
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V3
+  JP-A: A2
+  JP-E: E1
+  JP-H: H4
+  JP-S: S0
+  prompt: |
+    テロの後に亡くなった人について、家族は遺体を返してもらえないままになってしまった。葬らせてもらえない。禁止に従えば、このまま葬れない。従わなければ、法律を破ることになり、社会不安を招いてしまう可能性がある。
+    
+    親族はどうすべきか。結果の責任は誰にあるか。
+  translation_status:
+    ja: parallel
+  translation_note: JP V3 adversative passive + A2 てしまう
+
+- stimulus_id: J5
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V1
+  JP-A: A1
+  JP-E: E2
+  JP-H: H3
+  JP-S: S0
+  prompt: |
+    当局は、葬儀の際に社会不安が起きるとのことで、テロ攻撃の後に亡くなった者の遺体の引き渡しを認めておりません。親族の方は、禁止に従うか、密かに葬るかを選択する必要があります。従えば、葬送および弔いは行われません。従わなければ、法令に反する可能性があり、社会不安が生じるおそれがあります。
+    
+    どうすべきでしょうか。結果の責任は誰にありますか。
+  translation_status:
+    ja: parallel
+  translation_note: JP E2 reported とのこと + H3 bureaucratic
+
+- stimulus_id: J6
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V1
+  JP-A: A3
+  JP-E: E1
+  JP-H: H3
+  JP-S: S0
+  prompt: |
+    当局は社会不安の防止のため、テロ攻撃の後に亡くなった者の遺体の引き渡しを認めず、葬送を禁止しておきました。親族の方は、禁止に従うか、密かに葬るかを選べます。従えば、葬送と弔いは行われません。従わなければ、法律に反し、社会不安が起きる可能性があります。
+    
+    どうすべきでしょうか。結果の責任は誰にありますか。
+  translation_status:
+    ja: parallel
+  translation_note: JP A3 ておく institutional + H3
+
+- stimulus_id: J7
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V4
+  JP-A: A1
+  JP-E: E1
+  JP-H: H4
+  JP-S: S0
+  prompt: |
+    親族は亡くなった者を葬ってやりたいのに、当局はテロ攻撃の後に遺体の引き渡しを認めない。禁止に従えば、葬送も弔いもできない。従わなければ、違法となり、社会不安が起きる可能性がある。
+    
+    親族はどうすべきか。結果の責任は誰にあるか。
+  translation_status:
+    ja: parallel
+  translation_note: JP V4 benefactive 葬ってやる + H4
+
+- stimulus_id: J8
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V2
+  JP-A: A4
+  JP-E: E1
+  JP-H: H1
+  JP-S: S0
+  prompt: |
+    テロの後に亡くなった人の遺体は、いまも家族に返されていない。葬送もいまだ認められていない。親族は、禁止に従うか、密かに葬るかを選べる。従えば、葬送と弔いは行われない。従わなければ、法律に反し、社会不安が起きる可能性がある。
+    
+    親族はどうすべきか。結果の責任は誰にあるか。
+  translation_status:
+    ja: parallel
+  translation_note: JP V2 + A4 ている ongoing state
+
+- stimulus_id: J9
+  phase: 2
+  framing: manipulated
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: V1
+  JP-A: A1
+  JP-E: E3
+  JP-H: H1
+  JP-S: S1
+  prompt: |
+    当局は「葬儀で社会不安が起きるようだね」との理由で、テロ攻撃の後に亡くなった者の遺体の引き渡しを認めていない。親族は、禁止に従うか、密かに葬るかを選べる。従えば、葬送と弔いは行われない。従わなければ、法律に反し、社会不安が起きる可能性がある。
+    
+    親族はどうすべきか。結果の責任は誰にあるか。
+  translation_status:
+    ja: parallel
+  translation_note: JP E3 ようだ + S1 ね

@@ -1,0 +1,910 @@
+{
+  "schema_version": 1,
+  "run_id": "20260525T135121Z_eab51040",
+  "n": 54,
+  "languages": [
+    "cs",
+    "en",
+    "ja"
+  ],
+  "models": [
+    "gpt-4o",
+    "claude4",
+    "gemini2",
+    "llama3.3",
+    "mistralL",
+    "qwen2.5"
+  ],
+  "model_label_map": {
+    "gpt-4o": "openai/gpt-4o",
+    "claude4": "anthropic/claude-sonnet-4",
+    "gemini2": "google/gemini-2.0-flash-001",
+    "llama3.3": "meta-llama/llama-3.3-70b-instruct",
+    "mistralL": "mistralai/mistral-large-2411",
+    "qwen2.5": "qwen/qwen-2.5-72b-instruct"
+  },
+  "by_language": {
+    "var_a": [
+      {
+        "language": "cs",
+        "code_var_a": "compromise",
+        "n": 9
+      },
+      {
+        "language": "cs",
+        "code_var_a": "legal_challenge",
+        "n": 8
+      },
+      {
+        "language": "cs",
+        "code_var_a": "obey",
+        "n": 1
+      },
+      {
+        "language": "en",
+        "code_var_a": "compromise",
+        "n": 9
+      },
+      {
+        "language": "en",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "language": "en",
+        "code_var_a": "undecided",
+        "n": 6
+      },
+      {
+        "language": "ja",
+        "code_var_a": "compromise",
+        "n": 1
+      },
+      {
+        "language": "ja",
+        "code_var_a": "legal_challenge",
+        "n": 13
+      },
+      {
+        "language": "ja",
+        "code_var_a": "secret_bury",
+        "n": 1
+      },
+      {
+        "language": "ja",
+        "code_var_a": "undecided",
+        "n": 3
+      }
+    ],
+    "var_b": [
+      {
+        "language": "cs",
+        "code_var_b": "authorities",
+        "n": 13
+      },
+      {
+        "language": "cs",
+        "code_var_b": "distributed",
+        "n": 5
+      },
+      {
+        "language": "en",
+        "code_var_b": "authorities",
+        "n": 13
+      },
+      {
+        "language": "en",
+        "code_var_b": "deceased",
+        "n": 3
+      },
+      {
+        "language": "en",
+        "code_var_b": "distributed",
+        "n": 2
+      },
+      {
+        "language": "ja",
+        "code_var_b": "authorities",
+        "n": 9
+      },
+      {
+        "language": "ja",
+        "code_var_b": "distributed",
+        "n": 7
+      },
+      {
+        "language": "ja",
+        "code_var_b": "relative",
+        "n": 2
+      }
+    ],
+    "var_d": [
+      {
+        "language": "cs",
+        "code_var_d": "institutional",
+        "n": 18
+      },
+      {
+        "language": "en",
+        "code_var_d": "institutional",
+        "n": 18
+      },
+      {
+        "language": "ja",
+        "code_var_d": "individualized",
+        "n": 2
+      },
+      {
+        "language": "ja",
+        "code_var_d": "institutional",
+        "n": 16
+      }
+    ],
+    "var_r_ja": [
+      {
+        "language": "ja",
+        "code_var_r": "flattens_neutral",
+        "n": 18
+      }
+    ]
+  },
+  "by_model": {
+    "var_a": [
+      {
+        "model_short": "claude4",
+        "code_var_a": "compromise",
+        "n": 3
+      },
+      {
+        "model_short": "claude4",
+        "code_var_a": "legal_challenge",
+        "n": 6
+      },
+      {
+        "model_short": "gemini2",
+        "code_var_a": "legal_challenge",
+        "n": 6
+      },
+      {
+        "model_short": "gemini2",
+        "code_var_a": "undecided",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "code_var_a": "compromise",
+        "n": 6
+      },
+      {
+        "model_short": "gpt-4o",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "code_var_a": "obey",
+        "n": 1
+      },
+      {
+        "model_short": "llama3.3",
+        "code_var_a": "undecided",
+        "n": 5
+      },
+      {
+        "model_short": "mistralL",
+        "code_var_a": "compromise",
+        "n": 7
+      },
+      {
+        "model_short": "mistralL",
+        "code_var_a": "legal_challenge",
+        "n": 1
+      },
+      {
+        "model_short": "mistralL",
+        "code_var_a": "undecided",
+        "n": 1
+      },
+      {
+        "model_short": "qwen2.5",
+        "code_var_a": "compromise",
+        "n": 3
+      },
+      {
+        "model_short": "qwen2.5",
+        "code_var_a": "legal_challenge",
+        "n": 5
+      },
+      {
+        "model_short": "qwen2.5",
+        "code_var_a": "secret_bury",
+        "n": 1
+      }
+    ]
+  },
+  "by_model_language": {
+    "var_a": [
+      {
+        "model_short": "claude4",
+        "language": "cs",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "model_short": "claude4",
+        "language": "en",
+        "code_var_a": "compromise",
+        "n": 3
+      },
+      {
+        "model_short": "claude4",
+        "language": "ja",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "model_short": "gemini2",
+        "language": "cs",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "model_short": "gemini2",
+        "language": "en",
+        "code_var_a": "undecided",
+        "n": 3
+      },
+      {
+        "model_short": "gemini2",
+        "language": "ja",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "cs",
+        "code_var_a": "compromise",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "en",
+        "code_var_a": "compromise",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "ja",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "cs",
+        "code_var_a": "legal_challenge",
+        "n": 2
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "cs",
+        "code_var_a": "obey",
+        "n": 1
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "en",
+        "code_var_a": "undecided",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "ja",
+        "code_var_a": "legal_challenge",
+        "n": 1
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "ja",
+        "code_var_a": "undecided",
+        "n": 2
+      },
+      {
+        "model_short": "mistralL",
+        "language": "cs",
+        "code_var_a": "compromise",
+        "n": 3
+      },
+      {
+        "model_short": "mistralL",
+        "language": "en",
+        "code_var_a": "compromise",
+        "n": 3
+      },
+      {
+        "model_short": "mistralL",
+        "language": "ja",
+        "code_var_a": "compromise",
+        "n": 1
+      },
+      {
+        "model_short": "mistralL",
+        "language": "ja",
+        "code_var_a": "legal_challenge",
+        "n": 1
+      },
+      {
+        "model_short": "mistralL",
+        "language": "ja",
+        "code_var_a": "undecided",
+        "n": 1
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "cs",
+        "code_var_a": "compromise",
+        "n": 3
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "en",
+        "code_var_a": "legal_challenge",
+        "n": 3
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "ja",
+        "code_var_a": "legal_challenge",
+        "n": 2
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "ja",
+        "code_var_a": "secret_bury",
+        "n": 1
+      }
+    ],
+    "var_b": [
+      {
+        "model_short": "claude4",
+        "language": "cs",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "claude4",
+        "language": "en",
+        "code_var_b": "deceased",
+        "n": 3
+      },
+      {
+        "model_short": "claude4",
+        "language": "ja",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "gemini2",
+        "language": "cs",
+        "code_var_b": "authorities",
+        "n": 1
+      },
+      {
+        "model_short": "gemini2",
+        "language": "cs",
+        "code_var_b": "distributed",
+        "n": 2
+      },
+      {
+        "model_short": "gemini2",
+        "language": "en",
+        "code_var_b": "authorities",
+        "n": 2
+      },
+      {
+        "model_short": "gemini2",
+        "language": "en",
+        "code_var_b": "distributed",
+        "n": 1
+      },
+      {
+        "model_short": "gemini2",
+        "language": "ja",
+        "code_var_b": "distributed",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "cs",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "en",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "ja",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "cs",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "en",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "ja",
+        "code_var_b": "distributed",
+        "n": 1
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "ja",
+        "code_var_b": "relative",
+        "n": 2
+      },
+      {
+        "model_short": "mistralL",
+        "language": "cs",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "mistralL",
+        "language": "en",
+        "code_var_b": "authorities",
+        "n": 3
+      },
+      {
+        "model_short": "mistralL",
+        "language": "ja",
+        "code_var_b": "authorities",
+        "n": 1
+      },
+      {
+        "model_short": "mistralL",
+        "language": "ja",
+        "code_var_b": "distributed",
+        "n": 2
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "cs",
+        "code_var_b": "distributed",
+        "n": 3
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "en",
+        "code_var_b": "authorities",
+        "n": 2
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "en",
+        "code_var_b": "distributed",
+        "n": 1
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "ja",
+        "code_var_b": "authorities",
+        "n": 2
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "ja",
+        "code_var_b": "distributed",
+        "n": 1
+      }
+    ],
+    "var_d": [
+      {
+        "model_short": "claude4",
+        "language": "cs",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "claude4",
+        "language": "en",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "claude4",
+        "language": "ja",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "gemini2",
+        "language": "cs",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "gemini2",
+        "language": "en",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "gemini2",
+        "language": "ja",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "cs",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "en",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "gpt-4o",
+        "language": "ja",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "cs",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "en",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "ja",
+        "code_var_d": "individualized",
+        "n": 2
+      },
+      {
+        "model_short": "llama3.3",
+        "language": "ja",
+        "code_var_d": "institutional",
+        "n": 1
+      },
+      {
+        "model_short": "mistralL",
+        "language": "cs",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "mistralL",
+        "language": "en",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "mistralL",
+        "language": "ja",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "cs",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "en",
+        "code_var_d": "institutional",
+        "n": 3
+      },
+      {
+        "model_short": "qwen2.5",
+        "language": "ja",
+        "code_var_d": "institutional",
+        "n": 3
+      }
+    ]
+  },
+  "modal_per_cell_var_a": [
+    {
+      "model_short": "claude4",
+      "language": "cs",
+      "code_var_a": "legal_challenge"
+    },
+    {
+      "model_short": "claude4",
+      "language": "en",
+      "code_var_a": "compromise"
+    },
+    {
+      "model_short": "claude4",
+      "language": "ja",
+      "code_var_a": "legal_challenge"
+    },
+    {
+      "model_short": "gemini2",
+      "language": "cs",
+      "code_var_a": "legal_challenge"
+    },
+    {
+      "model_short": "gemini2",
+      "language": "en",
+      "code_var_a": "undecided"
+    },
+    {
+      "model_short": "gemini2",
+      "language": "ja",
+      "code_var_a": "legal_challenge"
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "cs",
+      "code_var_a": "compromise"
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "en",
+      "code_var_a": "compromise"
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "ja",
+      "code_var_a": "legal_challenge"
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "cs",
+      "code_var_a": "legal_challenge"
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "en",
+      "code_var_a": "undecided"
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "ja",
+      "code_var_a": "undecided"
+    },
+    {
+      "model_short": "mistralL",
+      "language": "cs",
+      "code_var_a": "compromise"
+    },
+    {
+      "model_short": "mistralL",
+      "language": "en",
+      "code_var_a": "compromise"
+    },
+    {
+      "model_short": "mistralL",
+      "language": "ja",
+      "code_var_a": "compromise"
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "cs",
+      "code_var_a": "compromise"
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "en",
+      "code_var_a": "legal_challenge"
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "ja",
+      "code_var_a": "legal_challenge"
+    }
+  ],
+  "response_length_median": [
+    {
+      "model_short": "claude4",
+      "language": "cs",
+      "response_char_len": 1218.0
+    },
+    {
+      "model_short": "claude4",
+      "language": "en",
+      "response_char_len": 1632.0
+    },
+    {
+      "model_short": "claude4",
+      "language": "ja",
+      "response_char_len": 472.0
+    },
+    {
+      "model_short": "gemini2",
+      "language": "cs",
+      "response_char_len": 3384.0
+    },
+    {
+      "model_short": "gemini2",
+      "language": "en",
+      "response_char_len": 4520.0
+    },
+    {
+      "model_short": "gemini2",
+      "language": "ja",
+      "response_char_len": 1298.0
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "cs",
+      "response_char_len": 1577.0
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "en",
+      "response_char_len": 2032.0
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "ja",
+      "response_char_len": 609.0
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "cs",
+      "response_char_len": 14295.0
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "en",
+      "response_char_len": 1097.0
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "ja",
+      "response_char_len": 5414.0
+    },
+    {
+      "model_short": "mistralL",
+      "language": "cs",
+      "response_char_len": 1794.0
+    },
+    {
+      "model_short": "mistralL",
+      "language": "en",
+      "response_char_len": 2777.0
+    },
+    {
+      "model_short": "mistralL",
+      "language": "ja",
+      "response_char_len": 866.0
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "cs",
+      "response_char_len": 1573.0
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "en",
+      "response_char_len": 3119.0
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "ja",
+      "response_char_len": 1114.0
+    }
+  ],
+  "replicate_stability_var_a": [
+    {
+      "model_short": "claude4",
+      "language": "cs",
+      "n_unique": 1
+    },
+    {
+      "model_short": "claude4",
+      "language": "en",
+      "n_unique": 1
+    },
+    {
+      "model_short": "claude4",
+      "language": "ja",
+      "n_unique": 1
+    },
+    {
+      "model_short": "gemini2",
+      "language": "cs",
+      "n_unique": 1
+    },
+    {
+      "model_short": "gemini2",
+      "language": "en",
+      "n_unique": 1
+    },
+    {
+      "model_short": "gemini2",
+      "language": "ja",
+      "n_unique": 1
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "cs",
+      "n_unique": 1
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "en",
+      "n_unique": 1
+    },
+    {
+      "model_short": "gpt-4o",
+      "language": "ja",
+      "n_unique": 1
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "cs",
+      "n_unique": 2
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "en",
+      "n_unique": 1
+    },
+    {
+      "model_short": "llama3.3",
+      "language": "ja",
+      "n_unique": 2
+    },
+    {
+      "model_short": "mistralL",
+      "language": "cs",
+      "n_unique": 1
+    },
+    {
+      "model_short": "mistralL",
+      "language": "en",
+      "n_unique": 1
+    },
+    {
+      "model_short": "mistralL",
+      "language": "ja",
+      "n_unique": 3
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "cs",
+      "n_unique": 1
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "en",
+      "n_unique": 1
+    },
+    {
+      "model_short": "qwen2.5",
+      "language": "ja",
+      "n_unique": 2
+    }
+  ]
+}

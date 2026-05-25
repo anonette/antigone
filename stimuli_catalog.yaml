@@ -1,0 +1,284 @@
+# Stimulus reference catalog — labels and descriptions for docs, logs, and Lovable UI.
+# Prompt text remains in stimuli_phase1.yaml / stimuli_phase2.yaml.
+# Regenerate share/stimuli_reference.json: python scripts/build_stimuli_reference.py
+
+schema_version: 1
+
+page:
+  title: Stimulus reference
+  subtitle: Institutional grammars of responsibility
+  research_question: >-
+    How does each language shape who acts, who is blamed, and what is recommended
+    — before the model gives a clear answer?
+  intro_en: |
+    The burial-ban dilemma in language baselines and framing cells. After a terrorist attack,
+    authorities withhold a body; a relative may obey the ban or bury secretly. Facts are fixed;
+    only linguistic form changes across cells.
+    **Imported runs** show prompt text from `prompts_audit.csv` / ingest payloads and override
+    this seed catalog where available.
+  intro_cs: |
+    Dilema zákazu pohřbu ve **jazykových baseline** (fáze 1) a ve **framovacích buňkách** (fáze 2).
+    Stejný příběh; mění se jen formulace věty (gramatika, perspektiva, register).
+    U **importovaného běhu** má přednost text z `prompts_audit.csv` / ingestu před tímto seed katalogem.
+
+phase1_summary_en: |
+  Phase 1 — three cells (P1-EN, P1-CS, P1-JA). Same scenario, natural syntax per language.
+  Independent variable = language only. Compare languages to each other.
+phase1_summary_cs: |
+  Fáze 1 — tři stimuly (P1-EN, P1-CS, P1-JA). Stejná situace, běžná syntax v daném jazyce.
+  Nezávislá proměnná = pouze jazyk. Porovnávejte jazyky navzájem.
+
+phase2_summary_en: |
+  Phase 2 — framed cells within one language. Compare each cell to its same-language Phase 1
+  baseline (baseline_stimulus_id): C* → P1-CS, J* → P1-JA, E1 → P1-EN.
+phase2_summary_cs: |
+  Fáze 2 — varianty formulace v rámci jednoho jazyka. Každou buňku porovnávejte s baseline
+  stejného jazyka z fáze 1: C* → P1-CS, J* → P1-JA, E1 → P1-EN.
+
+cells:
+  P1-EN:
+    phase: 1
+    language: en
+    label: P1 — English baseline
+    description_en: Open cross-language baseline; natural English agentive syntax. Language is the sole IV.
+    description_cs: Výchozí anglická verze; běžná agentivní syntax. Jediná manipulace = jazyk (fáze 1).
+    baseline_stimulus_id: P1-EN
+    compare_to: null
+
+  P1-CS:
+    phase: 1
+    language: cs
+    label: P1 — Czech baseline
+    description_en: Semantic parallel to P1-EN; agentive Czech (authorities refused to release the body).
+    description_cs: Sémantická paralela k P1-EN; agentivní čeština (úřady odmítly vydat tělo rodině).
+    baseline_stimulus_id: P1-CS
+    compare_to: null
+
+  P1-JA:
+    phase: 1
+    language: ja
+    label: P1 — Japanese baseline
+    description_en: Semantic parallel to P1-EN; neutral Japanese narrative. Native review recommended.
+    description_cs: Sémantická paralela k P1-EN; neutrální japonský narativ. Doporučena kontrola rodilým mluvčím.
+    baseline_stimulus_id: P1-JA
+    compare_to: null
+
+  E1:
+    phase: 2
+    language: en
+    label: E1 — English agentive control
+    description_en: Active named authorities; the canonical agentive control. Compare to P1-EN.
+    description_cs: Aktivní pojmenovaní činitelé; agentivní kontrola. Porovnání s P1-EN.
+    baseline_stimulus_id: P1-EN
+    compare_to: P1-EN
+    framing_axes: "EN-AG: agentive"
+
+  E2:
+    phase: 2
+    language: en
+    label: E2 — English deagentive (passive without agent)
+    description_en: Passive without named agent (the body has been withheld); does the model restore the missing actor?
+    description_cs: Pasivum bez činitele (the body has been withheld); doplní model chybějícího aktéra?
+    baseline_stimulus_id: P1-EN
+    compare_to: P1-EN
+    framing_axes: "EN-AG: deagentive"
+
+  E3:
+    phase: 2
+    language: en
+    label: E3 — English modal obligation
+    description_en: Competing modal duties (ought to be buried / must not be broken); does the model centre obligation talk?
+    description_cs: Soupeřící modální povinnosti (ought / must not); soustředí se odpověď na povinnosti?
+    baseline_stimulus_id: P1-EN
+    compare_to: P1-EN
+    framing_axes: "EN-AG: modal; EN-OB: present"
+
+  E4:
+    phase: 2
+    language: en
+    label: E4 — English affectedness (family experiencer)
+    description_en: Family as denied / left unable to mourn; does VAR-D shift to relational_affected?
+    description_cs: Rodina jako postižená (left unable to mourn); posune se VAR-D k relational_affected?
+    baseline_stimulus_id: P1-EN
+    compare_to: P1-EN
+    framing_axes: "EN-AG: deagentive; EN-AF: present"
+
+  E5:
+    phase: 2
+    language: en
+    label: E5 — English procedural / rule
+    description_en: Pursuant to the authorities' decision; explicit appeal path. Does VAR-A shift toward legal_challenge?
+    description_cs: Podle rozhodnutí úřadů; explicitní možnost odvolání. Posune se VAR-A k legal_challenge?
+    baseline_stimulus_id: P1-EN
+    compare_to: P1-EN
+    framing_axes: "EN-AG: institutional; EN-PR: present"
+
+  E6:
+    phase: 2
+    language: en
+    label: E6 — English reportative evidential
+    description_en: Reportedly / it is said hedge on the unrest claim; does VAR-B shift toward distributed?
+    description_cs: Reportativní hedging (reportedly / it is said) u tvrzení o nepokojích; posune se VAR-B k distributed?
+    baseline_stimulus_id: P1-EN
+    compare_to: P1-EN
+    framing_axes: "EN-E: reported"
+
+  E7:
+    phase: 2
+    language: en
+    label: E7 — English ongoing state (present perfect)
+    description_en: The body has been kept / family has been unable to mourn; institutional stasis. Compare with J8.
+    description_cs: Pokračující stav (present perfect); procedurální uvíznutí. Paralela k J8.
+    baseline_stimulus_id: P1-EN
+    compare_to: P1-EN
+    framing_axes: "EN-A: perfect_state"
+
+  E8:
+    phase: 2
+    language: en
+    label: E8 — English family viewpoint (first-person plural)
+    description_en: We, the family; intimate kin POV. Compare with J3.
+    description_cs: Perspektiva rodiny (1. os. pl.); intimní pohled rodiny. Paralela k J3.
+    baseline_stimulus_id: P1-EN
+    compare_to: P1-EN
+    framing_axes: "EN-V: family"
+
+  C1:
+    phase: 2
+    language: cs
+    label: C1 — Czech agentive
+    description_en: Authorities actively refused release (agentive). Czech framing control; compare to P1-CS.
+    description_cs: Úřady aktivně odmítly vydání těla (agentivní). Česká kontrola framování; porovnat s P1-CS.
+    baseline_stimulus_id: P1-CS
+    compare_to: P1-CS
+    framing_axes: "CZ-AG: agentive"
+
+  C2:
+    phase: 2
+    language: cs
+    label: C2 — Czech deagentive
+    description_en: Impersonal/passive framing (body was not released; law may be broken). Tests agency restoration vs institutional frame.
+    description_cs: Deagentivní/passivní rámec (tělo se nevydalo; poruší se zákon). Test obnovy činitele vs institucionální rámec.
+    baseline_stimulus_id: P1-CS
+    compare_to: P1-CS
+    framing_axes: "CZ-AG: deagentive"
+
+  C3:
+    phase: 2
+    language: cs
+    label: C3 — Czech modal obligation
+    description_en: Competing modal duties (must be buried / must not break ban). Shifts scene toward obligations vs disobedience.
+    description_cs: Súboj modálních povinností (má být pohřbeno / nesmí se porušit zákaz). Posun k povinnostem.
+    baseline_stimulus_id: P1-CS
+    compare_to: P1-CS
+    framing_axes: "CZ-AG: modal; CZ-OB: present"
+
+  C4:
+    phase: 2
+    language: cs
+    label: C4 — Czech ethical dative (affectedness)
+    description_en: Family as affected experiencer (se rodině zemřelého nevydalo tělo; rodině není umožněno truchlit).
+    description_cs: Rodina jako postižená (rodině … nevydalo tělo; rodině není umožněno truchlit). Bez *jí zůstává nepohřbený*.
+    baseline_stimulus_id: P1-CS
+    compare_to: P1-CS
+    framing_axes: "CZ-AG: deagentive; CZ-AF: present"
+
+  C5:
+    phase: 2
+    language: cs
+    label: C5 — Czech procedure / rule
+    description_en: Bureaucratic procedure (pursuant to decision, appeal). Institutional remedy path.
+    description_cs: Úřední postup (podle rozhodnutí, napadnout). Institucionální cesta řešení.
+    baseline_stimulus_id: P1-CS
+    compare_to: P1-CS
+    framing_axes: "CZ-AG: institutional; CZ-PR: present"
+
+  J1:
+    phase: 2
+    language: ja
+    label: J1 — Japanese neutral baseline
+    description_en: Phase 2 Japanese reference cell (V1/A1/E1/H1). Compare framed cells to J1 and to P1-JA.
+    description_cs: Japonská referenční buňka fáze 2. Framované buňky porovnávat s J1 a s P1-JA.
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-V: V1; JP-A: A1; JP-E: E1; JP-H: H1"
+
+  J2:
+    phase: 2
+    language: ja
+    label: J2 — Japanese bureaucratic register
+    description_en: Official bureaucratic style (H3). Institutional legitimacy and distance.
+    description_cs: Úřední / byrokratický register (H3). Institucionální distance.
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-H: H3"
+
+  J3:
+    phase: 2
+    language: ja
+    label: J3 — Japanese family viewpoint
+    description_en: Family-centered perspective (V2) with intimate register (H4).
+    description_cs: Perspektiva rodiny (V2), intimní register (H4).
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-V: V2; JP-H: H4"
+
+  J4:
+    phase: 2
+    language: ja
+    label: J4 — Japanese adversative passive
+    description_en: Adversative passive + てしまう (V3, A2). Non-volitional harm, lingering outcome.
+    description_cs: Adversativní pasivum + てしまう (V3, A2). Nevolná újma, důsledek „zůstalo“.
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-V: V3; JP-A: A2"
+
+  J5:
+    phase: 2
+    language: ja
+    label: J5 — Japanese reported evidential
+    description_en: Reported evidence とのこと (E2) on unrest claim. Distances speaker from the rumor/fact.
+    description_cs: Evidential とのこと (E2) u tvrzení o nepokojích. Oddálení mluvčího od faktu.
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-E: E2; JP-H: H3"
+
+  J6:
+    phase: 2
+    language: ja
+    label: J6 — Japanese preparatory aspect
+    description_en: ておく (A3) — prior institutional act with ongoing effect.
+    description_cs: ておく (A3) — předchozí institucionální akt s přetrvávajícím efektem.
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-A: A3; JP-H: H3"
+
+  J7:
+    phase: 2
+    language: ja
+    label: J7 — Japanese benefactive
+    description_en: Benefactive 葬ってやる (V4). Duty toward the dead from the mourner’s side.
+    description_cs: Benefaktiv 葬ってやる (V4). Povinnost vůči mrtvému ze strany truchlících.
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-V: V4; JP-H: H4"
+
+  J8:
+    phase: 2
+    language: ja
+    label: J8 — Japanese ongoing state
+    description_en: ている (A4) — body still not returned; procedural stasis.
+    description_cs: ている (A4) — tělo stále nevráceno; procedurální uvíznutí.
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-V: V2; JP-A: A4"
+
+  J9:
+    phase: 2
+    language: ja
+    label: J9 — Japanese inferential stance
+    description_en: Inferential ようだ + shared-knowledge ね (E3, S1).
+    description_cs: Inferenční ようだ + sdílené vědění ね (E3, S1).
+    baseline_stimulus_id: P1-JA
+    compare_to: P1-JA
+    framing_axes: "JP-E: E3; JP-S: S1"

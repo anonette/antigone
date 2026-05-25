@@ -1,0 +1,36 @@
+# --- Secrets and local-only config ---
+.env
+.env.*
+!.env.example
+lovable_publish_url.txt
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Run logs (data); keep only README ---
+logs/*
+!logs/README.md
+
+# --- Intermediate / per-run analysis outputs ---
+output/coding_queue/
+output/_*.txt
+output/analysis_master.csv
+output/aggregate_by_cell.csv
+output/runs_index.csv
+output/errors.csv
+output/heuristic_action_counts.csv
+output/phase1_exploratory_*.csv
+output/phase1_heuristic_by_language.csv
+output/coded_summary_*.csv
+output/coding_validation_*.csv
+
+# --- Share folder: exclude per-run ingest payloads (large, derivable); keep seed JSONs ---
+share/phase*_*_ingest.json
+
+# --- Editor / OS junk ---
+.DS_Store
+.vscode/
+.idea/

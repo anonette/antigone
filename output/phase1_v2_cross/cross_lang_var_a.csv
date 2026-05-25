@@ -1,0 +1,7 @@
+﻿model_short,cs,en,ja,all_same,n_distinct
+claude4,legal_challenge,compromise,legal_challenge,False,2
+gemini2,legal_challenge,undecided,legal_challenge,False,2
+gpt-4o,compromise,compromise,legal_challenge,False,2
+llama3.3,legal_challenge,undecided,undecided,False,2
+mistralL,compromise,compromise,compromise,True,1
+qwen2.5,compromise,legal_challenge,legal_challenge,False,2

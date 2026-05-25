@@ -1,0 +1,7 @@
+﻿model_short,cs,en,ja,all_same,n_distinct
+claude4,institutional,institutional,institutional,True,1
+gemini2,institutional,institutional,institutional,True,1
+gpt-4o,institutional,institutional,institutional,True,1
+llama3.3,institutional,institutional,individualized,False,2
+mistralL,institutional,institutional,institutional,True,1
+qwen2.5,institutional,institutional,institutional,True,1

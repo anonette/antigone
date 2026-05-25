@@ -1,0 +1,85 @@
+# Model registry. Runner never substitutes another model on failure.
+#
+# Routing:
+#   id starting with openai/  → api.openai.com using OPENAI_API_KEY (unless api: openrouter)
+#   all other ids             → OpenRouter using OPENROUTER_API_KEY
+#
+# Optional fields:
+#   api: openai | openrouter  — force backend
+#   openai_model: gpt-4o      — override name sent to OpenAI (default: strip openai/ prefix)
+#
+# Groups:
+#   current_multilingual — strong recent multilingual instruct models
+#   thinking             — reasoning / thinking models (reasoning block in response when supported)
+#   legacy               — older models for temporal comparison
+#
+# Verify IDs on https://openrouter.ai/models — slugs change; disabled models are skipped with error logged.
+
+models:
+  # --- Current multilingual ---
+  - id: openai/gpt-4o
+    api: openai
+    group: current_multilingual
+    thinking: false
+    note: OpenAI direct via OPENAI_API_KEY
+
+  - id: anthropic/claude-sonnet-4
+    group: current_multilingual
+    thinking: false
+    note: OpenRouter slug (claude-3.5-sonnet retired)
+
+  - id: google/gemini-2.0-flash-001
+    group: current_multilingual
+    thinking: false
+
+  - id: meta-llama/llama-3.3-70b-instruct
+    group: current_multilingual
+    thinking: false
+
+  - id: mistralai/mistral-large-2411
+    group: current_multilingual
+    thinking: false
+
+  - id: qwen/qwen-2.5-72b-instruct
+    group: current_multilingual
+    thinking: false
+
+  # --- Thinking / reasoning ---
+  - id: deepseek/deepseek-r1
+    group: thinking
+    thinking: true
+    reasoning_effort: medium
+
+  - id: openai/o3-mini
+    api: openai
+    group: thinking
+    thinking: true
+    reasoning_effort: medium
+
+  - id: anthropic/claude-3.7-sonnet:thinking
+    group: thinking
+    thinking: true
+    reasoning_effort: medium
+
+  - id: google/gemini-2.5-pro-preview
+    group: thinking
+    thinking: true
+    reasoning_effort: medium
+
+  # --- Legacy / older ---
+  - id: openai/gpt-3.5-turbo
+    api: openai
+    group: legacy
+    thinking: false
+
+  - id: anthropic/claude-2
+    group: legacy
+    thinking: false
+
+  - id: meta-llama/llama-3.1-8b-instruct
+    group: legacy
+    thinking: false
+
+  - id: google/gemma-2-9b-it
+    group: legacy
+    thinking: false

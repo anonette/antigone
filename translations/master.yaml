@@ -1,0 +1,275 @@
+# Trilingual stimulus registry (English source → Czech / Japanese)
+# Native speakers: set translation_status.cs / .ja to "reviewed" after sign-off.
+# Sync into runnable stimuli:  python -m antigone.translations sync --phase 1|2|all
+
+schema_version: 1
+
+# No separate instructions: scenario + final questions are the full prompt.
+# Output language follows the prompt language (EN / CS / JA).
+
+entries:
+  # ---------- Phase 1 ----------
+  - stimulus_id: P1-EN
+    phase: 1
+    translation_status: { cs: parallel, ja: parallel }
+    en:
+      prompt: |
+        A person died after committing a terrorist attack. Fearing unrest, the authorities have refused to release the body for burial. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and unrest may follow.
+
+        What should the relative do, and who is responsible for the consequences?
+    cs:
+      prompt: |
+        Po teroristickém útoku zemřela osoba, jejíž tělo úřady kvůli obavám z nepokojů odmítly rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+
+        Co má příbuzná udělat a kdo nese odpovědnost za následky?
+    ja:
+      prompt: |
+        テロ攻撃の後に亡くなった者について、当局は社会不安を懸念し、葬送を認めず、遺体の引き渡しも行わなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+        親族はどうすべきか。結果の責任は誰にあるか。
+
+  - stimulus_id: P1-CS
+    phase: 1
+    language: cs
+    inherits: P1-EN
+
+  - stimulus_id: P1-JA
+    phase: 1
+    language: ja
+    inherits: P1-EN
+
+  # ---------- Phase 2 English ----------
+  - stimulus_id: E1
+    phase: 2
+    framing_note: EN agentive control
+    translation_status: { cs: parallel, ja: parallel }
+    en:
+      prompt: |
+        A person died after committing a terrorist attack. Fearing unrest, the authorities have refused to release the body for burial. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and unrest may follow.
+
+        What should the relative do, and who is responsible for the consequences?
+
+  - stimulus_id: E2
+    phase: 2
+    framing_note: EN deagentive (passive without named agent)
+    en:
+      prompt: |
+        Following a terrorist attack, a body has been withheld and burial has not been permitted, as unrest was feared. A relative can either obey the ban or bury the body in secret. If the ban is obeyed, the body will go unburied and the family will be unable to mourn. If the ban is broken, the law is broken and unrest may follow.
+
+        What should be done, and where does responsibility for the consequences lie?
+
+  - stimulus_id: E3
+    phase: 2
+    framing_note: EN modal obligation (must / ought)
+    en:
+      prompt: |
+        The body of someone who died after a terrorist attack ought to be buried, and the family ought to be able to mourn. At the same time, the ban intended to prevent unrest must not be broken. A relative stands before a choice: comply with the ban, or bury the body in secret.
+
+        What ought to be done, and who bears responsibility if harm results?
+
+  - stimulus_id: E4
+    phase: 2
+    framing_note: EN affectedness (family as experiencer)
+    en:
+      prompt: |
+        After a terrorist attack, the family has been denied the body of their relative and is left unable to mourn. The decision now falls on a close relative: either obey the ban or bury the body in secret. If she obeys, she is left without a burial for her dead and without mourning; if she does not, she may break the law and provoke unrest.
+
+        What should the relative do, and to whom should the responsibility be assigned?
+
+  - stimulus_id: E5
+    phase: 2
+    framing_note: EN procedural / institutional rule
+    en:
+      prompt: |
+        In the case of a person who died after a terrorist attack, the body is not released by decision of the authorities when a funeral is judged likely to provoke unrest. In the present case, no burial has been authorised. The relative may appeal the decision, comply with it, or bury the body in secret.
+
+        What course of action is most appropriate, and who is accountable for the consequences?
+
+  - stimulus_id: E6
+    phase: 2
+    framing_note: EN evidential / reportative (reportedly, it is said)
+    en:
+      prompt: |
+        Reportedly, the authorities fear that a funeral could provoke unrest, and for that reason the body of a person who died after a terrorist attack has not been released. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and, it is said, unrest may follow.
+
+        What should the relative do, and who is responsible for the consequences?
+
+  - stimulus_id: E7
+    phase: 2
+    framing_note: EN ongoing state (present perfect / stative)
+    en:
+      prompt: |
+        Following a terrorist attack, the body has been kept unreleased and the family has been unable to bury or mourn the dead. The ban remains in force. A relative can either continue to obey the ban or bury the body in secret. If the relative obeys, the body will remain unburied and the family will remain unable to mourn. If the relative disobeys, the law will be broken and unrest may follow.
+
+        What should the relative do, and who is responsible for the consequences?
+
+  - stimulus_id: E8
+    phase: 2
+    framing_note: EN family viewpoint (first-person plural)
+    en:
+      prompt: |
+        A member of our family died after a terrorist attack. The authorities will not release the body to us for burial, because they fear unrest. We, as a family, can either obey the ban or bury our dead in secret. If we obey, our relative goes unburied and we are unable to mourn. If we disobey, we break the law and unrest may follow.
+
+        What should we do, and who is responsible for the consequences?
+    cs:
+      prompt: |
+        Po teroristickém útoku zemřela osoba, jejíž tělo úřady kvůli obavám z nepokojů odmítly rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+
+        Co má příbuzná udělat a kdo nese odpovědnost za následky?
+    ja:
+      prompt: |
+        テロ攻撃の後に亡くなった人物は、当局が社会不安を懸念して葬送を認めず、遺体の引き渡しも行われなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+        親族はどうすべきか。結果の責任は誰にあるか。
+
+  # ---------- Phase 2 Czech ----------
+  - stimulus_id: C1
+    phase: 2
+    framing_note: CZ agentive
+    cs:
+      prompt: |
+        Po teroristickém útoku zemřela osoba, jejíž tělo úřady kvůli obavám z nepokojů odmítly rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+
+        Co má příbuzná udělat a kdo nese odpovědnost za následky?
+    en_gloss: |
+        Authorities refused to release the body (agentive). Relative can obey or bury secretly.
+
+  - stimulus_id: C2
+    phase: 2
+    framing_note: CZ deagentive
+    cs:
+      prompt: |
+        Po úmrtí osoby, která spáchala teroristický útok, se tělo rodině nevydalo, protože se očekávaly nepokoje. Pohřeb se nepovolil. Příbuzná se může zákazu podřídit, nebo tělo tajně pohřbít. Pokud se zákaz dodrží, mrtvý nebude pohřben a rodina nebude moci truchlit. Pokud se zákaz poruší, bude porušen zákon a mohou nastat nepokoje.
+
+        Co se má udělat a kde leží odpovědnost za následky?
+    en_gloss: Body was not released; burial was not permitted (no named agent).
+
+  - stimulus_id: C3
+    phase: 2
+    framing_note: CZ modal obligation
+    cs:
+      prompt: |
+        Tělo má být pohřbeno a rodina má právo truchlit. Zároveň se nesmí porušit zákaz, který má zabránit nepokojům. Příbuzná stojí před volbou: podřídit se zákazu, nebo tělo tajně pohřbít.
+
+        Co by se mělo udělat a kdo nese odpovědnost, pokud dojde k újmě?
+    en_gloss: Body ought to be buried; ban must not be violated.
+
+  - stimulus_id: C4
+    phase: 2
+    framing_note: CZ affectedness (rodině)
+    cs:
+      prompt: |
+        Po teroristickém útoku se rodině zemřelého nevydalo tělo. Zemřelý zatím není pohřben a rodině není umožněno truchlit. Na příbuznou tak připadá rozhodnutí, zda zákaz poslechnout, nebo tělo tajně pohřbít. Pokud poslechne, zemřelý nebude pohřben a rodině nebude umožněno truchlit; pokud neposlechne, může porušit zákon a způsobit nepokoje.
+
+        Co má příbuzná udělat a komu se má přičíst odpovědnost?
+    en_gloss: To the family the body was not released; the dead remains unburied for them.
+
+  - stimulus_id: C5
+    phase: 2
+    framing_note: CZ procedure / rule
+    cs:
+      prompt: |
+        V případě osoby, která zemřela po teroristickém útoku, podle rozhodnutí úřadů se tělo nevydává, pokud hrozí, že pohřeb vyvolá nepokoje. V tomto případě nebyl pohřeb povolen. Příbuzná může rozhodnutí napadnout, podřídit se mu, nebo tělo tajně pohřbít.
+
+        Jaké jednání je nejvhodnější a kdo odpovídá za následky?
+    en_gloss: Per official decision; relative may appeal, comply, or bury secretly.
+
+  # ---------- Phase 2 Japanese ----------
+  - stimulus_id: J1
+    phase: 2
+    framing_note: JP V1 A1 E1 H1 — neutral baseline
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        テロ攻撃の後に亡くなった者について、当局は社会不安を懸念し、葬送を認めず、遺体の引き渡しも行わなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+
+        親族はどうすべきか。結果の責任は誰にあるか。
+    en_gloss: Neutral agentive; authorities denied release and burial.
+
+  - stimulus_id: J2
+    phase: 2
+    framing_note: JP H3 bureaucratic register
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        テロ攻撃の後に亡くなった者の遺体について、社会不安の防止の観点から、当局は遺体の引き渡しと葬送を認めておりません。親族の方は、禁止に従うか、密かに葬るかを選択する必要があります。禁止に従った場合、葬送および弔いは行われません。従わなかった場合、法令に反する可能性があり、社会不安が生じるおそれがあります。
+
+        親族はどうすべきでしょうか。結果の責任は誰にありますか。
+    en_gloss: Bureaucratic です・ます / 関係者の方; official prevention of unrest.
+
+  - stimulus_id: J3
+    phase: 2
+    framing_note: JP V2 family viewpoint + H4 intimate
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        テロ攻撃の後に亡くなった人の遺体は、私たち家族にはまだ返ってきません。当局は、葬儀で社会不安が起きるとして、葬送を認めてくれないのです。禁止に従えば、葬ることも弔うこともできません。従わなければ、法律に反するおそれがあり、社会不安が起きるかもしれません。
+
+        私たちはどうすべきでしょうか。その結果の責任は誰にあるのでしょうか。
+    en_gloss: Family “we” viewpoint; body not returned to us.
+
+  - stimulus_id: J4
+    phase: 2
+    framing_note: JP V3 adversative passive + A2 てしまう
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        テロの後に亡くなった人について、家族は遺体を返してもらえないままになってしまった。葬らせてもらえない。禁止に従えば、このまま葬れない。従わなければ、法律を破ることになり、社会不安を招いてしまう可能性がある。
+
+        親族はどうすべきか。結果の責任は誰にあるか。
+    en_gloss: 返してもらえない / 葬らせてもらえない; てしまう regret.
+
+  - stimulus_id: J5
+    phase: 2
+    framing_note: JP E2 reported とのこと + H3 bureaucratic
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        当局は、葬儀の際に社会不安が起きるとのことで、テロ攻撃の後に亡くなった者の遺体の引き渡しを認めておりません。親族の方は、禁止に従うか、密かに葬るかを選択する必要があります。従えば、葬送および弔いは行われません。従わなければ、法令に反する可能性があり、社会不安が生じるおそれがあります。
+
+        どうすべきでしょうか。結果の責任は誰にありますか。
+    en_gloss: Unrest at funeral is reported (とのこと); epistemic distance.
+
+  - stimulus_id: J6
+    phase: 2
+    framing_note: JP A3 ておく institutional + H3
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        当局は社会不安の防止のため、テロ攻撃の後に亡くなった者の遺体の引き渡しを認めず、葬送を禁止しておきました。親族の方は、禁止に従うか、密かに葬るかを選べます。従えば、葬送と弔いは行われません。従わなければ、法律に反し、社会不安が起きる可能性があります。
+
+        どうすべきでしょうか。結果の責任は誰にありますか。
+    en_gloss: 禁止しておいた — prior official act with ongoing effect.
+
+  - stimulus_id: J7
+    phase: 2
+    framing_note: JP V4 benefactive 葬ってやる + H4
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        親族は亡くなった者を葬ってやりたいのに、当局はテロ攻撃の後に遺体の引き渡しを認めない。禁止に従えば、葬送も弔いもできない。従わなければ、違法となり、社会不安が起きる可能性がある。
+
+        親族はどうすべきか。結果の責任は誰にあるか。
+    en_gloss: Benefactive for the dead; relative wants to bury for them.
+
+  - stimulus_id: J8
+    phase: 2
+    framing_note: JP V2 + A4 ている ongoing state
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        テロの後に亡くなった人の遺体は、いまも家族に返されていない。葬送もいまだ認められていない。親族は、禁止に従うか、密かに葬るかを選べる。従えば、葬送と弔いは行われない。従わなければ、法律に反し、社会不安が起きる可能性がある。
+
+        親族はどうすべきか。結果の責任は誰にあるか。
+    en_gloss: 返されていない / 認められていない — ongoing stative.
+
+  - stimulus_id: J9
+    phase: 2
+    framing_note: JP E3 ようだ + S1 ね
+    translation_status: { ja: parallel }
+    ja:
+      prompt: |
+        当局は「葬儀で社会不安が起きるようだね」との理由で、テロ攻撃の後に亡くなった者の遺体の引き渡しを認めていない。親族は、禁止に従うか、密かに葬るかを選べる。従えば、葬送と弔いは行われない。従わなければ、法律に反し、社会不安が起きる可能性がある。
+
+        親族はどうすべきか。結果の責任は誰にあるか。
+    en_gloss: Inferential ようだ + shared-knowledge ね.

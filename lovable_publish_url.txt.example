@@ -1,0 +1,4 @@
+# Copy to lovable_publish_url.txt (gitignored) after Publish in Lovable.
+# Stable (recommended):
+https://project--eb15caff-c2b0-41c2-8ad1-843acce73d3c.lovable.app/api/public/ingest
+# Or: https://eb15caff-c2b0-41c2-8ad1-843acce73d3c.lovable.app/api/public/ingest

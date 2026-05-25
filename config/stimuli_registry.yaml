@@ -1,0 +1,143 @@
+# Metadata for each runnable cell (prompts come from translations/master.yaml)
+# Full labels/descriptions: stimuli_catalog.yaml → STIMULI_REFERENCE.md → share/stimuli_reference.json
+
+phase1:
+  - stimulus_id: P1-EN
+    language: en
+    hypothesis_note: Cross-language baseline only; language is the sole IV.
+  - stimulus_id: P1-CS
+    language: cs
+    hypothesis_note: Semantic parallel to P1-EN; not a framing variant.
+  - stimulus_id: P1-JA
+    language: ja
+    hypothesis_note: Semantic parallel to P1-EN; native review recommended.
+
+phase2:
+  - stimulus_id: E1
+    language: en
+    EN-AG: agentive
+    hypothesis_note: Phase 2 English agentive control; compare to P1-EN.
+  - stimulus_id: E2
+    language: en
+    EN-AG: deagentive
+    hypothesis_note: Does EN passive without named agent shift VAR-B toward institutional/unrest_risk?
+  - stimulus_id: E3
+    language: en
+    EN-AG: modal
+    EN-OB: present
+    hypothesis_note: Does modal duty framing shift VAR-C toward sacred_dead_duty / legal_obedience?
+  - stimulus_id: E4
+    language: en
+    EN-AG: deagentive
+    EN-AF: present
+    hypothesis_note: Does experiencer-passive (family) shift VAR-D toward relational_affected?
+  - stimulus_id: E5
+    language: en
+    EN-AG: institutional
+    EN-PR: present
+    hypothesis_note: Does procedural voice shift VAR-A toward legal_challenge / appeal?
+  - stimulus_id: E6
+    language: en
+    EN-E: reported
+    hypothesis_note: Does reportative hedge (reportedly / it is said) shift VAR-B toward distributed?
+  - stimulus_id: E7
+    language: en
+    EN-A: perfect_state
+    hypothesis_note: Does ongoing perfect framing shift VAR-F toward state_produced?
+  - stimulus_id: E8
+    language: en
+    EN-V: family
+    hypothesis_note: Does first-person family viewpoint shift VAR-D toward relational_affected / individualized?
+  - stimulus_id: C1
+    language: cs
+    CZ-AG: agentive
+    CZ-OB: absent
+    CZ-AF: absent
+    CZ-PR: absent
+  - stimulus_id: C2
+    language: cs
+    CZ-AG: deagentive
+    CZ-OB: absent
+    CZ-AF: absent
+    CZ-PR: absent
+  - stimulus_id: C3
+    language: cs
+    CZ-AG: modal
+    CZ-OB: present
+    CZ-AF: absent
+    CZ-PR: absent
+  - stimulus_id: C4
+    language: cs
+    CZ-AG: deagentive
+    CZ-OB: absent
+    CZ-AF: present
+    CZ-PR: absent
+  - stimulus_id: C5
+    language: cs
+    CZ-AG: institutional
+    CZ-OB: absent
+    CZ-AF: absent
+    CZ-PR: present
+  - stimulus_id: J1
+    language: ja
+    JP-V: V1
+    JP-A: A1
+    JP-E: E1
+    JP-H: H1
+    JP-S: S0
+  - stimulus_id: J2
+    language: ja
+    JP-V: V1
+    JP-A: A1
+    JP-E: E1
+    JP-H: H3
+    JP-S: S0
+  - stimulus_id: J3
+    language: ja
+    JP-V: V2
+    JP-A: A1
+    JP-E: E1
+    JP-H: H4
+    JP-S: S0
+  - stimulus_id: J4
+    language: ja
+    JP-V: V3
+    JP-A: A2
+    JP-E: E1
+    JP-H: H4
+    JP-S: S0
+  - stimulus_id: J5
+    language: ja
+    JP-V: V1
+    JP-A: A1
+    JP-E: E2
+    JP-H: H3
+    JP-S: S0
+  - stimulus_id: J6
+    language: ja
+    JP-V: V1
+    JP-A: A3
+    JP-E: E1
+    JP-H: H3
+    JP-S: S0
+  - stimulus_id: J7
+    language: ja
+    JP-V: V4
+    JP-A: A1
+    JP-E: E1
+    JP-H: H4
+    JP-S: S0
+  - stimulus_id: J8
+    language: ja
+    JP-V: V2
+    JP-A: A4
+    JP-E: E1
+    JP-H: H1
+    JP-S: S0
+  - stimulus_id: J9
+    language: ja
+    JP-V: V1
+    JP-A: A1
+    JP-E: E3
+    JP-H: H1
+    JP-S: S1

@@ -1,0 +1,76 @@
+# Phase 1 — Open language baseline
+# Prompts: translations/master.yaml | Sync: python -m antigone.translations sync
+
+schema_version: 1
+phase: 1
+framing: open
+
+cells:
+- stimulus_id: P1-EN
+  phase: 1
+  framing: open
+  language: en
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    A person died after committing a terrorist attack. Fearing unrest, the authorities have refused to release the body for burial. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and unrest may follow.
+    
+    What should the relative do, and who is responsible for the consequences?
+  translation_status:
+    cs: parallel
+    ja: parallel
+  hypothesis_note: Cross-language baseline only; language is the sole IV.
+
+- stimulus_id: P1-CS
+  phase: 1
+  framing: open
+  language: cs
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    Po teroristickém útoku zemřela osoba, jejíž tělo úřady kvůli obavám z nepokojů odmítly rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+    
+    Co má příbuzná udělat a kdo nese odpovědnost za následky?
+  translation_status:
+    cs: parallel
+    ja: parallel
+  hypothesis_note: Semantic parallel to P1-EN; not a framing variant.
+
+- stimulus_id: P1-JA
+  phase: 1
+  framing: open
+  language: ja
+  EN-AG: null
+  CZ-AG: null
+  CZ-OB: null
+  CZ-AF: null
+  CZ-PR: null
+  JP-V: null
+  JP-A: null
+  JP-E: null
+  JP-H: null
+  JP-S: null
+  prompt: |
+    テロ攻撃の後に亡くなった者について、当局は社会不安を懸念し、葬送を認めず、遺体の引き渡しも行わなかった。親族は禁止に従うか、密かに葬るかを選べる。従えば、死者は葬られず、家族は弔うことができない。従わなければ法律に反し、社会不安が起きる可能性がある。
+    
+    親族はどうすべきか。結果の責任は誰にあるか。
+  translation_status:
+    cs: parallel
+    ja: parallel
+  hypothesis_note: Semantic parallel to P1-EN; native review recommended.
