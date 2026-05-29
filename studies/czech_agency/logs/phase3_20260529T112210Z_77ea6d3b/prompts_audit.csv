@@ -1,0 +1,520 @@
+﻿record_id,cell_key,stimulus_id,prompt_text
+aa8648ce-0691-4b08-ba88-c2176bfb7b5d,CA1|openai/gpt-4o|1,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1dc94ad0-6ae3-4e4e-9c15-2c35f7d51896,CA1|openai/gpt-4o|2,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+90dde186-c066-4b51-a01f-5e8bd0a46803,CA1|openai/gpt-4o|3,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f05f2368-7e3c-4278-a180-92e79dc6400a,CA1|openai/gpt-4o|4,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+73d5c198-cc5b-4916-a45d-c8f6407279fd,CA1|openai/gpt-4o|5,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+0bd3770b-cbd9-48db-af78-0a2777914ff1,CA1|anthropic/claude-sonnet-4|1,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+3965d583-1855-4b99-a0ea-178c686ce15b,CA1|anthropic/claude-sonnet-4|2,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+b6020461-bbb4-4e9d-a599-b00f29a24ae0,CA1|anthropic/claude-sonnet-4|3,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+4a40a7f5-7258-4512-b7ba-4ed255a38cbe,CA1|anthropic/claude-sonnet-4|4,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f3311a8e-89d6-4b7b-af64-6e5471e69d05,CA1|anthropic/claude-sonnet-4|5,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+875282b3-519b-43da-9926-fbb438b512d0,CA1|google/gemini-2.0-flash-001|1,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+50d08124-a008-4ddc-b533-efa7234ba26c,CA1|google/gemini-2.0-flash-001|2,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1bc0361c-0040-445c-bb9e-8ff64936bee5,CA1|google/gemini-2.0-flash-001|3,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+aaf5904e-a911-4a27-bd33-6462356a8fea,CA1|google/gemini-2.0-flash-001|4,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+8180dc2b-03b2-488b-97a3-8290995ce45b,CA1|google/gemini-2.0-flash-001|5,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1a35b49f-4946-46f1-97ee-4a3c73c44c05,CA1|meta-llama/llama-3.3-70b-instruct|1,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+21e23a9e-e5aa-4aef-b65c-db10c19b0906,CA1|meta-llama/llama-3.3-70b-instruct|2,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+a7a52567-c897-47d0-94e9-b2228d66992c,CA1|meta-llama/llama-3.3-70b-instruct|3,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+14026e06-bb30-43a0-b927-a964e12fabe2,CA1|meta-llama/llama-3.3-70b-instruct|4,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+e3b6216d-5fbd-4ae6-93d7-f3566b93a4b5,CA1|meta-llama/llama-3.3-70b-instruct|5,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+648c4128-95ae-403b-9d2d-1305d5cdb70d,CA1|mistralai/mistral-large-2411|1,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+4a645fc2-c8f8-4da4-bb29-a8166d5f742a,CA1|mistralai/mistral-large-2411|2,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+d26fde01-64f2-40fe-99eb-eb2aa544d5c8,CA1|mistralai/mistral-large-2411|3,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+08cac9ec-c48d-47dd-ba07-c56d4364ed7d,CA1|mistralai/mistral-large-2411|4,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+ba7227b7-bcff-46be-ba14-83308b82868a,CA1|mistralai/mistral-large-2411|5,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+22bfd5cb-c421-4635-8c22-51cadb5f9ce0,CA1|qwen/qwen-2.5-72b-instruct|1,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+71949784-0870-4b35-86e9-0bd3eaacec60,CA1|qwen/qwen-2.5-72b-instruct|2,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+646803d9-31e2-4e63-a6c4-f8c39114deab,CA1|qwen/qwen-2.5-72b-instruct|3,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+0853449c-1d43-48fc-86d1-713822b2cd38,CA1|qwen/qwen-2.5-72b-instruct|4,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+d2661131-dbc9-40ea-b0b6-e824ecaaf02d,CA1|qwen/qwen-2.5-72b-instruct|5,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+59a6cbdb-377b-42ab-931c-d751c57b3a2c,CA2|openai/gpt-4o|1,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+06eb29e4-a694-468b-a197-fe72de1d4e18,CA2|openai/gpt-4o|2,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+fa6dbcc3-4ef5-4369-84ed-82c27adc9f7b,CA2|openai/gpt-4o|3,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+053b612b-89ee-49e8-b848-694d5bcd3708,CA2|openai/gpt-4o|4,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+b75198dc-7345-4ff5-8868-4db625df34d0,CA2|openai/gpt-4o|5,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+cb243e66-5518-43f9-be3c-4b28cd1725de,CA2|anthropic/claude-sonnet-4|1,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+518c8d64-6218-41be-b77f-de94166b1af5,CA2|anthropic/claude-sonnet-4|2,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+ee2573e8-2d64-45f0-8811-34237b2aeed6,CA2|anthropic/claude-sonnet-4|3,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+d9fd1830-532f-4711-91d4-9a6a7ad5f027,CA2|anthropic/claude-sonnet-4|4,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+a7bd0036-32bf-4867-b665-f71921d6a8c7,CA2|anthropic/claude-sonnet-4|5,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f7ff32c4-ea32-4650-9506-30021a7e21cd,CA2|google/gemini-2.0-flash-001|1,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+8ee2e81b-4a5a-4631-977d-58649101af97,CA2|google/gemini-2.0-flash-001|2,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1778e8ac-9d55-463c-9d58-6b291a441e48,CA2|google/gemini-2.0-flash-001|3,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+26681891-c153-43ab-b2f7-c5cfde4b2190,CA2|google/gemini-2.0-flash-001|4,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+6b682345-4a13-4478-8e97-ec086fbc1ff5,CA2|google/gemini-2.0-flash-001|5,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+e68ca0ec-0450-45a7-96b4-e109288f2617,CA2|meta-llama/llama-3.3-70b-instruct|1,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+aeca39ea-87d4-42de-81d1-a21a2d9bd47a,CA2|meta-llama/llama-3.3-70b-instruct|2,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f8ba38e3-568b-4b93-b3ae-4b04f27c4eff,CA2|meta-llama/llama-3.3-70b-instruct|3,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+80d2d97f-b8a4-42c4-953f-240162f74afe,CA2|meta-llama/llama-3.3-70b-instruct|4,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+50b848d9-ecf9-4026-b529-0c9a141793e0,CA2|meta-llama/llama-3.3-70b-instruct|5,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+10cd1644-cc4c-48fd-b85e-94c1e4cf4eaf,CA2|mistralai/mistral-large-2411|1,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+8b0fe22a-65ef-4590-856e-70e456abf2e8,CA2|mistralai/mistral-large-2411|2,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+151a240b-c029-4363-ab5b-75c58b4afd8c,CA2|mistralai/mistral-large-2411|3,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+90ec2047-d222-445f-a6f0-f01a7e4d1faf,CA2|mistralai/mistral-large-2411|4,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+8de824ba-e9b6-4b6a-9481-ce498985731d,CA2|mistralai/mistral-large-2411|5,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+3e9e4521-9b7d-41fa-96a6-bdac99715f4c,CA2|qwen/qwen-2.5-72b-instruct|1,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+ce2303f8-7573-4f93-9c09-afb0c2340f9f,CA2|qwen/qwen-2.5-72b-instruct|2,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+0b16f0a4-e140-4836-9470-76c36ef7a65f,CA2|qwen/qwen-2.5-72b-instruct|3,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+c54055ad-8c38-480f-8200-e784f33164b3,CA2|qwen/qwen-2.5-72b-instruct|4,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+6e211ef4-1f5b-4f70-8e23-3b49c5672789,CA2|qwen/qwen-2.5-72b-instruct|5,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+564c6e79-9d9c-47cc-bb6c-5c237d9f3c29,CA3|openai/gpt-4o|1,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+00f984d1-6728-41db-9ed6-77a23aae86a5,CA3|openai/gpt-4o|2,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+0e1fa4cd-7095-4472-9145-94e02c3d3f03,CA3|openai/gpt-4o|3,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f9b7ba89-ce5d-4043-a914-620811051f79,CA3|openai/gpt-4o|4,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+bcd70d45-4aa0-409f-9360-7622b6af0472,CA3|openai/gpt-4o|5,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+320e5dce-bf6e-438b-8890-9b482778cbcb,CA3|anthropic/claude-sonnet-4|1,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+2d40dfb2-5b14-40be-8320-228fcaa09095,CA3|anthropic/claude-sonnet-4|2,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+af38e719-79b1-4bb3-bf35-7d12b07fa4ef,CA3|anthropic/claude-sonnet-4|3,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+aaa1c0a2-df3b-4236-88b1-fae41da550a2,CA3|anthropic/claude-sonnet-4|4,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+14fce6e4-e835-4d29-9ecd-8dea5987bf15,CA3|anthropic/claude-sonnet-4|5,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1f9ae9c0-fd29-43fb-874f-6d6633835324,CA3|google/gemini-2.0-flash-001|1,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+7e46f02a-4e0e-47ab-9297-91f143ac4f1e,CA3|google/gemini-2.0-flash-001|2,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+2c6caf50-8b23-45f9-a7a7-9452da55b381,CA3|google/gemini-2.0-flash-001|3,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+93cfcf9e-c95f-4282-aa0f-da53e28d196f,CA3|google/gemini-2.0-flash-001|4,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+0e2c096f-24c0-4e8a-a537-887b729e5c43,CA3|google/gemini-2.0-flash-001|5,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+9c9e12dd-59d1-4358-9a27-819b5da3f3c2,CA3|meta-llama/llama-3.3-70b-instruct|1,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+8fef1cd9-eee0-4e6d-8fb0-ec09222e6597,CA3|meta-llama/llama-3.3-70b-instruct|2,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+7bb811e4-803a-4293-a3b6-f971522d1741,CA3|meta-llama/llama-3.3-70b-instruct|3,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+3aa28c8b-e154-4292-8abf-cce57f82b5f2,CA3|meta-llama/llama-3.3-70b-instruct|4,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+dd1bf290-897e-457e-95bf-4108de42ce1e,CA3|meta-llama/llama-3.3-70b-instruct|5,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+ac9d0790-fb81-4c13-a359-00e0732f1bad,CA3|mistralai/mistral-large-2411|1,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+599a52db-2dcc-454a-b34c-6e611c2c9a3f,CA3|mistralai/mistral-large-2411|2,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+ed5f2f99-8b07-4877-8fc9-045962f886b3,CA3|mistralai/mistral-large-2411|3,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+fe0e8efc-3779-4e1d-a776-634cfebb9d3c,CA3|mistralai/mistral-large-2411|4,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+934e5f23-e1e0-4af8-a468-76871f3f2b53,CA3|mistralai/mistral-large-2411|5,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+93ed1429-a92c-4958-9415-a95e445cec9e,CA3|qwen/qwen-2.5-72b-instruct|1,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f58a602b-543f-4bdb-92d8-dd9119bcda54,CA3|qwen/qwen-2.5-72b-instruct|2,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+03a0c303-5fe0-406f-9c88-22f6fceb4e04,CA3|qwen/qwen-2.5-72b-instruct|3,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+b5d7fe5c-37ba-404a-9f56-f9813473f02c,CA3|qwen/qwen-2.5-72b-instruct|4,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+4b4eba3b-9cd5-49ef-9ef8-bca22ec9cfe2,CA3|qwen/qwen-2.5-72b-instruct|5,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+94b208fe-e420-4ae2-8ee8-e797a3399b3b,CA4|openai/gpt-4o|1,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+17fe352b-bbe6-44f8-987a-6da6644468d2,CA4|openai/gpt-4o|2,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+a6c999b3-8513-457e-a268-392177abbd60,CA4|openai/gpt-4o|3,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+445a9bc7-ea86-4495-bb5c-3f4aae6239e6,CA4|openai/gpt-4o|4,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+aa99e61c-ed14-4f49-b81b-eca318d5b72f,CA4|openai/gpt-4o|5,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+33ad624c-3a62-4451-9639-be3b156bc8a6,CA4|anthropic/claude-sonnet-4|1,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+e87620b9-9697-45f2-8227-1799f35233ef,CA4|anthropic/claude-sonnet-4|2,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f7774514-8ee2-475e-b068-4bf3f3bf7c86,CA4|anthropic/claude-sonnet-4|3,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+3f2479f7-9b8d-4c89-a65a-3ee795044039,CA4|anthropic/claude-sonnet-4|4,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1a7feaf2-8ab2-44fc-aa62-5610b64258aa,CA4|anthropic/claude-sonnet-4|5,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+a2e5b139-c6ad-436a-a77a-708fb35a254e,CA4|google/gemini-2.0-flash-001|1,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+e71eaf39-4d32-4e73-a889-01b32f64a170,CA4|google/gemini-2.0-flash-001|2,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+da11ceb6-91f1-4052-bcc3-6955e42b9036,CA4|google/gemini-2.0-flash-001|3,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+b514e714-6700-4b5e-bd41-497af84d952a,CA4|google/gemini-2.0-flash-001|4,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+c4408803-4913-4398-ad9d-48f4cafc0059,CA4|google/gemini-2.0-flash-001|5,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+90c64309-3f22-4927-ace7-5e37402b58d1,CA4|meta-llama/llama-3.3-70b-instruct|1,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+a52828ae-c7dd-4e02-84a5-5a461da7645f,CA4|meta-llama/llama-3.3-70b-instruct|2,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+e60389ff-d49f-404b-b857-86cc568037dd,CA4|meta-llama/llama-3.3-70b-instruct|3,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+7a157497-cb07-44dc-8eec-299802c5285d,CA4|meta-llama/llama-3.3-70b-instruct|4,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+b2f575f2-7941-4019-872a-d252b253b046,CA4|meta-llama/llama-3.3-70b-instruct|5,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+6a0c2e4d-b1d1-4e85-b6e1-53ec625694af,CA4|mistralai/mistral-large-2411|1,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+e508c7c3-1d3c-4a74-8ade-557f963e01d3,CA4|mistralai/mistral-large-2411|2,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+74923af0-6d8a-4aef-bed1-42fe4cda9b8f,CA4|mistralai/mistral-large-2411|3,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+6a03185c-367f-4e41-b8a0-38e63ac2fc25,CA4|mistralai/mistral-large-2411|4,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+59c5f9cc-dd19-4a0e-8382-d18d398f6ae1,CA4|mistralai/mistral-large-2411|5,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+768ecf8c-e9c7-4525-9fec-9412a7050016,CA4|qwen/qwen-2.5-72b-instruct|1,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+782d1769-2c95-456a-b4cc-3b1ac8874225,CA4|qwen/qwen-2.5-72b-instruct|2,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+b42de7b1-18d4-4e83-886e-b7d36640dd02,CA4|qwen/qwen-2.5-72b-instruct|3,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+24b7fe0a-04ff-4440-9cdb-be70c68afe99,CA4|qwen/qwen-2.5-72b-instruct|4,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f7d29377-a97e-4e39-adbc-891221b16017,CA4|qwen/qwen-2.5-72b-instruct|5,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+4f0791f6-3d86-49ba-9025-15b8b76c1989,CA5|openai/gpt-4o|1,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+18ec0b22-7407-427f-a68a-5bc334076bdc,CA5|openai/gpt-4o|2,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+a0fbbeb1-9c13-458b-a45b-010876a75f20,CA5|openai/gpt-4o|3,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+467d0759-bceb-4f80-9f07-198b14071aad,CA5|openai/gpt-4o|4,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+53c10b2c-66fa-4ce1-842d-a0443774ac77,CA5|openai/gpt-4o|5,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+42d5aca7-0210-4015-8246-667065872726,CA5|anthropic/claude-sonnet-4|1,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+3304edd4-d199-4344-88df-f318e3e998c3,CA5|anthropic/claude-sonnet-4|2,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+168b6fd1-b019-45ab-ab4a-cc371e4ecf84,CA5|anthropic/claude-sonnet-4|3,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f5703c28-d06c-441a-bf1f-99d89da84c49,CA5|anthropic/claude-sonnet-4|4,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+5058a7f6-240b-46ec-a424-21ffb520f44a,CA5|anthropic/claude-sonnet-4|5,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+2b3b9a67-eb09-4204-8227-27515ac87d66,CA5|google/gemini-2.0-flash-001|1,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+fe09c3b5-c843-41dc-898f-029c61afa70b,CA5|google/gemini-2.0-flash-001|2,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+7c88b24a-0f7e-4731-a61f-22eb37ee9de7,CA5|google/gemini-2.0-flash-001|3,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+35089299-7c92-46a7-b753-d555310e0e0b,CA5|google/gemini-2.0-flash-001|4,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1b62a253-444a-40ff-a81c-f6a48d8f9702,CA5|google/gemini-2.0-flash-001|5,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+e9f9e487-6d00-4c7a-9202-c2e325293131,CA5|meta-llama/llama-3.3-70b-instruct|1,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+ce521f0e-69e9-4c2c-9aae-3b77ee568f24,CA5|meta-llama/llama-3.3-70b-instruct|2,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+75598926-e311-435f-a6c2-9188e8d1356d,CA5|meta-llama/llama-3.3-70b-instruct|3,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+557cc9ce-ecf1-4501-8d0e-f79bd56c0840,CA5|meta-llama/llama-3.3-70b-instruct|4,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+47c9c36c-d073-4044-9199-6225348c0e50,CA5|meta-llama/llama-3.3-70b-instruct|5,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+7cb817ac-8f7b-4a43-9c76-d54e27fb66f7,CA5|mistralai/mistral-large-2411|1,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+6d7bfd16-32df-4f8e-b1a7-c122ed28b382,CA5|mistralai/mistral-large-2411|2,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+edce0b4a-01b9-4a37-828b-055cdbb2eb09,CA5|mistralai/mistral-large-2411|3,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+7e98d2ed-01a7-4b1d-8bec-1ff133543525,CA5|mistralai/mistral-large-2411|4,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+68adcb9a-e573-475c-a1b5-dc2843c2c688,CA5|mistralai/mistral-large-2411|5,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+da2937aa-d36c-4d6e-a167-287b5a5d3446,CA5|qwen/qwen-2.5-72b-instruct|1,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+12efa769-64b1-45cd-b742-70f4e422dfb8,CA5|qwen/qwen-2.5-72b-instruct|2,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+43f8c5ad-8a54-4bf8-a448-939314d1a3e8,CA5|qwen/qwen-2.5-72b-instruct|3,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+00270dc4-edc4-43be-a809-a9d84376d11b,CA5|qwen/qwen-2.5-72b-instruct|4,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+e1c83488-6624-429e-a1cb-2ef0f90b222e,CA5|qwen/qwen-2.5-72b-instruct|5,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+a2df9aac-e87a-4204-9c2d-971b44cf67e5,CA1|qwen/qwen-2.5-72b-instruct|1,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+387a8bc7-052f-405f-88ae-f0292dd4a86a,CA1|qwen/qwen-2.5-72b-instruct|2,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+4b7d643d-e2c1-4e9c-b19d-34f0b48ccb53,CA1|qwen/qwen-2.5-72b-instruct|3,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+9fb4cf69-6723-42f9-a9ac-377bfe0feb88,CA1|qwen/qwen-2.5-72b-instruct|4,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+6bf66925-0777-4fde-be45-2922a0c34e58,CA1|qwen/qwen-2.5-72b-instruct|5,CA1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1c10eecd-590d-4e54-9d9d-561fc90b4a70,CA2|qwen/qwen-2.5-72b-instruct|1,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+867828b2-b8cd-4a4e-ab83-a910a1ec3bdf,CA2|qwen/qwen-2.5-72b-instruct|2,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+ac0dd125-26f6-4af3-9d54-8078175cb40f,CA2|qwen/qwen-2.5-72b-instruct|3,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+959c6cdc-81e6-4681-a68e-8947d72f9ea3,CA2|qwen/qwen-2.5-72b-instruct|4,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+de54e2b7-c920-4702-9e96-ee08081ac22e,CA2|qwen/qwen-2.5-72b-instruct|5,CA2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+b88ab9a3-1e26-4e8a-9a0b-fdd999c917d1,CA3|qwen/qwen-2.5-72b-instruct|1,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+4c407de7-4710-41f8-90fb-baf27706e3a7,CA3|qwen/qwen-2.5-72b-instruct|2,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+f74daa05-4fbe-467c-9aea-6cdf0cdf8c30,CA3|qwen/qwen-2.5-72b-instruct|3,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+1ea87bb2-e384-46bd-8069-60091d3224d8,CA3|qwen/qwen-2.5-72b-instruct|4,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+98cc5fd5-92b4-4420-a425-284c4b31ba2b,CA3|qwen/qwen-2.5-72b-instruct|5,CA3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+0ab14801-c2c9-4688-87fc-31a2cd08254a,CA4|qwen/qwen-2.5-72b-instruct|3,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+df6a5c4c-c753-406d-a7a0-3642413a8cb0,CA4|qwen/qwen-2.5-72b-instruct|4,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+416f4dce-e6dd-4b16-ab76-13502bf436e3,CA4|qwen/qwen-2.5-72b-instruct|5,CA4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+918cb155-78a0-45b2-a882-66201c7d2aee,CA5|qwen/qwen-2.5-72b-instruct|1,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+d57bed4d-a1e9-4587-9f3f-a109bdb0dfa7,CA5|qwen/qwen-2.5-72b-instruct|2,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+8644ec8f-8a2e-43fd-a661-b8f3bbb696c8,CA5|qwen/qwen-2.5-72b-instruct|3,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+6529426d-a894-4189-b6af-a0d335237dfc,CA5|qwen/qwen-2.5-72b-instruct|4,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"
+6b8d2506-684d-469f-a404-3eb5a37a5b33,CA5|qwen/qwen-2.5-72b-instruct|5,CA5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo nese odpovědnost, pokud vzniknou nepokoje?"

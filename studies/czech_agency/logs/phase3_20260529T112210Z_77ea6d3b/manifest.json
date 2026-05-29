@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "run_id": "20260529T112210Z_77ea6d3b",
+  "phase": 3,
+  "started_at_utc": "2026-05-29T12:28:57.549450+00:00",
+  "completed_at_utc": "2026-05-29T12:29:27.184845+00:00",
+  "config": {
+    "study": "czech_agency",
+    "temperature": 0.3,
+    "allow_fallbacks": false,
+    "replicates": 5,
+    "timeout_s": 180.0,
+    "stimulus_filter": null,
+    "model_groups": [
+      "current_multilingual"
+    ],
+    "model_filter": [
+      "qwen/qwen-2.5-72b-instruct"
+    ],
+    "store_raw": false,
+    "baseline_condition": "CA1"
+  },
+  "design": {
+    "stimuli": [
+      "CA1",
+      "CA2",
+      "CA3",
+      "CA4",
+      "CA5"
+    ],
+    "languages": [
+      "cs"
+    ],
+    "models": [
+      "openai/gpt-4o",
+      "anthropic/claude-sonnet-4",
+      "google/gemini-2.0-flash-001",
+      "meta-llama/llama-3.3-70b-instruct",
+      "mistralai/mistral-large-2411",
+      "qwen/qwen-2.5-72b-instruct"
+    ],
+    "model_groups": [
+      "current_multilingual"
+    ],
+    "replicates": 5,
+    "planned_requests": 25
+  },
+  "stats": {
+    "ok": 0,
+    "error": 23,
+    "skipped": 2
+  },
+  "files": {
+    "responses_jsonl": "logs\\phase3_20260529T112210Z_77ea6d3b\\responses.jsonl",
+    "responses_csv": "logs\\phase3_20260529T112210Z_77ea6d3b\\responses_flat.csv",
+    "legacy_jsonl": "logs\\phase3_20260529T112210Z_77ea6d3b.jsonl",
+    "stimuli_snapshot": "stimuli_snapshot.yaml"
+  },
+  "analysis_hints": {
+    "primary_keys": [
+      "record_id",
+      "cell_key"
+    ],
+    "compare_baseline": "Join on model_requested, replicate, baseline_stimulus_id vs stimulus_id",
+    "coding_columns": [
+      "code_var_a",
+      "code_var_b",
+      "code_var_c",
+      "code_var_d",
+      "code_var_e",
+      "code_var_f",
+      "code_var_g",
+      "code_var_r",
+      "coder_id",
+      "coded_at"
+    ],
+    "iv_columns": [
+      "EN-AG",
+      "EN-OB",
+      "EN-AF",
+      "EN-PR",
+      "EN-E",
+      "EN-A",
+      "EN-V",
+      "CZ-AG",
+      "CZ-OB",
+      "CZ-AF",
+      "CZ-PR",
+      "JP-V",
+      "JP-A",
+      "JP-E",
+      "JP-H",
+      "JP-S"
+    ]
+  }
+}

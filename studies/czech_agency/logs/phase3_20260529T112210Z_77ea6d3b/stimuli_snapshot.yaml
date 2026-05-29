@@ -1,0 +1,98 @@
+cells:
+- stimulus_id: CA1
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: agentive
+  baseline_stimulus_id: CA1
+  translation_note: S2 agentive -- named institutional agent (urady odmitly vydat)
+  translation_status:
+    cs: draft_needs_native
+  prompt: 'Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly
+    vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo
+    tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina
+    nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+
+    Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo
+    nese odpovědnost, pokud vzniknou nepokoje?
+
+    '
+- stimulus_id: CA2
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: participial_passive
+  baseline_stimulus_id: CA1
+  translation_note: S2 participial passive -- agent removed (telo nebylo vydano)
+  translation_status:
+    cs: draft_needs_native
+  prompt: 'Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů
+    vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo
+    přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude
+    moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+
+    Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo
+    nese odpovědnost, pokud vzniknou nepokoje?
+
+    '
+- stimulus_id: CA3
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: reflexive_deagentive
+  baseline_stimulus_id: CA1
+  translation_note: S2 reflexive deagentive -- se-construction (telo se nevydalo)
+  translation_status:
+    cs: draft_needs_native
+  prompt: 'Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině
+    k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto
+    tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci
+    truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+
+    Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo
+    nese odpovědnost, pokud vzniknou nepokoje?
+
+    '
+- stimulus_id: CA4
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: decision_nominalization
+  baseline_stimulus_id: CA1
+  translation_note: S2 impersonal decision -- authority implied but hidden (bylo rozhodnuto,
+    ze...)
+  translation_status:
+    cs: draft_needs_native
+  prompt: 'Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto,
+    že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit,
+    nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina
+    nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+
+    Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo
+    nese odpovědnost, pokud vzniknou nepokoje?
+
+    '
+- stimulus_id: CA5
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: bureaucratic_nominalization
+  baseline_stimulus_id: CA1
+  translation_note: S2 bureaucratic nominalization -- maximal defocusing (doslo k
+    nevydani tela)
+  translation_status:
+    cs: draft_needs_native
+  prompt: 'Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání
+    těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto
+    tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci
+    truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+
+    Co má příbuzný udělat? Kdo nese odpovědnost za to, že tělo nebylo pohřbeno? Kdo
+    nese odpovědnost, pokud vzniknou nepokoje?
+
+    '

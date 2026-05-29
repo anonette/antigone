@@ -1,0 +1,506 @@
+{
+  "schema_version": 1,
+  "study": "czech_agency",
+  "run_id": "phase3_20260529T112210Z_77ea6d3b",
+  "title": "Czech agency module -- responsibility attribution by agency construction",
+  "subtitle": "One dilemma, only sentence 2 varies: agentive -> participial passive -> reflexive deagentive -> decision nominalization -> bureaucratic nominalization. Baseline = agentive (CA1).",
+  "n": 127,
+  "n_coded": 125,
+  "conditions": [
+    "agentive",
+    "participial_passive",
+    "reflexive_deagentive",
+    "decision_nominalization",
+    "bureaucratic_nominalization"
+  ],
+  "baseline": "agentive",
+  "hypothesis": "Passive/deagentive/nominalized formulations reduce primary blame on the authorities vs the agentive baseline, and may raise diffuse responsibility, legalism, or relative-blame.",
+  "by_condition": {
+    "var_a": [
+      {
+        "cz_agency": "agentive",
+        "code_var_a": "compromise",
+        "n": 20
+      },
+      {
+        "cz_agency": "agentive",
+        "code_var_a": "undecided",
+        "n": 5
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "code_var_a": "compromise",
+        "n": 17
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "code_var_a": "legal_challenge",
+        "n": 1
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "code_var_a": "undecided",
+        "n": 7
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "code_var_a": "compromise",
+        "n": 21
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "code_var_a": "legal_challenge",
+        "n": 1
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "code_var_a": "undecided",
+        "n": 3
+      },
+      {
+        "cz_agency": "participial_passive",
+        "code_var_a": "compromise",
+        "n": 19
+      },
+      {
+        "cz_agency": "participial_passive",
+        "code_var_a": "legal_challenge",
+        "n": 2
+      },
+      {
+        "cz_agency": "participial_passive",
+        "code_var_a": "undecided",
+        "n": 4
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "code_var_a": "compromise",
+        "n": 19
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "code_var_a": "legal_challenge",
+        "n": 1
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "code_var_a": "undecided",
+        "n": 5
+      }
+    ],
+    "authority_blame": [
+      {
+        "cz_agency": "agentive",
+        "authority_blame_score": "partial",
+        "n": 6
+      },
+      {
+        "cz_agency": "agentive",
+        "authority_blame_score": "primary",
+        "n": 19
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "authority_blame_score": "partial",
+        "n": 5
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "authority_blame_score": "primary",
+        "n": 20
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "authority_blame_score": "partial",
+        "n": 1
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "authority_blame_score": "primary",
+        "n": 24
+      },
+      {
+        "cz_agency": "participial_passive",
+        "authority_blame_score": "partial",
+        "n": 7
+      },
+      {
+        "cz_agency": "participial_passive",
+        "authority_blame_score": "primary",
+        "n": 18
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "authority_blame_score": "partial",
+        "n": 3
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "authority_blame_score": "primary",
+        "n": 22
+      }
+    ],
+    "relative_blame": [
+      {
+        "cz_agency": "agentive",
+        "relative_blame_score": "none",
+        "n": 5
+      },
+      {
+        "cz_agency": "agentive",
+        "relative_blame_score": "partial",
+        "n": 20
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "relative_blame_score": "none",
+        "n": 5
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "relative_blame_score": "partial",
+        "n": 20
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "relative_blame_score": "none",
+        "n": 5
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "relative_blame_score": "partial",
+        "n": 20
+      },
+      {
+        "cz_agency": "participial_passive",
+        "relative_blame_score": "none",
+        "n": 5
+      },
+      {
+        "cz_agency": "participial_passive",
+        "relative_blame_score": "partial",
+        "n": 20
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "relative_blame_score": "none",
+        "n": 5
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "relative_blame_score": "partial",
+        "n": 20
+      }
+    ],
+    "legalism": [
+      {
+        "cz_agency": "agentive",
+        "legalism_score": "mid",
+        "n": 25
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "legalism_score": "mid",
+        "n": 25
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "legalism_score": "mid",
+        "n": 25
+      },
+      {
+        "cz_agency": "participial_passive",
+        "legalism_score": "mid",
+        "n": 25
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "legalism_score": "mid",
+        "n": 25
+      }
+    ],
+    "dignity": [
+      {
+        "cz_agency": "agentive",
+        "dignity_score": "high",
+        "n": 15
+      },
+      {
+        "cz_agency": "agentive",
+        "dignity_score": "mid",
+        "n": 10
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "dignity_score": "high",
+        "n": 10
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "dignity_score": "mid",
+        "n": 15
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "dignity_score": "high",
+        "n": 14
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "dignity_score": "mid",
+        "n": 11
+      },
+      {
+        "cz_agency": "participial_passive",
+        "dignity_score": "high",
+        "n": 7
+      },
+      {
+        "cz_agency": "participial_passive",
+        "dignity_score": "mid",
+        "n": 18
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "dignity_score": "high",
+        "n": 11
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "dignity_score": "mid",
+        "n": 14
+      }
+    ],
+    "compromise_type": [
+      {
+        "cz_agency": "agentive",
+        "compromise_type": "negotiation",
+        "n": 20
+      },
+      {
+        "cz_agency": "agentive",
+        "compromise_type": "none",
+        "n": 4
+      },
+      {
+        "cz_agency": "agentive",
+        "compromise_type": "supervised_burial",
+        "n": 1
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "compromise_type": "negotiation",
+        "n": 18
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "compromise_type": "none",
+        "n": 4
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "compromise_type": "supervised_burial",
+        "n": 3
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "compromise_type": "court_appeal",
+        "n": 1
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "compromise_type": "negotiation",
+        "n": 21
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "compromise_type": "none",
+        "n": 3
+      },
+      {
+        "cz_agency": "participial_passive",
+        "compromise_type": "court_appeal",
+        "n": 3
+      },
+      {
+        "cz_agency": "participial_passive",
+        "compromise_type": "negotiation",
+        "n": 20
+      },
+      {
+        "cz_agency": "participial_passive",
+        "compromise_type": "none",
+        "n": 1
+      },
+      {
+        "cz_agency": "participial_passive",
+        "compromise_type": "supervised_burial",
+        "n": 1
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "compromise_type": "court_appeal",
+        "n": 1
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "compromise_type": "negotiation",
+        "n": 20
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "compromise_type": "none",
+        "n": 2
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "compromise_type": "supervised_burial",
+        "n": 2
+      }
+    ]
+  },
+  "rates": {
+    "agent_recovery": [
+      {
+        "cz_agency": "agentive",
+        "n": 25,
+        "yes_rate": 0.96
+      },
+      {
+        "cz_agency": "participial_passive",
+        "n": 25,
+        "yes_rate": 1.0
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "n": 25,
+        "yes_rate": 1.0
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "n": 25,
+        "yes_rate": 1.0
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "n": 25,
+        "yes_rate": 1.0
+      }
+    ],
+    "passive_echo": [
+      {
+        "cz_agency": "agentive",
+        "n": 25,
+        "yes_rate": 0.0
+      },
+      {
+        "cz_agency": "participial_passive",
+        "n": 25,
+        "yes_rate": 0.0
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "n": 25,
+        "yes_rate": 0.0
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "n": 25,
+        "yes_rate": 0.0
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "n": 25,
+        "yes_rate": 0.0
+      }
+    ]
+  },
+  "primary_vs_baseline": {
+    "authority_blame": [
+      {
+        "cz_agency": "agentive",
+        "n": 25,
+        "primary_rate": 0.76,
+        "delta_vs_agentive": 0.0
+      },
+      {
+        "cz_agency": "participial_passive",
+        "n": 25,
+        "primary_rate": 0.72,
+        "delta_vs_agentive": -0.04
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "n": 25,
+        "primary_rate": 0.88,
+        "delta_vs_agentive": 0.12
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "n": 25,
+        "primary_rate": 0.96,
+        "delta_vs_agentive": 0.2
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "n": 25,
+        "primary_rate": 0.8,
+        "delta_vs_agentive": 0.04
+      }
+    ],
+    "relative_blame": [
+      {
+        "cz_agency": "agentive",
+        "n": 25,
+        "primary_rate": 0.0,
+        "delta_vs_agentive": 0.0
+      },
+      {
+        "cz_agency": "participial_passive",
+        "n": 25,
+        "primary_rate": 0.0,
+        "delta_vs_agentive": 0.0
+      },
+      {
+        "cz_agency": "reflexive_deagentive",
+        "n": 25,
+        "primary_rate": 0.0,
+        "delta_vs_agentive": 0.0
+      },
+      {
+        "cz_agency": "decision_nominalization",
+        "n": 25,
+        "primary_rate": 0.0,
+        "delta_vs_agentive": 0.0
+      },
+      {
+        "cz_agency": "bureaucratic_nominalization",
+        "n": 25,
+        "primary_rate": 0.0,
+        "delta_vs_agentive": 0.0
+      }
+    ]
+  },
+  "response_length_median": [
+    {
+      "cz_agency": "agentive",
+      "response_char_len": 1913.0
+    },
+    {
+      "cz_agency": "bureaucratic_nominalization",
+      "response_char_len": 1865.0
+    },
+    {
+      "cz_agency": "decision_nominalization",
+      "response_char_len": 1793.0
+    },
+    {
+      "cz_agency": "participial_passive",
+      "response_char_len": 1961.0
+    },
+    {
+      "cz_agency": "reflexive_deagentive",
+      "response_char_len": 1749.0
+    }
+  ]
+}

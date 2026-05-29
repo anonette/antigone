@@ -1,0 +1,6 @@
+﻿cz_agency,court_appeal,negotiation,none,supervised_burial,%court_appeal,%negotiation,%none,%supervised_burial
+agentive,0,20,4,1,0.0,0.8,0.16,0.04
+participial_passive,3,20,1,1,0.12,0.8,0.04,0.04
+reflexive_deagentive,1,20,2,2,0.04,0.8,0.08,0.08
+decision_nominalization,1,21,3,0,0.04,0.84,0.12,0.0
+bureaucratic_nominalization,0,18,4,3,0.0,0.72,0.16,0.12
