@@ -1,5 +1,7 @@
 # Czech agency sub-study — pilot findings
 
+> **Independent study.** This Czech-only minimal-pair study (grammatical agency as the variable) is **separate** from the cross-language Phase 1 baseline (`output/phase1_v2_cross/FINDINGS.md`, run `phase1_…`). Do not pool or compare their numbers; different design, stimuli, models-present, and temperature.
+
 **Run:** `phase3_20260529T112210Z_77ea6d3b`
 **Design:** one burial-ban dilemma, five Czech minimal-pair conditions varying **only** the grammar of the authority's action (sentence 2); 6 models x 5 replicates, temperature 0.3.
 **Coded:** 125 responses (5 models x 5 conditions x 5 replicates). **qwen excluded** (its OpenRouter slug returns HTTP 400 for the `/completions` endpoint).

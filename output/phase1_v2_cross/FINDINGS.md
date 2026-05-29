@@ -1,5 +1,7 @@
 # Phase 1 — 10 most surprising findings
 
+> **Independent study.** This is the cross-language Phase 1 baseline (language as the variable). It is a **separate study** from the Czech agency sub-study (`studies/czech_agency/`, run `phase3_…`), which tests grammatical agency within Czech. Do not pool or compare their numbers; different design, stimuli, models-present, and temperature.
+
 **Run:** `phase1_20260525T135121Z_eab51040`  
 **Design:** 6 current multilingual LLMs × 3 languages (EN, CS, JA) × 3 replicates × 1 stimulus (burial-ban dilemma) = **54 manually coded responses** at temperature = 0.  
 **Codebook:** `codebook.md` (+ `codebook_cs_ja.md`).  
