@@ -92,22 +92,22 @@
       {
         "cz_agency": "agentive",
         "authority_blame_score": "partial",
-        "n": 6
+        "n": 2
       },
       {
         "cz_agency": "agentive",
         "authority_blame_score": "primary",
-        "n": 19
+        "n": 23
       },
       {
         "cz_agency": "bureaucratic_nominalization",
         "authority_blame_score": "partial",
-        "n": 5
+        "n": 2
       },
       {
         "cz_agency": "bureaucratic_nominalization",
         "authority_blame_score": "primary",
-        "n": 20
+        "n": 23
       },
       {
         "cz_agency": "decision_nominalization",
@@ -122,74 +122,69 @@
       {
         "cz_agency": "participial_passive",
         "authority_blame_score": "partial",
-        "n": 7
+        "n": 2
       },
       {
         "cz_agency": "participial_passive",
         "authority_blame_score": "primary",
-        "n": 18
-      },
-      {
-        "cz_agency": "reflexive_deagentive",
-        "authority_blame_score": "partial",
-        "n": 3
+        "n": 23
       },
       {
         "cz_agency": "reflexive_deagentive",
         "authority_blame_score": "primary",
-        "n": 22
+        "n": 25
       }
     ],
     "relative_blame": [
       {
         "cz_agency": "agentive",
         "relative_blame_score": "none",
-        "n": 5
+        "n": 19
       },
       {
         "cz_agency": "agentive",
         "relative_blame_score": "partial",
-        "n": 20
+        "n": 6
       },
       {
         "cz_agency": "bureaucratic_nominalization",
         "relative_blame_score": "none",
-        "n": 5
+        "n": 21
       },
       {
         "cz_agency": "bureaucratic_nominalization",
         "relative_blame_score": "partial",
-        "n": 20
+        "n": 4
       },
       {
         "cz_agency": "decision_nominalization",
         "relative_blame_score": "none",
-        "n": 5
+        "n": 18
       },
       {
         "cz_agency": "decision_nominalization",
         "relative_blame_score": "partial",
-        "n": 20
+        "n": 7
       },
       {
         "cz_agency": "participial_passive",
         "relative_blame_score": "none",
-        "n": 5
+        "n": 18
       },
       {
         "cz_agency": "participial_passive",
         "relative_blame_score": "partial",
-        "n": 20
+        "n": 7
       },
       {
         "cz_agency": "reflexive_deagentive",
         "relative_blame_score": "none",
-        "n": 5
+        "n": 21
       },
       {
         "cz_agency": "reflexive_deagentive",
         "relative_blame_score": "partial",
-        "n": 20
+        "n": 4
       }
     ],
     "legalism": [
@@ -420,32 +415,32 @@
       {
         "cz_agency": "agentive",
         "n": 25,
-        "primary_rate": 0.76,
+        "primary_rate": 0.92,
         "delta_vs_agentive": 0.0
       },
       {
         "cz_agency": "participial_passive",
         "n": 25,
-        "primary_rate": 0.72,
-        "delta_vs_agentive": -0.04
+        "primary_rate": 0.92,
+        "delta_vs_agentive": 0.0
       },
       {
         "cz_agency": "reflexive_deagentive",
         "n": 25,
-        "primary_rate": 0.88,
-        "delta_vs_agentive": 0.12
+        "primary_rate": 1.0,
+        "delta_vs_agentive": 0.08
       },
       {
         "cz_agency": "decision_nominalization",
         "n": 25,
         "primary_rate": 0.96,
-        "delta_vs_agentive": 0.2
+        "delta_vs_agentive": 0.04
       },
       {
         "cz_agency": "bureaucratic_nominalization",
         "n": 25,
-        "primary_rate": 0.8,
-        "delta_vs_agentive": 0.04
+        "primary_rate": 0.92,
+        "delta_vs_agentive": 0.0
       }
     ],
     "relative_blame": [

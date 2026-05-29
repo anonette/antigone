@@ -1,6 +1,6 @@
 ﻿cz_agency,none,partial,%none,%partial
-agentive,5,20,0.2,0.8
-participial_passive,5,20,0.2,0.8
-reflexive_deagentive,5,20,0.2,0.8
-decision_nominalization,5,20,0.2,0.8
-bureaucratic_nominalization,5,20,0.2,0.8
+agentive,19,6,0.76,0.24
+participial_passive,18,7,0.72,0.28
+reflexive_deagentive,21,4,0.84,0.16
+decision_nominalization,18,7,0.72,0.28
+bureaucratic_nominalization,21,4,0.84,0.16

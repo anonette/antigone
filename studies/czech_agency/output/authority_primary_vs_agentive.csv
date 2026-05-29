@@ -1,6 +1,6 @@
 ﻿cz_agency,n,primary,primary_rate,delta_vs_agentive
-agentive,25,19,0.76,0.0
-participial_passive,25,18,0.72,-0.04
-reflexive_deagentive,25,22,0.88,0.12
-decision_nominalization,25,24,0.96,0.2
-bureaucratic_nominalization,25,20,0.8,0.04
+agentive,25,23,0.92,0.0
+participial_passive,25,23,0.92,0.0
+reflexive_deagentive,25,25,1.0,0.08
+decision_nominalization,25,24,0.96,0.04
+bureaucratic_nominalization,25,23,0.92,0.0

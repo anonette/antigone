@@ -17,19 +17,19 @@
 
 ## Headline result
 
-**The agent-hiding manipulation did not reduce blame on the authorities.** Models reconstruct the deleted institutional agent and re-attribute primary responsibility to it, even in the most defocused (nominalized) conditions.
+**The agent-hiding manipulation did not reduce blame on the authorities.** Authority blame sits at ceiling in every condition — including the most defocused (nominalized) ones — with no meaningful gradient. Models reconstruct the deleted institutional agent and re-attribute primary responsibility to it regardless of surface grammar.
 
-### Authority blamed as "primary" for the non-burial
+### Authority blamed as "primary" for the non-burial (verified coding)
 
 | Condition | authority = primary | Δ vs agentive |
 |-----------|---------------------|----------------|
-| CA1 agentive | 76% | — |
-| CA2 participial passive | 72% | −0.04 |
-| CA3 reflexive deagentive | 88% | +0.12 |
-| CA4 decision nominalization | **96%** | **+0.20** |
-| CA5 bureaucratic nominalization | 80% | +0.04 |
+| CA1 agentive | 92% | — |
+| CA2 participial passive | 92% | 0.00 |
+| CA3 reflexive deagentive | 100% | +0.08 |
+| CA4 decision nominalization | 96% | +0.04 |
+| CA5 bureaucratic nominalization | 92% | 0.00 |
 
-If anything, the more bureaucratic the framing, the *more* the authorities are blamed (CA4 highest).
+The effect of the manipulation is essentially flat at ceiling: 92–100% across all five conditions. (An earlier first-pass coding showed a spurious 76→96% gradient; on verification this was a coding artifact — the rule had missed bare "Úřady nesou odpovědnost…" phrasings. Corrected, the picture is uniform near-ceiling.)
 
 ### Agent recovery (model re-names úřady / stát / orgán as the decision-maker)
 
@@ -56,6 +56,30 @@ Compromise/negotiation dominates (68–84% per condition), with a little legal_c
 At temperature 0.3, these six (five usable) models behave as **agent-restorers**: Czech deagentive, reflexive, and nominalized grammar — which in human discourse defocuses the institutional actor — does **not** shift LLM responsibility attribution away from the authorities. The models treat the hidden decision as an institutional act and name the institution regardless of surface grammar. The Pergler-style "agency management" effect, robust in human language, appears **not to transfer** to these models' explicit blame assignment on this dilemma.
 
 This is a clean, slightly counter-intuitive result that the controlled minimal-pair design was built to detect (and that the earlier cross-language Phase 2 cells, which confounded grammar with lexis/order/question wording, could not have isolated).
+
+## Why this might happen (hypotheses, ranked)
+
+These explain *why* the agent-hiding did not work. They are ordered by how strongly the current data support them, and each notes how to discriminate it.
+
+1. **The responsibility question re-agentivises the scene (most likely; partly methodological).** The prompt explicitly asks *"Kdo nese odpovědnost za to, že tělo nebylo pohřbeno?"* — which demands that the model name a responsible party. Deagentive grammar backgrounds the agent in sentence 2, but a direct "who is responsible?" question forces it back to the foreground. The manipulation and the measurement pull against each other. **Test:** a no-question control (free-form prompt without the explicit responsibility questions). If `agent_recovery` stays ~100%, the effect is genuine model behaviour; if it falls, the question was doing the work.
+
+2. **World knowledge overrides surface syntax.** After a terrorist attack, "the body was not released" has one pragmatically available agent — the authorities. The model fills the gap from world knowledge regardless of voice. Agency management *defocuses* a known agent; it does not delete the inference, and a system asked "who decided?" re-surfaces it. On this reading the models are doing competent pragmatic inference, not being fooled.
+
+3. **Instruct-tuning normalises terse/passive input into agentive analytic prose.** RLHF assistants rewrite whatever register they receive into structured exposition ("Primární odpovědnost nesou úřady, které rozhodly…"). This is the likely cause of `passive_echo = 0%`: they do not mirror the input voice, they re-render it.
+
+4. **Ceiling effect, not a gradient.** Corrected coding shows authority blame at 92–100% in every condition, so there is no room for the grammar to move it down — and it does not. Even *"bylo rozhodnuto"* and *"došlo k nevydání"* (which give the model the least agentive cue) still produce ~92–96% primary authority blame. The deagentive surface does not change the model's institutional attribution at all.
+
+**If the no-question control still shows ~100% recovery**, the substantive claim is: current instruct LLMs are *agent-restorers* — Czech agency-management grammar does not buy the institution the blame-deflection it buys in human discourse, because the models resolve responsibility from world knowledge and a normalising output style, and explicit-responsibility framing amplifies that.
+
+## Coding verification (rule-based first pass)
+
+The seven agency columns were filled by a rule-based first pass (`coder_id = auto-cursor-2026-05`) and then re-checked against the response texts. Verification notes:
+
+- `agent_recovery` and `passive_echo` are lexically robust (presence/absence of a named institutional agent vs agentless echo); manual spot-checks across conditions agreed with the rule.
+- `authority_blame_score`: **recoded after verification.** The first pass required the literal word "primární/hlavní" and so mis-labelled bare "Úřady nesou odpovědnost za to, že tělo nebylo pohřbeno" as `partial`. The corrected rule keys on the authority being named as the bearer of responsibility for the non-burial in any phrasing. Result: 92–100% `primary` across all conditions (a flat ceiling, not the spurious 76→96% gradient the first pass showed). 90 of 125 rows changed on recode.
+- `relative_blame_score` was recomputed alongside (none / partial / primary by explicit exoneration vs shared-blame phrasing). `compromise_type`, `legalism_score`, `dignity_score` and `code_var_a` remain **first-pass** and are the columns most in need of independent human coding.
+
+The headline (agent recovery ~100%, authority blame at ceiling, no deflection, passive_echo 0%) is robust to the recode; if anything the corrected coding makes it cleaner.
 
 ## Caveats before any claim
 
