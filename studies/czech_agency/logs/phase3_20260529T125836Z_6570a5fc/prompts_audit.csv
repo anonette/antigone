@@ -1,0 +1,388 @@
+﻿record_id,cell_key,stimulus_id,prompt_text
+5f01d814-553c-468f-9627-5180f29a9d92,CN1|openai/gpt-4o|1,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+76fdd9d0-f394-4d24-a950-e7fb35930720,CN1|openai/gpt-4o|2,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+84cf03d8-e919-4e4f-811f-0b3ea31f578d,CN1|openai/gpt-4o|3,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+2b1c6e5b-fd8c-4795-ae57-e186af561434,CN1|openai/gpt-4o|4,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+1900638d-bd66-4930-b6b1-bf69821940ea,CN1|openai/gpt-4o|5,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+37222a70-3d67-4edb-9513-99c46dfbaca9,CN1|anthropic/claude-sonnet-4|1,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+168169d8-d3ba-4c16-a093-5f2671c6bdcc,CN1|anthropic/claude-sonnet-4|2,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+e4be6e4d-1c85-413b-a2ed-9fe0e6d19ec1,CN1|anthropic/claude-sonnet-4|3,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+780abed8-3f61-4675-a0eb-fcb94fa89f82,CN1|anthropic/claude-sonnet-4|4,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+5af613f3-eff9-4656-8b8e-23160ea250cb,CN1|anthropic/claude-sonnet-4|5,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+8b02e51f-60aa-4655-ae35-0cf811df0e00,CN1|google/gemini-2.0-flash-001|1,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+757689f7-6d59-4bbe-bb6d-6844b9c4da78,CN1|google/gemini-2.0-flash-001|2,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+b5fffd5f-7504-4fc4-87c3-a1e34b01738b,CN1|google/gemini-2.0-flash-001|3,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+6e3e8dc4-e0ee-4a79-ae54-40267d67dd54,CN1|google/gemini-2.0-flash-001|4,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+c72a0c71-8a19-43ea-8305-942638bc52c6,CN1|google/gemini-2.0-flash-001|5,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+5fa75953-b641-4c2d-885d-5c77db87513a,CN1|meta-llama/llama-3.3-70b-instruct|1,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+27105263-c341-43b0-9cae-acb9d77a8d4b,CN1|meta-llama/llama-3.3-70b-instruct|2,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+bbb3bae8-c432-4828-af80-eb02d91917fd,CN1|meta-llama/llama-3.3-70b-instruct|3,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+474a5a85-71ca-43e8-ad4d-d1bbcf8d99a6,CN1|meta-llama/llama-3.3-70b-instruct|4,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+b40d7f1e-d47b-47c2-a093-0a6be728b5e1,CN1|meta-llama/llama-3.3-70b-instruct|5,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+0a7e88b8-2d01-4269-9218-e2a4db249f17,CN1|mistralai/mistral-large-2411|1,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+cd49c387-5696-40e0-bfb4-9ed7c3ba8df1,CN1|mistralai/mistral-large-2411|2,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+d28c108a-5432-4153-b302-f5beb76070f7,CN1|mistralai/mistral-large-2411|3,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+44e14f05-190c-4f04-8bbc-79eae89b03c6,CN1|mistralai/mistral-large-2411|4,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+73710cac-38a0-4592-a8fb-d6f0d13f5855,CN1|mistralai/mistral-large-2411|5,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+89d87597-4e4b-4000-a2b0-a1262f957b76,CN2|openai/gpt-4o|1,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+13ffab5c-13d3-4cf4-832b-b1317c3f6d5a,CN2|openai/gpt-4o|2,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+3644d7bd-1875-4eb1-995b-496070de8af6,CN2|openai/gpt-4o|3,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+9f89052d-cb19-4ab4-bbcf-69d17d792e8f,CN2|openai/gpt-4o|4,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+87543647-bb91-4d0c-9ca8-d27f0825bc3c,CN2|openai/gpt-4o|5,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+96fab904-f3e0-4cc8-b4b2-e477989cee22,CN2|anthropic/claude-sonnet-4|1,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+957c9737-728d-48d3-8886-9771c6dc35b4,CN2|anthropic/claude-sonnet-4|2,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+e40e44b0-aeb6-4170-bbf9-f7df51102255,CN2|anthropic/claude-sonnet-4|3,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+60042af3-d76d-4d23-adda-63d56f327ce2,CN2|anthropic/claude-sonnet-4|4,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+719d15b8-0b49-4b4b-87d4-ff03c55d8e92,CN2|anthropic/claude-sonnet-4|5,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+7da18c4c-4e66-42ea-bb79-1336da30ff55,CN2|google/gemini-2.0-flash-001|1,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+99adede9-9f22-475d-bfc3-f7c3d04e59b1,CN2|google/gemini-2.0-flash-001|2,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+312f6fc7-aeac-40ac-be09-c417468f89b0,CN2|google/gemini-2.0-flash-001|3,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+86c5aa3c-5547-445f-8157-0dc32298ef76,CN2|google/gemini-2.0-flash-001|4,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+8d3b5332-9ac7-439d-866c-b176a7d17049,CN2|google/gemini-2.0-flash-001|5,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+7591bdf0-25df-4b26-ba23-b49a528ae075,CN2|meta-llama/llama-3.3-70b-instruct|1,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+5d07dbb5-c7f2-445c-85e9-5e91eb12b859,CN2|meta-llama/llama-3.3-70b-instruct|2,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+6ec42b96-f003-400e-a975-523767b73abc,CN2|meta-llama/llama-3.3-70b-instruct|3,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+8916d219-e210-45a0-93fc-cb758cc8bf02,CN2|meta-llama/llama-3.3-70b-instruct|4,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+730e4242-8167-4179-bb4d-0595026abe7c,CN2|meta-llama/llama-3.3-70b-instruct|5,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+f50e23d2-0570-4863-8b7f-0cc4e1c5f22c,CN2|mistralai/mistral-large-2411|1,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+cc1070f0-d284-43e7-b045-bf37c62d401c,CN2|mistralai/mistral-large-2411|2,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+d68b9ae7-8af0-4a1c-875a-a2a3f6ab8da2,CN2|mistralai/mistral-large-2411|3,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+59c2f01f-7984-4437-876c-29e0628f3d68,CN2|mistralai/mistral-large-2411|4,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+bb37cff7-e5cc-4363-b25e-b89b2a9e63fc,CN2|mistralai/mistral-large-2411|5,CN2,"Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+bc82ab09-eea8-4a90-aab1-c32f6451547a,CN3|openai/gpt-4o|1,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+f37aab2f-6319-436d-bb48-a7dc23a6fbca,CN3|openai/gpt-4o|2,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+cc352e8a-dc6c-434b-b175-3352218cd1ec,CN3|openai/gpt-4o|3,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+edad4d6a-b202-49fb-b915-06e0ff69490e,CN3|openai/gpt-4o|4,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+efa2ac9f-2d0a-4f2b-be24-6761f7354861,CN3|openai/gpt-4o|5,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+6231dd95-640d-4feb-885d-e38a605a34d4,CN3|anthropic/claude-sonnet-4|1,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+ba6cca24-7b36-405b-8902-821c235e0c3c,CN3|anthropic/claude-sonnet-4|2,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+940e0b39-0e51-492f-86be-22869012404a,CN3|anthropic/claude-sonnet-4|3,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+e0bc7d74-7d13-4532-bd44-0dcaac20e280,CN3|anthropic/claude-sonnet-4|4,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+a07b0c07-20d7-4dbe-873b-c8447241b9a6,CN3|anthropic/claude-sonnet-4|5,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+ec0b3d08-35d8-493b-9dce-c018559177ba,CN3|google/gemini-2.0-flash-001|1,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+20510c15-f4e4-4e2f-97d6-5b56b7772662,CN3|google/gemini-2.0-flash-001|2,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+e4a329ad-b6d3-45e3-931c-202bea03824e,CN3|google/gemini-2.0-flash-001|3,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+869d58ab-870d-4856-a88d-acf75fe9245a,CN3|google/gemini-2.0-flash-001|4,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+850c93ea-4b00-4ba6-b2d9-6837064294b2,CN3|google/gemini-2.0-flash-001|5,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+b63402ae-c689-4ca2-9496-c043c6c16523,CN3|meta-llama/llama-3.3-70b-instruct|1,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+f1c27b8b-f185-45c1-a66b-8f2d6e2c7512,CN3|meta-llama/llama-3.3-70b-instruct|2,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+cb2a7829-8946-4bb6-99b0-12d4034577f9,CN3|meta-llama/llama-3.3-70b-instruct|3,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+cdbc5338-2458-405d-9c95-94d90cbc5813,CN3|meta-llama/llama-3.3-70b-instruct|4,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+0f8717ae-dc79-42be-bdc2-577e0642acbe,CN3|meta-llama/llama-3.3-70b-instruct|5,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+63276298-0d6b-4bc5-bbb7-a27f756615cc,CN3|mistralai/mistral-large-2411|1,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+212a93b4-c575-4612-a156-0e9275fdc407,CN3|mistralai/mistral-large-2411|2,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+6e6d0088-817f-4ba9-9342-54ab3bf12a06,CN3|mistralai/mistral-large-2411|3,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+cf992d27-793e-4f7a-9830-b2dd241779c1,CN3|mistralai/mistral-large-2411|4,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+cef2d36f-46e9-43aa-bc89-12ae51d2a2f3,CN3|mistralai/mistral-large-2411|5,CN3,"Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+a528050b-9567-4393-8af4-5ae6776e7364,CN4|openai/gpt-4o|1,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+603bd190-a268-4f2f-9b8c-76a67ac8f509,CN4|openai/gpt-4o|2,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+a9a2e1c5-6bc9-4f21-ba13-3faa96c9b545,CN4|openai/gpt-4o|3,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+60496e3c-62cd-455a-ac5d-78d1a6a5635a,CN4|openai/gpt-4o|4,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+9456348d-dd8a-47cd-8839-4c45ca512165,CN4|openai/gpt-4o|5,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+ecfc0f31-8986-4b5a-8eb1-65d760f45286,CN4|anthropic/claude-sonnet-4|1,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+ca0586b8-503d-43a5-beb5-ebf53b02ff8c,CN4|anthropic/claude-sonnet-4|2,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+d4dcb533-daf6-44a9-9c96-8e9b94f06097,CN4|anthropic/claude-sonnet-4|3,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+a1c546ef-8e34-4fb9-8e50-6944a1089f65,CN4|anthropic/claude-sonnet-4|4,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+1b70b658-5a37-479f-a9d5-f7f7b4d62b4e,CN4|anthropic/claude-sonnet-4|5,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+d4c4b608-4ee6-4679-915a-f7333bbd8b85,CN4|google/gemini-2.0-flash-001|1,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+baf83602-c5c1-4802-8274-8024d35dce08,CN4|google/gemini-2.0-flash-001|2,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+d8b5fdff-1723-4885-a631-4a5c15f7034b,CN4|google/gemini-2.0-flash-001|3,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+2f6a99c2-0d2c-4d8b-9259-8415d65de119,CN4|google/gemini-2.0-flash-001|4,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+c2bdf0ce-ff12-4e6e-a508-26a456947d71,CN4|google/gemini-2.0-flash-001|5,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+dfbd0ba4-188a-40cc-a331-880eb2919dac,CN4|meta-llama/llama-3.3-70b-instruct|1,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+b34821f3-002c-487d-ba18-b5e267e870bf,CN4|meta-llama/llama-3.3-70b-instruct|2,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+6b466046-d643-454f-ab04-3e7eabff423e,CN4|meta-llama/llama-3.3-70b-instruct|3,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+f32d4031-bff1-4e06-bf35-48c52227e666,CN4|meta-llama/llama-3.3-70b-instruct|4,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+7188e5c9-45a3-42b5-bd9d-4ac58064b04f,CN4|meta-llama/llama-3.3-70b-instruct|5,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+03b15f2a-2d02-43fc-ad54-e0ec8ff7bc10,CN4|mistralai/mistral-large-2411|1,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+bfac69ca-7524-4646-8a15-5bfbc17e068b,CN4|mistralai/mistral-large-2411|2,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+ca97d342-f947-4a90-b270-1944a2d6e135,CN4|mistralai/mistral-large-2411|3,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+ea240596-7275-413c-9a4c-2335b8ef68c5,CN4|mistralai/mistral-large-2411|4,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+6b5ff835-befc-4faf-8f29-d6bcd65c0c63,CN4|mistralai/mistral-large-2411|5,CN4,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+5d92bac3-d1cd-4d2d-a807-7cb58f89954c,CN5|openai/gpt-4o|1,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+d3657418-c0c7-478b-a327-fe93c43e9820,CN5|openai/gpt-4o|2,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+52223553-a7d7-4eea-8dbf-081764518368,CN5|openai/gpt-4o|3,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+40186309-36d9-4c59-9152-c6dd1acacd26,CN5|openai/gpt-4o|4,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+250b5477-201d-410b-a050-b2fc0cf81de6,CN5|openai/gpt-4o|5,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+cd824607-217f-4a9d-acf0-3b33b28bd274,CN5|anthropic/claude-sonnet-4|1,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+c720a153-f394-43d1-8d31-23e917373b6e,CN5|anthropic/claude-sonnet-4|2,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+5a7307cf-dca1-4f63-ab4e-e921be66407f,CN5|anthropic/claude-sonnet-4|3,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+979d0d28-b1b6-46b8-a747-4b0673f2aac0,CN5|anthropic/claude-sonnet-4|4,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+d1315e4d-e166-4e1f-ba10-29710cb5403e,CN5|anthropic/claude-sonnet-4|5,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+c1eaf845-3766-4e94-94cc-5f2f83a01bc1,CN5|google/gemini-2.0-flash-001|1,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+89ece87c-6f45-45aa-b3de-98eedb83ee96,CN5|google/gemini-2.0-flash-001|2,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+42856bf9-a980-416e-bbea-88ba3238c884,CN5|google/gemini-2.0-flash-001|3,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+1f617da8-d9f5-49a1-a964-7bec26c783c2,CN5|google/gemini-2.0-flash-001|4,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+5b7c973c-6ad3-4090-b044-90f653174b93,CN5|google/gemini-2.0-flash-001|5,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+9a594336-c96b-4560-a736-4d37b56a0573,CN5|meta-llama/llama-3.3-70b-instruct|1,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+775588a6-c069-4078-aade-e91000b75863,CN5|meta-llama/llama-3.3-70b-instruct|2,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+a2fc96fd-6a0e-41d6-a44d-447aae6c4360,CN5|meta-llama/llama-3.3-70b-instruct|3,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+05301a38-74ff-478b-aebd-31fb2351f0d4,CN5|meta-llama/llama-3.3-70b-instruct|4,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+194e945f-a9a4-4132-be78-4925d6f5ded7,CN5|meta-llama/llama-3.3-70b-instruct|5,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+143d440f-6213-49b6-858e-ea6a5bcd45ac,CN5|mistralai/mistral-large-2411|1,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+3f410920-b486-4f4f-816f-26573e426dad,CN5|mistralai/mistral-large-2411|2,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+1055a838-321e-4e12-828a-b708d34f7c0f,CN5|mistralai/mistral-large-2411|3,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+0e605673-b98c-4745-8bc2-2a5f3044dd75,CN5|mistralai/mistral-large-2411|4,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+6a6770ab-d6c1-47e4-99b2-2713540f0758,CN5|mistralai/mistral-large-2411|5,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+64ae5846-da5a-4dc4-a4ca-330436854e11,CN1|meta-llama/llama-3.3-70b-instruct|1,CN1,"Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+afd28e53-0906-4ee6-9ceb-4becbd113e5e,CN5|google/gemini-2.0-flash-001|1,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+7c869e82-feb3-4bed-90ab-84eb074a2b5b,CN5|google/gemini-2.0-flash-001|2,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"
+75ed6e63-c0e7-4455-8405-181d27e7407f,CN5|google/gemini-2.0-flash-001|3,CN5,"Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+Co má příbuzný udělat?"

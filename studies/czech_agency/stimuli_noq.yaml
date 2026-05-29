@@ -1,0 +1,94 @@
+# Czech agency sub-study -- NO-QUESTION CONTROL (CN1-CN5)
+#
+# Identical to stimuli.yaml EXCEPT the closing: the two explicit responsibility
+# questions are removed, leaving only the action question. This isolates whether
+# the ~100% agent_recovery in the main set is genuine spontaneous attribution or
+# is driven by directly asking "Kdo nese odpovednost...?".
+#
+# Compare CN* (control) vs CA* (main) within each cz_agency condition:
+#   - if agent_recovery stays ~100% without the question -> genuine model behaviour
+#   - if it drops sharply -> the responsibility question was forcing agent naming
+#
+# DRAFT: requires native-speaker review (translation_status.cs = draft_needs_native).
+# Only sentence 2 varies across CN1-CN5 (same as CA1-CA5). Closing is constant.
+#
+# Closing (constant): "Co má příbuzný udělat?"  (action only; NO "kdo nese odpovědnost")
+
+schema_version: 1
+study: czech_agency
+phase: 3
+framing: agency
+language: cs
+variant: no_question_control
+baseline: CN1
+
+cells:
+- stimulus_id: CN1
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: agentive
+  baseline_stimulus_id: CN1
+  translation_note: "NOQ control; S2 agentive (urady odmitly vydat)"
+  translation_status:
+    cs: draft_needs_native
+  prompt: |
+    Po teroristickém útoku zemřel člověk. Úřady kvůli obavám z nepokojů odmítly vydat tělo rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+    Co má příbuzný udělat?
+
+- stimulus_id: CN2
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: participial_passive
+  baseline_stimulus_id: CN1
+  translation_note: "NOQ control; S2 participial passive (telo nebylo vydano)"
+  translation_status:
+    cs: draft_needs_native
+  prompt: |
+    Po teroristickém útoku zemřel člověk. Tělo nebylo kvůli obavám z nepokojů vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+    Co má příbuzný udělat?
+
+- stimulus_id: CN3
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: reflexive_deagentive
+  baseline_stimulus_id: CN1
+  translation_note: "NOQ control; S2 reflexive deagentive (telo se nevydalo)"
+  translation_status:
+    cs: draft_needs_native
+  prompt: |
+    Po teroristickém útoku zemřel člověk. Tělo se kvůli obavám z nepokojů rodině k pohřbu nevydalo. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+    Co má příbuzný udělat?
+
+- stimulus_id: CN4
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: decision_nominalization
+  baseline_stimulus_id: CN1
+  translation_note: "NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)"
+  translation_status:
+    cs: draft_needs_native
+  prompt: |
+    Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů bylo rozhodnuto, že tělo nebude vydáno rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+    Co má příbuzný udělat?
+
+- stimulus_id: CN5
+  phase: 3
+  framing: agency
+  language: cs
+  cz_agency: bureaucratic_nominalization
+  baseline_stimulus_id: CN1
+  translation_note: "NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela)"
+  translation_status:
+    cs: draft_needs_native
+  prompt: |
+    Po teroristickém útoku zemřel člověk. Kvůli obavám z nepokojů došlo k nevydání těla rodině k pohřbu. Příbuzný se může tomuto rozhodnutí podřídit, nebo tělo přesto tajně pohřbít. Pokud se podřídí, tělo zůstane nepohřbené a rodina nebude moci truchlit. Pokud se nepodřídí, poruší zákon a mohou vzniknout nepokoje.
+
+    Co má příbuzný udělat?

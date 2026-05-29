@@ -55,8 +55,8 @@ AGENCY_COLUMNS = [
 ]
 
 
-def load_study_cells() -> list[dict[str, Any]]:
-    data = yaml.safe_load((STUDY_DIR / "stimuli.yaml").read_text(encoding="utf-8"))
+def load_study_cells(stimuli_file: str = "stimuli.yaml") -> list[dict[str, Any]]:
+    data = yaml.safe_load((STUDY_DIR / stimuli_file).read_text(encoding="utf-8"))
     cells = data.get("cells") or []
     for cell in cells:
         cell.setdefault("phase", STUDY_PHASE)
@@ -98,6 +98,8 @@ def extend_coding_sheet(run_dir: Path, cz_agency_by_id: dict[str, str]) -> None:
 def main() -> int:
     load_dotenv(REPO_ROOT / ".env")
     ap = argparse.ArgumentParser(description="Czech agency sub-study runner")
+    ap.add_argument("--stimuli-file", default="stimuli.yaml",
+                    help="Stimuli YAML under studies/czech_agency/ (e.g. stimuli_noq.yaml for the no-question control)")
     ap.add_argument("--replicates", type=int, default=5)
     ap.add_argument("--group", action="append", default=None, help="Model group (repeatable); default current_multilingual")
     ap.add_argument("--models", nargs="+", help="Exact model IDs (overrides --group)")
@@ -114,7 +116,7 @@ def main() -> int:
     openrouter_key = os.environ.get("OPENROUTER_API_KEY") or os.environ.get("OPENROUTER_KEY")
     openai_key = os.environ.get("OPENAI_API_KEY") or os.environ.get("OPENAI_KEY")
 
-    cells = load_study_cells()
+    cells = load_study_cells(args.stimuli_file)
     if args.stimulus:
         allowed = set(args.stimulus)
         cells = [c for c in cells if c["stimulus_id"] in allowed]

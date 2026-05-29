@@ -19,6 +19,8 @@
 
 **The agent-hiding manipulation did not reduce blame on the authorities.** Authority blame sits at ceiling in every condition — including the most defocused (nominalized) ones — with no meaningful gradient. Models reconstruct the deleted institutional agent and re-attribute primary responsibility to it regardless of surface grammar.
 
+> **Important qualification (see "No-question control" below):** the ceiling-level blame is largely **driven by explicitly asking "who is responsible?"**. In a control without that question, only 5/125 responses volunteer any responsibility, and a real (modest) agency-grammar effect on spontaneous agent-naming appears (92% → ~72%). Read this headline together with the control section.
+
 ### Authority blamed as "primary" for the non-burial (verified coding)
 
 | Condition | authority = primary | Δ vs agentive |
@@ -70,6 +72,34 @@ These explain *why* the agent-hiding did not work. They are ordered by how stron
 4. **Ceiling effect, not a gradient.** Corrected coding shows authority blame at 92–100% in every condition, so there is no room for the grammar to move it down — and it does not. Even *"bylo rozhodnuto"* and *"došlo k nevydání"* (which give the model the least agentive cue) still produce ~92–96% primary authority blame. The deagentive surface does not change the model's institutional attribution at all.
 
 **If the no-question control still shows ~100% recovery**, the substantive claim is: current instruct LLMs are *agent-restorers* — Czech agency-management grammar does not buy the institution the blame-deflection it buys in human discourse, because the models resolve responsibility from world knowledge and a normalising output style, and explicit-responsibility framing amplifies that.
+
+## No-question control (CN1–CN5) — RESULT
+
+Control run `phase3_20260529T125836Z_6570a5fc`: CN1–CN5 are byte-identical to CA1–CA5 except the closing drops the two responsibility questions, leaving only *"Co má příbuzný udělat?"* (5 models × 5 conditions × 5 replicates = 125; qwen excluded).
+
+Two clear effects:
+
+**1. Blame attribution is almost entirely question-driven.** Only **5 of 125** control responses mention responsibility at all (vs 125/125 when explicitly asked). Remove the question and the models simply do not volunteer a responsible party. The main-set "authority blame at ceiling" is therefore largely an artifact of asking — hypothesis #1 is **supported**.
+
+**2. Agent recovery is genuine but the question masked a real grammar effect.** Even unprompted, models name úřady/stát while reasoning about what to do — but recovery is no longer at ceiling, and a framing gradient appears:
+
+| Condition | agent_recovery WITH question (CA) | agent_recovery NO question (CN) |
+|-----------|-----------------------------------|----------------------------------|
+| agentive | 96% | 92% |
+| participial passive | 100% | 76% |
+| reflexive deagentive | 100% | 72% |
+| decision nominalization | 100% | 88% |
+| bureaucratic nominalization | 100% | 72% |
+
+With the explicit question, recovery is a flat 96–100% (grammar washed out). Without it, deagentive/nominalized grammar cuts spontaneous agent-naming by ~16–20 points vs the agentive baseline. **So the agency-management effect is real but small, and the responsibility question saturates it.**
+
+### Revised takeaway
+
+- The strong "no deflection, ceiling blame" main-set result is **mostly an effect of the responsibility question**, which forces the model to name and rank an agent.
+- Underneath, **Czech deagentive grammar does modestly suppress spontaneous agent-naming** (92% → ~72%), visible only once the forcing question is removed.
+- Agent recovery never collapses (≥72%): models still reconstruct the institutional actor from world knowledge most of the time, consistent with hypotheses #2–#3.
+
+Control tables/charts: `output_noq/` (`agent_recovery_rate.csv`, etc.). Note `authority_blame` in the control is based on only the 5 responses that discussed responsibility, so its rates are not interpretable — the interpretable control measure is `agent_recovery`.
 
 ## Coding verification (rule-based first pass)
 
