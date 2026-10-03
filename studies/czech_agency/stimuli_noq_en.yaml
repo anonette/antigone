@@ -1,0 +1,71 @@
+# Czech agency sub-study -- ENGLISH PARALLEL of the no-question control (EN1-EN5)
+#
+# Cross-language test of the agent-recovery gradient: the same four agent-hiding
+# constructions as CN1, CN2, CN4, CN5, rendered in English, with the same closing
+# (action question only). The Czech reflexive deagentive (CN3, "tělo se nevydalo")
+# has no English counterpart and is therefore a Czech-only cell; EN3 is omitted.
+#
+# Purpose: if the gradient tracks the construction, it should reappear in English
+# for the same models (GPT-4o, Claude Sonnet 4). If those models hide the agent
+# equally in English passives, the effect is the model's default register, not a
+# property of Czech grammar.
+#
+# The `cz_agency` field carries the construction label so that the existing
+# analysis and coder scripts work unchanged.
+
+schema_version: 1
+study: czech_agency
+phase: 3
+framing: agency
+language: en
+variant: no_question_control_en
+baseline: EN1
+
+cells:
+- stimulus_id: EN1
+  phase: 3
+  framing: agency
+  language: en
+  cz_agency: agentive
+  baseline_stimulus_id: EN1
+  translation_note: "EN parallel of CN1; S2 agentive (the authorities refused to release)"
+  prompt: |
+    A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+    What should the relative do?
+
+- stimulus_id: EN2
+  phase: 3
+  framing: agency
+  language: en
+  cz_agency: participial_passive
+  baseline_stimulus_id: EN1
+  translation_note: "EN parallel of CN2; S2 agentless passive (the body was not released)"
+  prompt: |
+    A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+    What should the relative do?
+
+- stimulus_id: EN4
+  phase: 3
+  framing: agency
+  language: en
+  cz_agency: decision_nominalization
+  baseline_stimulus_id: EN1
+  translation_note: "EN parallel of CN4; S2 impersonal decision (it was decided that)"
+  prompt: |
+    A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+    What should the relative do?
+
+- stimulus_id: EN5
+  phase: 3
+  framing: agency
+  language: en
+  cz_agency: bureaucratic_nominalization
+  baseline_stimulus_id: EN1
+  translation_note: "EN parallel of CN5; S2 event nominalization (the non-release of the body occurred)"
+  prompt: |
+    A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+    What should the relative do?

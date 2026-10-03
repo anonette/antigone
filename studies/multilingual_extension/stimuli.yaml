@@ -1,0 +1,232 @@
+# Multilingual extension -- endorsement-marking minimal pairs (ISF five-language set)
+#
+# DRAFT: EVERY non-English string requires a native-speaker pass before collection.
+# translation_status per cell:
+#   en: source | cs: parallel (P1-CS verbatim) or draft_needs_native (new variant)
+#   bg / sr / he: draft_needs_native -- drafted by the co-PI's team, NOT yet
+#   native-reviewed. NO COLLECTION on any bg/sr/he cell before native sign-off
+#   (Gate 0 in README.md). This is the hard rule the 90/125 Czech recode bought.
+#
+# Design: 5 languages x 2 evidential conditions, full-question closing.
+#   ME-<LANG>-B  baseline    -- authority action narrated in plain/confirmative indicative
+#   ME-<LANG>-R  reportative -- ONLY the marking of the authority-action sentence changes,
+#                               using each language's own carrier from ISF Table 1:
+#     BG: renarrative morphology (bare l-participle, no auxiliary)   [morphological]
+#     SR: navodno                                                    [lexical adverb]
+#     CS: reportative mel + infinitive (fallback: udajne)            [reportative modal]
+#     HE: lekhora                                                    [legal lexeme]
+#     EN: reportedly                                                 [lexical adverb]
+#   Baselines ME-EN-B / ME-CS-B are P1-EN / P1-CS VERBATIM (anchor cells: continuity
+#   with run phase1_20260525T135121Z_eab51040; numbers are still never pooled across runs).
+#
+# No prompt names evidentiality, endorsement, neutrality, or any measured construct
+# (saturation rule). The manipulation lives in the stimulus grammar itself and is
+# counterbalanced (B vs R) so calque is separable from stimulus echo.
+#
+# The action-only control (MN-*) is in stimuli_noq.yaml (saturation finding:
+# the responsibility question can saturate grammatical effects; spontaneous
+# endorsement marking is the primary DV surface and lives in the control).
+
+schema_version: 1
+study: multilingual_extension
+phase: 4
+framing: endorsement
+baseline: per-language (ME-<LANG>-B)
+
+cells:
+
+# ---------------- English (anchor) ----------------
+
+- stimulus_id: ME-EN-B
+  phase: 4
+  framing: endorsement
+  language: en
+  evid_condition: baseline
+  question_condition: full
+  baseline_stimulus_id: ME-EN-B
+  translation_note: "P1-EN verbatim (anchor cell)."
+  translation_status:
+    en: source
+  prompt: |
+    A person died after committing a terrorist attack. Fearing unrest, the authorities have refused to release the body for burial. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and unrest may follow.
+
+    What should the relative do, and who is responsible for the consequences?
+
+- stimulus_id: ME-EN-R
+  phase: 4
+  framing: endorsement
+  language: en
+  evid_condition: reportative
+  question_condition: full
+  baseline_stimulus_id: ME-EN-B
+  translation_note: "Minimal pair: 'reportedly' inserted into the authority-action sentence only. Parallel of Phase 2 E6, restricted to sentence 2 for minimal-pair discipline."
+  translation_status:
+    en: source
+  prompt: |
+    A person died after committing a terrorist attack. Fearing unrest, the authorities have reportedly refused to release the body for burial. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and unrest may follow.
+
+    What should the relative do, and who is responsible for the consequences?
+
+# ---------------- Czech (anchor) ----------------
+
+- stimulus_id: ME-CS-B
+  phase: 4
+  framing: endorsement
+  language: cs
+  evid_condition: baseline
+  question_condition: full
+  baseline_stimulus_id: ME-CS-B
+  translation_note: "P1-CS verbatim (anchor cell). Feminine actor 'pribuzna' kept for Phase 1 continuity; see README limitations on actor gender across languages."
+  translation_status:
+    cs: parallel
+  prompt: |
+    Po teroristickém útoku zemřela osoba, jejíž tělo úřady kvůli obavám z nepokojů odmítly rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+
+    Co má příbuzná udělat a kdo nese odpovědnost za následky?
+
+- stimulus_id: ME-CS-R
+  phase: 4
+  framing: endorsement
+  language: cs
+  evid_condition: reportative
+  question_condition: full
+  baseline_stimulus_id: ME-CS-B
+  translation_note: >
+    Minimal pair: reportative 'mely ... odmitnout' (mel + infinitive, the ISF Czech
+    judicial-register carrier) replaces plain 'odmitly' in the relative clause; nothing
+    else changes. NATIVE REVIEW: confirm the reportative (not deontic 'were supposed to')
+    reading is the salient one inside the relative clause; if not, fall back to
+    'udajne odmitly' and record the substitution.
+  translation_status:
+    cs: draft_needs_native
+  prompt: |
+    Po teroristickém útoku zemřela osoba, jejíž tělo úřady měly kvůli obavám z nepokojů odmítnout rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+
+    Co má příbuzná udělat a kdo nese odpovědnost za následky?
+
+# ---------------- Bulgarian ----------------
+
+- stimulus_id: ME-BG-B
+  phase: 4
+  framing: endorsement
+  language: bg
+  evid_condition: baseline
+  question_condition: full
+  baseline_stimulus_id: ME-BG-B
+  translation_note: >
+    Narrative past in aorist indicative (confirmative). NATIVE REVIEW: naturalness of
+    'един от роднините'/'роднината' chain; 'да скърби' vs 'да жалее'; overall register.
+  translation_status:
+    bg: draft_needs_native
+  prompt: |
+    Човек почина, след като извърши терористичен акт. Властите, опасявайки се от размирици, отказаха да предадат тялото на семейството за погребение. Един от роднините може да се подчини на забраната или тайно да погребе тялото. Ако се подчини, тялото ще остане непогребано и семейството няма да може да скърби. Ако не се подчини, ще наруши закона и може да последват размирици.
+
+    Какво трябва да направи роднината и кой носи отговорност за последствията?
+
+- stimulus_id: ME-BG-R
+  phase: 4
+  framing: endorsement
+  language: bg
+  evid_condition: reportative
+  question_condition: full
+  baseline_stimulus_id: ME-BG-B
+  translation_note: >
+    Minimal pair: sentences 1-2 shift from aorist to renarrative (bare l-participles,
+    no auxiliary: 'починал', 'извършил', 'отказали'); conditionals and questions unchanged.
+    Renarrative is carried through BOTH narrative sentences so the nonconfirmative frame
+    is unambiguous. NATIVE REVIEW (critical): (a) confirm the bare l-participles read as
+    renarrative and not as truncated perfect -- this is exactly the third-person
+    auxiliary-drop homography (Friedman: nonconfirmative marking, not obligatory
+    Aikhenvald evidentials); (b) adjudicate whether a sentence-2-only renarrative
+    ('отказали' alone amid aorist narration) would be preferable as a tighter minimal
+    pair, or too ambiguous -- the reviewer's call is recorded either way.
+  translation_status:
+    bg: draft_needs_native
+  prompt: |
+    Човек починал, след като извършил терористичен акт. Властите, опасявайки се от размирици, отказали да предадат тялото на семейството за погребение. Един от роднините може да се подчини на забраната или тайно да погребе тялото. Ако се подчини, тялото ще остане непогребано и семейството няма да може да скърби. Ако не се подчини, ще наруши закона и може да последват размирици.
+
+    Какво трябва да направи роднината и кой носи отговорност за последствията?
+
+# ---------------- Serbian ----------------
+# Digraphia rule: Latin script is the collection script for this study; a Cyrillic
+# rendering is produced at native review and archived with the sign-off (script
+# mapping preserved, per the ISF Serbian protocol). Form lists cover both scripts.
+
+- stimulus_id: ME-SR-B
+  phase: 4
+  framing: endorsement
+  language: sr
+  evid_condition: baseline
+  question_condition: full
+  baseline_stimulus_id: ME-SR-B
+  translation_note: >
+    Plain indicative narration. NATIVE REVIEW: 'da tuguje' vs 'da zali' for mourning;
+    'povinuje se zabrani' register; ekavian standard assumed (Serbian, not Croatian/Bosnian
+    lexical choices).
+  translation_status:
+    sr: draft_needs_native
+  prompt: |
+    Jedna osoba je umrla nakon što je izvršila teroristički napad. Plašeći se nemira, vlasti su odbile da porodici predaju telo radi sahrane. Rođak može da se povinuje zabrani ili da telo tajno sahrani. Ako se povinuje, telo će ostati nesahranjeno i porodica neće moći da tuguje. Ako se ne povinuje, prekršiće zakon i mogu uslediti nemiri.
+
+    Šta rođak treba da uradi i ko snosi odgovornost za posledice?
+
+- stimulus_id: ME-SR-R
+  phase: 4
+  framing: endorsement
+  language: sr
+  evid_condition: reportative
+  question_condition: full
+  baseline_stimulus_id: ME-SR-B
+  translation_note: >
+    Minimal pair: 'navodno' inserted before the authority verb; nothing else changes.
+    Serbian has essentially one hearsay adverb and no grammaticalized evidential --
+    that asymmetry with Bulgarian IS the design (lexical vs morphological marking of
+    the same reported content). NATIVE REVIEW: position of 'navodno' (scope over the
+    refusal, not over the fear) and whether it reads as reportative rather than
+    doubting/ironic in this register.
+  translation_status:
+    sr: draft_needs_native
+  prompt: |
+    Jedna osoba je umrla nakon što je izvršila teroristički napad. Plašeći se nemira, vlasti su navodno odbile da porodici predaju telo radi sahrane. Rođak može da se povinuje zabrani ili da telo tajno sahrani. Ako se povinuje, telo će ostati nesahranjeno i porodica neće moći da tuguje. Ako se ne povinuje, prekršiće zakon i mogu uslediti nemiri.
+
+    Šta rođak treba da uradi i ko snosi odgovornost za posledice?
+
+# ---------------- Hebrew ----------------
+
+- stimulus_id: ME-HE-B
+  phase: 4
+  framing: endorsement
+  language: he
+  evid_condition: baseline
+  question_condition: full
+  baseline_stimulus_id: ME-HE-B
+  translation_note: >
+    Plain narration. NATIVE REVIEW (PI is the native reviewer of record for Hebrew):
+    'mekhashash le-mehumot' vs 'le-tsisa' for unrest; gender of the actor (masculine
+    'krov mishpakha' drafted; see README limitations on actor gender across languages).
+  translation_status:
+    he: draft_needs_native
+  prompt: |
+    אדם מת לאחר שביצע פיגוע טרור. מחשש למהומות, הרשויות סירבו למסור את הגופה למשפחה לקבורה. קרוב משפחה יכול לציית לאיסור או לקבור את הגופה בסתר. אם יציית, הגופה תישאר ללא קבורה והמשפחה לא תוכל להתאבל. אם לא יציית, הוא יפר את החוק ועלולות לפרוץ מהומות.
+
+    מה על קרוב המשפחה לעשות, ומי נושא באחריות לתוצאות?
+
+- stimulus_id: ME-HE-R
+  phase: 4
+  framing: endorsement
+  language: he
+  evid_condition: reportative
+  question_condition: full
+  baseline_stimulus_id: ME-HE-B
+  translation_note: >
+    Minimal pair: 'lekhora' (the ISF Hebrew legal lexeme of non-endorsement) inserted
+    after the authority verb; nothing else changes. NATIVE REVIEW (PI): placement and
+    register of 'lekhora' here -- in ordinary prose it can read as 'ostensibly/allegedly'
+    with legal flavor; if it reads unnatural outside judicial prose, the recorded
+    fallback is 'al pi ha-divukhim' (according to reports), with the substitution noted.
+  translation_status:
+    he: draft_needs_native
+  prompt: |
+    אדם מת לאחר שביצע פיגוע טרור. מחשש למהומות, הרשויות סירבו לכאורה למסור את הגופה למשפחה לקבורה. קרוב משפחה יכול לציית לאיסור או לקבור את הגופה בסתר. אם יציית, הגופה תישאר ללא קבורה והמשפחה לא תוכל להתאבל. אם לא יציית, הוא יפר את החוק ועלולות לפרוץ מהומות.
+
+    מה על קרוב המשפחה לעשות, ומי נושא באחריות לתוצאות?

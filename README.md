@@ -12,7 +12,7 @@ The same ethical case — a relative deciding whether to obey a state ban on bur
 |--|--|
 | **Stimuli** | `stimuli_phase1.yaml`, `stimuli_phase2.yaml` (synced from `translations/master.yaml` and reviewed in `translations/LINGUIST_REVIEW.md`) |
 | **Runner** | `run.py` calls each (stimulus × model × replicate) once, statelessly. No memory, no role scaffolding, no provider fallback. |
-| **Coding** | `recode.py` for canonicalize / merge / validate / analyze. Codebook in `codebook.md` (+ Czech/Japanese cues in `codebook_cs_ja.md`). |
+| **Coding** | `recode.py` for canonicalize / merge / validate / analyze. Codebook in `codebook.md` (+ Czech/Japanese cues in `codebook_cs_ja.md`). Phase 1 coding provenance: single LLM pass, Cursor composer-2.5, session 2026-05-25 (`coder_id: cursor-2026-05`); independent recoding pending — Antigone Lab supports blind recoding. |
 | **Run data** | `logs/phase1_20260525T135121Z_eab51040/` — 54 responses, fully coded. Older superseded run also included for prompt-version comparison. |
 | **Reports** | [`output/phase1_v2_cross/FINDINGS.md`](output/phase1_v2_cross/FINDINGS.md) — 10 surprise findings. [`ANALYSIS_REPORT.md`](output/phase1_v2_cross/ANALYSIS_REPORT.md) — full cross-tab analysis. Charts in `output/phase1_v2_cross/charts/`. |
 | **Web UI** | [Antigone Lab](https://antigonelab.lovable.app) — Lovable app for browse / code / compare / analysis. Push scripts: `push_to_lovable.py`, `push_catalog_to_lovable.py`, `push_analysis_to_lovable.py`. |

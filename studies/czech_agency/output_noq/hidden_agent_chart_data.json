@@ -1,0 +1,313 @@
+{
+ "by_condition": {
+  "agentive": {
+   "with_q": {
+    "n": 25,
+    "yes": 25,
+    "rate": 1.0
+   },
+   "no_q": {
+    "n": 45,
+    "yes": 29,
+    "rate": 0.644
+   }
+  },
+  "participial_passive": {
+   "with_q": {
+    "n": 25,
+    "yes": 25,
+    "rate": 1.0
+   },
+   "no_q": {
+    "n": 45,
+    "yes": 15,
+    "rate": 0.333
+   }
+  },
+  "reflexive_deagentive": {
+   "with_q": {
+    "n": 25,
+    "yes": 25,
+    "rate": 1.0
+   },
+   "no_q": {
+    "n": 45,
+    "yes": 6,
+    "rate": 0.133
+   }
+  },
+  "decision_nominalization": {
+   "with_q": {
+    "n": 27,
+    "yes": 27,
+    "rate": 1.0
+   },
+   "no_q": {
+    "n": 45,
+    "yes": 9,
+    "rate": 0.2
+   }
+  },
+  "bureaucratic_nominalization": {
+   "with_q": {
+    "n": 25,
+    "yes": 25,
+    "rate": 1.0
+   },
+   "no_q": {
+    "n": 44,
+    "yes": 12,
+    "rate": 0.273
+   }
+  }
+ },
+ "by_model_noq": {
+  "openai/gpt-4o": {
+   "agentive": {
+    "n": 15,
+    "yes": 4,
+    "rate": 0.267
+   },
+   "participial_passive": {
+    "n": 15,
+    "yes": 4,
+    "rate": 0.267
+   },
+   "reflexive_deagentive": {
+    "n": 15,
+    "yes": 0,
+    "rate": 0.0
+   },
+   "decision_nominalization": {
+    "n": 15,
+    "yes": 1,
+    "rate": 0.067
+   },
+   "bureaucratic_nominalization": {
+    "n": 15,
+    "yes": 2,
+    "rate": 0.133
+   }
+  },
+  "anthropic/claude-sonnet-4": {
+   "agentive": {
+    "n": 15,
+    "yes": 14,
+    "rate": 0.933
+   },
+   "participial_passive": {
+    "n": 15,
+    "yes": 2,
+    "rate": 0.133
+   },
+   "reflexive_deagentive": {
+    "n": 15,
+    "yes": 0,
+    "rate": 0.0
+   },
+   "decision_nominalization": {
+    "n": 15,
+    "yes": 2,
+    "rate": 0.133
+   },
+   "bureaucratic_nominalization": {
+    "n": 14,
+    "yes": 1,
+    "rate": 0.071
+   }
+  },
+  "google/gemini-2.0-flash-001": {
+   "agentive": {
+    "n": 5,
+    "yes": 3,
+    "rate": 0.6
+   },
+   "participial_passive": {
+    "n": 5,
+    "yes": 5,
+    "rate": 1.0
+   },
+   "reflexive_deagentive": {
+    "n": 5,
+    "yes": 5,
+    "rate": 1.0
+   },
+   "decision_nominalization": {
+    "n": 5,
+    "yes": 4,
+    "rate": 0.8
+   },
+   "bureaucratic_nominalization": {
+    "n": 5,
+    "yes": 5,
+    "rate": 1.0
+   }
+  },
+  "meta-llama/llama-3.3-70b-instruct": {
+   "agentive": {
+    "n": 5,
+    "yes": 3,
+    "rate": 0.6
+   },
+   "participial_passive": {
+    "n": 5,
+    "yes": 3,
+    "rate": 0.6
+   },
+   "reflexive_deagentive": {
+    "n": 5,
+    "yes": 1,
+    "rate": 0.2
+   },
+   "decision_nominalization": {
+    "n": 5,
+    "yes": 2,
+    "rate": 0.4
+   },
+   "bureaucratic_nominalization": {
+    "n": 5,
+    "yes": 2,
+    "rate": 0.4
+   }
+  },
+  "mistralai/mistral-large-2411": {
+   "agentive": {
+    "n": 5,
+    "yes": 5,
+    "rate": 1.0
+   },
+   "participial_passive": {
+    "n": 5,
+    "yes": 1,
+    "rate": 0.2
+   },
+   "reflexive_deagentive": {
+    "n": 5,
+    "yes": 0,
+    "rate": 0.0
+   },
+   "decision_nominalization": {
+    "n": 5,
+    "yes": 0,
+    "rate": 0.0
+   },
+   "bureaucratic_nominalization": {
+    "n": 5,
+    "yes": 2,
+    "rate": 0.4
+   }
+  }
+ },
+ "n": {
+  "with_q": 127,
+  "no_q": 224
+ },
+ "examples": {
+  "agentive": [
+   [
+    "respektování úředního rozhodnutí",
+    9
+   ],
+   [
+    "Podřízení se rozhodnutí úřadů",
+    3
+   ],
+   [
+    "rozhodnutí úřadů",
+    2
+   ],
+   [
+    "respektování rozhodnutí úřadů",
+    2
+   ]
+  ],
+  "participial_passive": [
+   [
+    "rozhodnutí úřadů",
+    4
+   ],
+   [
+    "Podřízení se rozhodnutí úřadů",
+    2
+   ],
+   [
+    "vliv na rozhodnutí úřadů",
+    1
+   ],
+   [
+    "Pokud úřady odmítají jakékoli rozumné řešení",
+    1
+   ]
+  ],
+  "reflexive_deagentive": [
+   [
+    "rozhodnutí úřadů",
+    2
+   ],
+   [
+    "Podřídit se rozhodnutí úřadů",
+    1
+   ],
+   [
+    "podřízení se rozhodnutí úřadů",
+    1
+   ],
+   [
+    "právního napadení rozhodnutí úřadů",
+    1
+   ]
+  ],
+  "decision_nominalization": [
+   [
+    "rozhodnutí úřadů",
+    3
+   ],
+   [
+    "Podřídit se rozhodnutí úřadů",
+    2
+   ],
+   [
+    "Podřízení se rozhodnutí úřadů",
+    1
+   ],
+   [
+    "podřízení se rozhodnutí vlády",
+    1
+   ]
+  ],
+  "bureaucratic_nominalization": [
+   [
+    "rozhodnutí úřadů",
+    4
+   ],
+   [
+    "Podřídit se rozhodnutí úřadů",
+    3
+   ],
+   [
+    "rozhodnutí vlády",
+    1
+   ],
+   [
+    "rozhodnutí úřadů a nevydání těla k pohřbu",
+    1
+   ]
+  ]
+ },
+ "slide_examples": {
+  "yes": {
+   "cz": "Podřídit se rozhodnutí úřadů",
+   "en": "“Submit to the authorities’ decision”",
+   "who": "Gemini 2.0 Flash"
+  },
+  "no": {
+   "cz": "Komunikace s úřady: pokusit se o dialog s úřady",
+   "en": "“Communication with the authorities: try to open a dialogue”, the withholding itself stays agentless",
+   "who": "GPT-4o"
+  }
+ },
+ "footer": [
+  "351 Czech replies · 5 models × 5 phrasings · temperature 0.3 · 224 replies without the responsibility question (May 2026 pilot, plus a Sept 2026 extension of GPT-4o and Claude only: Gemini 2.0 and Mistral Large 2411 are no longer served) · 127 with it",
+  "Coded in one LLM pass (Claude Sonnet 5) against codebook_agency.md · pilot data: prompts pending native-speaker review · Antigone, Czech agency sub-study"
+ ]
+}

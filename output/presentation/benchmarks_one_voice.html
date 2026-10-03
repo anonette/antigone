@@ -1,0 +1,61 @@
+<title>One Voice Per Benchmark</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+  :root { color-scheme: light; --surface:#fcfcfb; --page:#f4f4f1; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781; --hair:#e1e0d9; --cell:#f3f2ee;
+          --person:#2a78d6; --person-bg:#dbe9fa; --tr:#eb6834; --tr-bg:#fde3d8; --border:rgba(11,11,11,0.10); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { color-scheme: dark; --surface:#1a1a19; --page:#0d0d0d; --ink:#fff; --ink-2:#c3c2b7; --muted:#898781; --hair:#2c2c2a; --cell:#222220;
+          --person:#3987e5; --person-bg:#1c3556; --tr:#d95926; --tr-bg:#4a2416; --border:rgba(255,255,255,0.10); } }
+  :root[data-theme="dark"] { color-scheme: dark; --surface:#1a1a19; --page:#0d0d0d; --ink:#fff; --ink-2:#c3c2b7; --muted:#898781; --hair:#2c2c2a; --cell:#222220;
+          --person:#3987e5; --person-bg:#1c3556; --tr:#d95926; --tr-bg:#4a2416; --border:rgba(255,255,255,0.10); }
+  body { margin:0; background:var(--page); color:var(--ink); font-family:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif; }
+  .stage { max-width:1920px; margin:0 auto; padding:24px; box-sizing:border-box; }
+  .slide { background:var(--surface); border:1px solid var(--border); aspect-ratio:16/9; width:100%; box-sizing:border-box; padding:48px 100px 34px; display:flex; flex-direction:column; container-type:inline-size; }
+  h1 { font-family:"Fraunces",Georgia,serif; font-weight:500; font-variation-settings:"opsz" 144; font-size:2.7cqw; margin:0 0 .3cqw; letter-spacing:-0.01em; text-wrap:balance; }
+  .sub { font-size:1.2cqw; color:var(--ink-2); margin:0 0 1.2cqw; max-width:88cqw; }
+  table { border-collapse:separate; border-spacing:0 .18cqw; width:100%; font-size:.98cqw; }
+  th { font-weight:500; font-size:.78cqw; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); text-align:center; padding:0 0 .35cqw; }
+  th.l { text-align:left; }
+  td { padding:.28cqw .5cqw; vertical-align:middle; }
+  td.name { width:30cqw; }
+  td.name b { font-weight:600; color:var(--ink); }
+  td.name span { color:var(--muted); font-size:.82cqw; margin-left:.4cqw; }
+  td.pos { width:9cqw; text-align:center; background:var(--cell); border-radius:.3cqw; color:var(--muted); font-size:.85cqw; }
+  td.pos.on { background:var(--person-bg); color:var(--ink); font-weight:500; }
+  td.pos.on::before { content:""; display:inline-block; width:.62cqw; height:.62cqw; border-radius:50%; background:var(--person); margin-right:.4cqw; vertical-align:-.02cqw; }
+  td.lang { width:15cqw; text-align:left; padding-left:1.2cqw; color:var(--ink-2); font-size:.9cqw; }
+  td.lang.tr { color:var(--ink); }
+  td.lang.tr::before { content:""; display:inline-block; width:.62cqw; height:.62cqw; border-radius:50%; background:var(--tr); margin-right:.4cqw; vertical-align:-.02cqw; }
+  .sep td { padding:0; height:.5cqw; }
+  .sep td div { border-top:1px solid var(--hair); }
+  .bottom { margin-top:auto; display:grid; grid-template-columns: 1fr 1fr; gap:3cqw; align-items:end; }
+  .claim { font-size:1.12cqw; color:var(--ink); line-height:1.4; }
+  .claim b { font-weight:600; }
+  .foot { font-size:.75cqw; color:var(--muted); line-height:1.4; }
+</style>
+<div class="stage"><div class="slide">
+  <h1>Every moral benchmark picks one speaker and one language, then reports a score as if it had picked neither.</h1>
+  <p class="sub">Who is speaking in the test item, and in what language. Each benchmark occupies one cell of the speaker grid. None crosses the columns; none builds non-English items from that language’s own grammar.</p>
+  <table>
+    <tr><th class="l">Benchmark</th><th>I</th><th>you</th><th>he / she / John</th><th>impersonal</th><th>imperative</th><th class="l" style="padding-left:1.2cqw">Language</th></tr>
+    <tr><td class="name"><b>ETHICS</b><span>Hendrycks et al. 2021</span></td><td class="pos on">I told my baby…</td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>Scruples</b><span>Lourie et al. 2021</span></td><td class="pos on">Am I the…</td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>MoralChoice</b><span>Scherrer et al. 2023</span></td><td class="pos on">options</td><td class="pos on">context</td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>MACHIAVELLI</b><span>Pan et al. 2023</span></td><td class="pos"></td><td class="pos on">You enter…</td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>Moral Foundations Questionnaire on LLMs</b><span>Abdulhai et al. 2023</span></td><td class="pos"></td><td class="pos on">When you decide…</td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>Moral Stories</b><span>Emelin et al. 2021</span></td><td class="pos"></td><td class="pos"></td><td class="pos on">Jenna wants…</td><td class="pos"></td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>MoralExceptQA</b><span>Jin et al. 2022</span></td><td class="pos"></td><td class="pos"></td><td class="pos on">Is it OK for Hank…</td><td class="pos"></td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>Defining Issues Test on LLMs</b><span>Tanmay et al. 2023</span></td><td class="pos"></td><td class="pos"></td><td class="pos on">Heinz…</td><td class="pos"></td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>Social Chemistry 101</b><span>Forbes et al. 2020</span></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos on">asking my boyfriend…</td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>Delphi / Norm Bank</b><span>Jiang et al. 2021</span></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos on">ignoring a call…</td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>Moral Machine on LLMs</b><span>Takemoto 2024</span></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos on">the car…</td><td class="pos"></td><td class="lang">English</td></tr>
+    <tr><td class="name"><b>HarmBench and refusal suites</b><span>Mazeika et al. 2024</span></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos on">Write a…</td><td class="lang">English</td></tr>
+    <tr class="sep"><td colspan="7"><div></div></td></tr>
+    <tr><td class="name"><b>MultiTP</b><span>Jin et al. 2024 · 107 languages</span></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos on">a self-driving car…</td><td class="pos"></td><td class="lang tr">Google-translated from English</td></tr>
+    <tr><td class="name"><b>XSafety</b><span>Wang et al. 2023 · 10 languages</span></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos"></td><td class="pos on">requests</td><td class="lang tr">professionally translated</td></tr>
+    <tr><td class="name"><b>DIT across languages</b><span>Khandelwal et al. 2024 · 6 languages</span></td><td class="pos"></td><td class="pos"></td><td class="pos on">Heinz…</td><td class="pos"></td><td class="pos"></td><td class="lang tr">translated from English</td></tr>
+  </table>
+  <div class="bottom">
+    <div class="claim">Change “John” to “you” at the trolley switch and human permissibility falls from about 90 to 65 percent (Nadelhoffer and Feltz 2008). Change only the language of the burial dilemma and five of six models change their verdict (this study). <b>A benchmark fixes one pronoun and one language for every item, so its score describes the model in one voice and reports it as the model.</b></div>
+    <div class="foot">Speaker position is the grammatical person of the test item as presented to the model. “Translated from English” keeps English person marking, explicit agents and hedging habits under a different surface language. Item formats for MoralChoice, MoralExceptQA, Social Chemistry, Moral Machine, MultiTP, XSafety and the multilingual DIT checked against the papers (Sept 2026); the rest follow the published example items.</div>
+  </div>
+</div></div>

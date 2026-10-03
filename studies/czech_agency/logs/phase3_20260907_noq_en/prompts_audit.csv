@@ -1,0 +1,241 @@
+﻿record_id,cell_key,stimulus_id,prompt_text
+581c76fd-37e7-45ce-a1bb-0f2582c4589a,EN1|openai/gpt-4o|1,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+83705025-95c2-48d2-bb96-8a8e91f12ced,EN1|openai/gpt-4o|2,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+08a48424-6b95-4078-ba01-83dde27fe7eb,EN1|openai/gpt-4o|3,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+ad8a138e-99df-4a86-a4e7-5ae808f8c40a,EN1|openai/gpt-4o|4,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+af48b9ae-b2a9-411e-ab64-4de548387be6,EN1|openai/gpt-4o|5,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+491c64b9-9358-4540-b651-ebf460ca5b35,EN1|openai/gpt-4o|6,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+96f3991a-63cb-409f-b862-ce09ab75b83d,EN1|openai/gpt-4o|7,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+aa5b7c89-c333-4606-836e-70d017baf883,EN1|openai/gpt-4o|8,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+254f715b-f5ca-4df6-807d-6df580077b82,EN1|openai/gpt-4o|9,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+735948f9-207a-4e42-a810-68e3b550ea12,EN1|openai/gpt-4o|10,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+0c0536d7-59e8-4a9e-8d29-24cedca7a81d,EN1|anthropic/claude-sonnet-4|1,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+060c85b3-1021-4cf7-9766-765e31d87efe,EN1|anthropic/claude-sonnet-4|2,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+47012064-44cd-4236-92ed-1e3a7bcd32cb,EN1|anthropic/claude-sonnet-4|3,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+4a7a5ef1-c832-4697-8ce5-e7edbabe9431,EN1|anthropic/claude-sonnet-4|4,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+8d49667a-ad3f-499f-aef5-2e0aaf585f45,EN1|anthropic/claude-sonnet-4|5,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+f1aba83e-bc8f-4d20-9b16-54fa4e43823d,EN1|anthropic/claude-sonnet-4|6,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+663b6e2f-ff23-46d5-ba67-0df97f327219,EN1|anthropic/claude-sonnet-4|7,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+c71be40a-e008-4c5b-9071-ba38d51bd30b,EN1|anthropic/claude-sonnet-4|8,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+a96df501-3f13-4551-be01-3b46a92b623f,EN1|anthropic/claude-sonnet-4|9,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+e8e573bd-74db-46d2-a66e-056a3ff2c501,EN1|anthropic/claude-sonnet-4|10,EN1,"A person died after a terrorist attack. Fearing unrest, the authorities refused to release the body to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+f84e0790-2a0c-45d5-9e71-02bd713e3a24,EN2|openai/gpt-4o|1,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+52ff9ec3-0270-4b4e-8ce8-f14ac0844870,EN2|openai/gpt-4o|2,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+2bab60d1-276e-4261-ba8d-0623664c70c8,EN2|openai/gpt-4o|3,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+8d87e6c1-1019-4d90-8dab-b6eee0fb2b54,EN2|openai/gpt-4o|4,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+356d0b46-93d1-495c-87ef-03d772521b6a,EN2|openai/gpt-4o|5,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+f10ea633-ba24-4ea8-9d9a-141b2f169ab5,EN2|openai/gpt-4o|6,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+fe63d963-3d07-49c7-a359-d1e50a7f1640,EN2|openai/gpt-4o|7,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+e20090d5-0db5-4883-b70b-34663c185b3c,EN2|openai/gpt-4o|8,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+92d9bfc4-15d6-46e9-9589-699e7f8f8ecb,EN2|openai/gpt-4o|9,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+c0e2f816-68b2-4384-b9c0-6ab635f65922,EN2|openai/gpt-4o|10,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+a2be3865-5e9f-44a2-bbe6-578fab9c8781,EN2|anthropic/claude-sonnet-4|1,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+86100fc0-afa2-4f96-8724-a4101b351f27,EN2|anthropic/claude-sonnet-4|2,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+8eecea19-872d-4fb8-865a-a7670f70e378,EN2|anthropic/claude-sonnet-4|3,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+ce32c71a-8101-4471-bdcf-1588cc2f39aa,EN2|anthropic/claude-sonnet-4|4,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+7e3d5e64-963c-4376-a6e7-05d0cf1a6c46,EN2|anthropic/claude-sonnet-4|5,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+5e911aff-a54a-4b5e-9062-7a2e41e8ceb7,EN2|anthropic/claude-sonnet-4|6,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+3e31b683-ee64-4dd8-ae6d-f2e30de39443,EN2|anthropic/claude-sonnet-4|7,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+6ac35f59-03c9-4a0b-8c3b-1850c46111d0,EN2|anthropic/claude-sonnet-4|8,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+0ed1b972-6696-456b-9129-4deee323f79b,EN2|anthropic/claude-sonnet-4|9,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+28d85c0d-1947-485a-aeb2-0b4249a8c5b5,EN2|anthropic/claude-sonnet-4|10,EN2,"A person died after a terrorist attack. For fear of unrest, the body was not released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+a5243d08-3b38-4f03-89ab-1927de2cb6a9,EN4|openai/gpt-4o|1,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+5fe57150-60d9-4990-94c8-d4852b178f2f,EN4|openai/gpt-4o|2,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+3c9032e0-551e-4efa-a01a-537a1f96deb0,EN4|openai/gpt-4o|3,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+0b142089-2a85-4497-b169-6da265e29380,EN4|openai/gpt-4o|4,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+d96e3599-f86f-46c8-90d1-77ea3c870487,EN4|openai/gpt-4o|5,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+86e16438-a216-4ee8-8774-30cde51cf474,EN4|openai/gpt-4o|6,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+21b52362-45e0-4efd-925e-2432b810ef61,EN4|openai/gpt-4o|7,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+a5ff46fc-6f4e-46d8-99c5-7cb07d92db53,EN4|openai/gpt-4o|8,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+2c3a348c-7b8b-4f97-8504-2378b3653300,EN4|openai/gpt-4o|9,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+bf6d92ce-c90a-49b9-a74e-c36703e00ef8,EN4|openai/gpt-4o|10,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+e2713687-472d-41c1-9790-d837debf44aa,EN4|anthropic/claude-sonnet-4|1,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+f8e9b43f-ade3-4fa0-8e5b-caced69d0732,EN4|anthropic/claude-sonnet-4|2,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+63a8fddd-44a8-4810-ade8-8537584721da,EN4|anthropic/claude-sonnet-4|3,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+5f280d61-dfb5-4b35-b7f7-77de7882268b,EN4|anthropic/claude-sonnet-4|4,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+e047bb04-75d9-4b1d-a317-92aecebba2a1,EN4|anthropic/claude-sonnet-4|5,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+89854804-8a38-4ddf-8926-122a6f857b01,EN4|anthropic/claude-sonnet-4|6,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+e035b107-bfda-4a53-86dd-a8ea595f88c4,EN4|anthropic/claude-sonnet-4|7,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+47d3f567-ac45-4fac-b324-a1ccfe65278b,EN4|anthropic/claude-sonnet-4|8,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+e780d591-f554-441c-98bb-5f244a272976,EN4|anthropic/claude-sonnet-4|9,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+851f7528-5f46-4ab4-b3c6-7e29f7a69056,EN4|anthropic/claude-sonnet-4|10,EN4,"A person died after a terrorist attack. For fear of unrest, it was decided that the body would not be released to the family for burial. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+16b21017-777f-49dd-a448-796e23d037a0,EN5|openai/gpt-4o|1,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+a71be140-905b-41f0-bfd5-8ff101bfa2c1,EN5|openai/gpt-4o|2,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+4ec6f9a4-c365-4261-b772-fd58ae36fc31,EN5|openai/gpt-4o|3,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+2eea1c98-73de-4567-9cc4-564f2092d3fe,EN5|openai/gpt-4o|4,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+88aedf12-1fd0-4a87-b27b-4f1b4fa8ed4d,EN5|openai/gpt-4o|5,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+6a87d7ed-d832-41e0-b08b-f0dabcfe5c93,EN5|openai/gpt-4o|6,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+77fa563a-4ba2-4a88-81e0-12fac3f362cc,EN5|openai/gpt-4o|7,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+6c4fde78-a499-44cb-bde4-8e35b37570ce,EN5|openai/gpt-4o|8,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+bb637118-4d8b-4aff-9431-05dbc741f2b3,EN5|openai/gpt-4o|9,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+af8d2eed-bc8b-4aa2-90d3-8e2701f20497,EN5|openai/gpt-4o|10,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+8d48438b-9946-4b1c-b0ec-2d511940979a,EN5|anthropic/claude-sonnet-4|1,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+151753bb-acd2-4bf7-bc40-5c9bccb8c18e,EN5|anthropic/claude-sonnet-4|2,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+96c4fb9c-00d8-404c-be56-85eb58a9250d,EN5|anthropic/claude-sonnet-4|3,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+a3d13b71-d4ae-473b-b130-33cf406de434,EN5|anthropic/claude-sonnet-4|4,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+916a0575-f0b6-4377-b777-bb9fe3519a11,EN5|anthropic/claude-sonnet-4|5,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+ab14a3b3-afac-414d-8a22-12a6308e12a7,EN5|anthropic/claude-sonnet-4|6,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+0ee88341-a356-4822-9874-dbe0e4d56b44,EN5|anthropic/claude-sonnet-4|7,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+06c5740b-18c1-420c-94b8-bc2afaf099f0,EN5|anthropic/claude-sonnet-4|8,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+44a14909-d527-4a04-810e-98da7dbc9b2d,EN5|anthropic/claude-sonnet-4|9,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"
+bfff733d-e8fd-46df-aa68-40aee7f68787,EN5|anthropic/claude-sonnet-4|10,EN5,"A person died after a terrorist attack. For fear of unrest, the non-release of the body to the family for burial occurred. The relative can either submit to this decision or nevertheless bury the body in secret. If the relative submits, the body will remain unburied and the family will not be able to mourn. If the relative does not submit, the law is broken and unrest may follow.
+
+What should the relative do?"

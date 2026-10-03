@@ -1,0 +1,56 @@
+<title>Whose You</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+  :root { color-scheme: light; --surface:#fcfcfb; --page:#f4f4f1; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781; --hair:#e1e0d9; --track:#efeee9;
+          --west:#2a78d6; --yor:#eb6834; --border:rgba(11,11,11,0.10); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { color-scheme: dark; --surface:#1a1a19; --page:#0d0d0d; --ink:#fff; --ink-2:#c3c2b7; --muted:#898781; --hair:#2c2c2a; --track:#262624; --west:#3987e5; --yor:#d95926; --border:rgba(255,255,255,0.10); } }
+  :root[data-theme="dark"] { color-scheme: dark; --surface:#1a1a19; --page:#0d0d0d; --ink:#fff; --ink-2:#c3c2b7; --muted:#898781; --hair:#2c2c2a; --track:#262624; --west:#3987e5; --yor:#d95926; --border:rgba(255,255,255,0.10); }
+  body { margin:0; background:var(--page); color:var(--ink); font-family:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif; }
+  .stage { max-width:1920px; margin:0 auto; padding:24px; box-sizing:border-box; }
+  .slide { background:var(--surface); border:1px solid var(--border); aspect-ratio:16/9; width:100%; box-sizing:border-box; padding:52px 100px 36px; display:flex; flex-direction:column; container-type:inline-size; }
+  h1 { font-family:"Fraunces",Georgia,serif; font-weight:500; font-variation-settings:"opsz" 144; font-size:2.9cqw; margin:0 0 .4cqw; letter-spacing:-0.01em; text-wrap:balance; }
+  .sub { font-size:1.25cqw; color:var(--ink-2); margin:0 0 1.6cqw; max-width:80cqw; }
+  .grid { display:grid; grid-template-columns: 13cqw 1fr 1fr; column-gap:2.2cqw; row-gap:0; flex:1; align-content:start; }
+  .colhead { padding-bottom:.8cqw; border-bottom:1px solid var(--hair); }
+  .colhead .k { font-size:.8cqw; letter-spacing:.1em; text-transform:uppercase; color:var(--muted); margin-bottom:.35cqw; display:flex; align-items:center; gap:.5cqw; }
+  .colhead .k::before { content:""; width:.7cqw; height:.7cqw; border-radius:50%; display:inline-block; }
+  .colhead.west .k::before { background:var(--west); } .colhead.yor .k::before { background:var(--yor); }
+  .colhead .q { font-size:1cqw; line-height:1.4; color:var(--ink-2); }
+  .colhead .q b { color:var(--ink); font-weight:600; }
+  .rowlab { padding-top:2.6cqw; }
+  .rowlab .t { font-size:1.15cqw; font-weight:600; color:var(--ink); }
+  .rowlab .s { font-size:.9cqw; color:var(--muted); margin-top:.3cqw; line-height:1.35; }
+  .cell { padding-top:2.2cqw; display:flex; flex-direction:column; gap:.6cqw; }
+  .big { font-size:5.6cqw; font-weight:600; line-height:1; letter-spacing:-0.02em; }
+  .big span { font-size:1.1cqw; font-weight:400; color:var(--ink-2); margin-left:.6cqw; letter-spacing:0; }
+  .bar { height:.9cqw; background:var(--track); border-radius:.35cqw; width:100%; overflow:hidden; }
+  .bar i { display:block; height:100%; border-radius:.35cqw; }
+  .west .bar i { background:var(--west); } .yor .bar i { background:var(--yor); }
+  .rank { font-size:1cqw; color:var(--muted); }
+  .rule { grid-column:1 / -1; border-top:1px solid var(--hair); margin-top:1.4cqw; }
+  .read { margin-top:auto; display:grid; grid-template-columns: 1.35fr 1fr; gap:3cqw; align-items:end; }
+  .read .big2 { font-size:1.25cqw; line-height:1.42; color:var(--ink); }
+  .read .big2 b { font-weight:600; }
+  .foot { font-size:.75cqw; color:var(--muted); line-height:1.4; }
+</style>
+<div class="stage"><div class="slide">
+  <h1>Whose “you” did the models learn?</h1>
+  <p class="sub">The framing that makes a model take a side depends on whose dilemma it is. Same nine framings, same models, same coder; two kinds of dilemma. Share of replies that commit to a position instead of listing considerations.</p>
+  <div class="grid">
+    <div></div>
+    <div class="colhead west"><div class="k">A Western dilemma, translated</div><div class="q"><b>You</b> learn that your colleague has submitted falsified safety data concerning a widely used product… <b>You</b> must decide what to do, and why.</div></div>
+    <div class="colhead yor"><div class="k">A Yorùbá dilemma, built from Yorùbá institutions</div><div class="q"><b>Your</b> father, an elder whose word carries the weight of your lineage, instructs <b>you</b> to give the family inheritance to your wayward elder brother rather than to your hardworking younger sister… What should <b>you</b> do?</div></div>
+
+    <div class="rowlab"><div class="t">Asked as “you”</div><div class="s">second-person framing</div></div>
+    <div class="cell west"><div class="big">42%<span>take a side</span></div><div class="bar"><i style="width:84%"></i></div><div class="rank">the most committed of the nine framings</div></div>
+    <div class="cell yor"><div class="big">23%<span>take a side</span></div><div class="bar"><i style="width:46%"></i></div><div class="rank">the least committed of the nine</div></div>
+
+    <div class="rowlab"><div class="t">Asked as “looking within myself”</div><div class="s">reflexive framing</div></div>
+    <div class="cell west"><div class="big">8%<span>take a side</span></div><div class="bar"><i style="width:16%"></i></div><div class="rank">the least committed of the nine</div></div>
+    <div class="cell yor"><div class="big">36%<span>take a side</span></div><div class="bar"><i style="width:72%"></i></div><div class="rank">joint most committed, with the cosmological frame</div></div>
+  </div>
+  <div class="read">
+    <div class="big2"><b>Finding.</b> The order flips. A pronoun carries no moral force of its own; the scenario decides what “you” is.<br><b>Hypothesis.</b> Instruction tuning taught the models one “you”: an autonomous individual facing a choice. That “you” commits. Put “you” inside a lineage, answerable to a father and to ancestors, and the trained voice is missing, so the model retreats to procedure.</div>
+    <div class="foot">Bars are the share of replies coded to a substantive ethical position (utilitarian, deontological, care, virtue); the rest are procedural caution, mixed, or refusal. Each cell pools Yorùbá and English prompts and all models: 36 replies per framing on the Western set (Ajao &amp; Reshef Kera 2026, open condition), 84 per framing on the Yorùbá-grounded set (all runs, GPT-4o, Claude 4.5, DeepSeek, N-ATLaS). Coded by GPT-4o against one codebook. Recomputed from the coded records.</div>
+  </div>
+</div></div>

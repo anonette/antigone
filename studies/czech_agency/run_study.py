@@ -101,6 +101,9 @@ def main() -> int:
     ap.add_argument("--stimuli-file", default="stimuli.yaml",
                     help="Stimuli YAML under studies/czech_agency/ (e.g. stimuli_noq.yaml for the no-question control)")
     ap.add_argument("--replicates", type=int, default=5)
+    ap.add_argument("--replicate-start", type=int, default=1,
+                    help="First replicate number (default 1). Use e.g. 6 to extend an earlier 5-replicate run "
+                         "with fresh deterministic seeds instead of repeating seeds 1..5.")
     ap.add_argument("--group", action="append", default=None, help="Model group (repeatable); default current_multilingual")
     ap.add_argument("--models", nargs="+", help="Exact model IDs (overrides --group)")
     ap.add_argument("--stimulus", nargs="+", help="Only these condition IDs (CA1..CA5)")
@@ -144,6 +147,7 @@ def main() -> int:
         "temperature": args.temperature,
         "allow_fallbacks": False,
         "replicates": args.replicates,
+        "replicate_start": args.replicate_start,
         "timeout_s": args.timeout,
         "stimulus_filter": args.stimulus,
         "model_groups": groups,
@@ -168,7 +172,7 @@ def main() -> int:
         prompt_text = build_prompt_text(cell)
         for model in models:
             model_id = model["id"]
-            for rep in range(1, args.replicates + 1):
+            for rep in range(args.replicate_start, args.replicate_start + args.replicates):
                 if args.resume and logger.is_done(cell["stimulus_id"], model_id, rep):
                     skipped += 1
                     logger.note_skipped()

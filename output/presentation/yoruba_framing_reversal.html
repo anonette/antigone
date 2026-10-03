@@ -1,0 +1,105 @@
+<title>Same Framing, Opposite Effect</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+  :root { color-scheme: light; --surface:#fcfcfb; --page:#f4f4f1; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781; --hair:#e1e0d9; --axis:#c3c2b7;
+          --acc:#2a78d6; --warm:#eb6834; --border:rgba(11,11,11,0.10); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { color-scheme: dark; --surface:#1a1a19; --page:#0d0d0d; --ink:#fff; --ink-2:#c3c2b7; --muted:#898781; --hair:#2c2c2a; --axis:#4a4a47; --acc:#3987e5; --warm:#d95926; --border:rgba(255,255,255,0.10); } }
+  :root[data-theme="dark"] { color-scheme: dark; --surface:#1a1a19; --page:#0d0d0d; --ink:#fff; --ink-2:#c3c2b7; --muted:#898781; --hair:#2c2c2a; --axis:#4a4a47; --acc:#3987e5; --warm:#d95926; --border:rgba(255,255,255,0.10); }
+  body { margin:0; background:var(--page); color:var(--ink); font-family:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif; }
+  .stage { max-width:1920px; margin:0 auto; padding:24px; box-sizing:border-box; }
+  .slide { background:var(--surface); border:1px solid var(--border); aspect-ratio:16/9; width:100%; display:block; }
+  svg { width:100%; height:auto; display:block; } svg text { font-family:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif; }
+  .title { font-family:"Fraunces",Georgia,serif; font-weight:500; font-variation-settings:"opsz" 144; }
+  .num { font-variant-numeric: tabular-nums; }
+  details { max-width:1920px; margin:20px auto 0; color:var(--ink-2); font-size:15px; } summary { cursor:pointer; color:var(--ink); font-weight:500; }
+  table { border-collapse:collapse; font-variant-numeric:tabular-nums; margin-top:12px; } th,td { text-align:left; padding:6px 14px 6px 0; border-bottom:1px solid var(--hair); }
+  th { color:var(--muted); font-weight:500; font-size:13px; letter-spacing:.04em; text-transform:uppercase; }
+</style>
+<div class="stage"><div class="slide">
+<svg viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+  <title id="t">Same deictic framing, opposite effect: committed-stance share by framing on translated Western dilemmas versus Yorùbá-grounded dilemmas</title>
+  <desc id="d">Slope chart. Nine deictic framings; left column the share of replies committed to a substantive ethical stance on translated Western dilemmas, right column the same on dilemmas built from Yorùbá institutions. Second person falls from first to last; cosmological and impersonal rise to the top.</desc>
+  <text x="100" y="92" font-size="52" fill="var(--ink)" class="title">The same framing, the opposite effect.</text>
+  <text x="100" y="138" font-size="23" fill="var(--ink-2)">Which deictic framing makes a model commit to a moral position depends on whose dilemma it is answering.</text>
+  <text x="100" y="170" font-size="23" fill="var(--ink-2)">On translated Western cases “you” draws the most commitment and the reflexive frame the least. On Yorùbá cases the order flips.</text>
+  <line x1="620" x2="1240" y1="905.0" y2="905.0" stroke="var(--hair)"/>
+<text x="606" y="910.0" font-size="14" text-anchor="end" fill="var(--muted)" class="num">0%</text>
+<line x1="620" x2="1240" y1="782.0" y2="782.0" stroke="var(--hair)"/>
+<line x1="620" x2="1240" y1="659.0" y2="659.0" stroke="var(--hair)"/>
+<line x1="620" x2="1240" y1="536.0" y2="536.0" stroke="var(--hair)"/>
+<line x1="620" x2="1240" y1="413.0" y2="413.0" stroke="var(--hair)"/>
+<line x1="620" x2="1240" y1="290.0" y2="290.0" stroke="var(--hair)"/>
+<text x="606" y="295.0" font-size="14" text-anchor="end" fill="var(--muted)" class="num">50%</text>
+<text x="620" y="230" font-size="15" letter-spacing="0.1em" text-anchor="middle" fill="var(--muted)">TRANSLATED WESTERN DILEMMAS</text>
+<text x="620" y="254" font-size="17" text-anchor="middle" fill="var(--ink-2)">trolley, whistleblower, ICU bed … · 324 replies</text>
+<text x="1240" y="230" font-size="15" letter-spacing="0.1em" text-anchor="middle" fill="var(--muted)">YORÙBÁ-GROUNDED DILEMMAS</text>
+<text x="1240" y="254" font-size="17" text-anchor="middle" fill="var(--ink-2)">orí reading, elder’s directive, lineage taboo … · 756 replies</text>
+<line x1="620" y1="597.5" x2="1240" y2="612.1" stroke="var(--axis)" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<circle cx="620" cy="597.5" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>First person · Western dilemmas: 25% committed (n=36)</title></circle>
+<circle cx="1240" cy="612.1" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>First person · Yorùbá-grounded dilemmas: 24% committed (n=84)</title></circle>
+<text x="586" y="602.5" font-size="17" text-anchor="end" fill="var(--ink-2)" font-weight="400">First person <tspan class="num" fill="var(--muted)" font-weight="400">25%</tspan></text>
+<text x="1274" y="607.8" font-size="17" fill="var(--ink-2)" font-weight="400"><tspan class="num" fill="var(--muted)">24%</tspan> First person</text>
+<line x1="620" y1="529.2" x2="1240" y2="612.1" stroke="var(--axis)" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<circle cx="620" cy="529.2" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>First person plural · Western dilemmas: 31% committed (n=36)</title></circle>
+<circle cx="1240" cy="612.1" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>First person plural · Yorùbá-grounded dilemmas: 24% committed (n=84)</title></circle>
+<text x="586" y="534.2" font-size="17" text-anchor="end" fill="var(--ink-2)" font-weight="400">First person plural <tspan class="num" fill="var(--muted)" font-weight="400">31%</tspan></text>
+<text x="1274" y="583.8" font-size="17" fill="var(--ink-2)" font-weight="400"><tspan class="num" fill="var(--muted)">24%</tspan> First person plural</text>
+<line x1="620" y1="529.2" x2="1240" y2="582.9" stroke="var(--axis)" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<circle cx="620" cy="529.2" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>Dialogic · Western dilemmas: 31% committed (n=36)</title></circle>
+<circle cx="1240" cy="582.9" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>Dialogic · Yorùbá-grounded dilemmas: 26% committed (n=84)</title></circle>
+<text x="586" y="510.2" font-size="17" text-anchor="end" fill="var(--ink-2)" font-weight="400">Dialogic <tspan class="num" fill="var(--muted)" font-weight="400">31%</tspan></text>
+<text x="1274" y="559.8" font-size="17" fill="var(--ink-2)" font-weight="400"><tspan class="num" fill="var(--muted)">26%</tspan> Dialogic</text>
+<line x1="620" y1="734.2" x2="1240" y2="538.9" stroke="var(--axis)" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<circle cx="620" cy="734.2" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>Spatial · Western dilemmas: 14% committed (n=36)</title></circle>
+<circle cx="1240" cy="538.9" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>Spatial · Yorùbá-grounded dilemmas: 30% committed (n=84)</title></circle>
+<text x="586" y="739.2" font-size="17" text-anchor="end" fill="var(--ink-2)" font-weight="400">Spatial <tspan class="num" fill="var(--muted)" font-weight="400">14%</tspan></text>
+<text x="1274" y="535.8" font-size="17" fill="var(--ink-2)" font-weight="400"><tspan class="num" fill="var(--muted)">30%</tspan> Spatial</text>
+<line x1="620" y1="529.2" x2="1240" y2="524.3" stroke="var(--axis)" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+<circle cx="620" cy="529.2" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>Temporal · Western dilemmas: 31% committed (n=36)</title></circle>
+<circle cx="1240" cy="524.3" r="5" fill="var(--axis)" stroke="var(--surface)" stroke-width="2"><title>Temporal · Yorùbá-grounded dilemmas: 31% committed (n=84)</title></circle>
+<text x="586" y="486.2" font-size="17" text-anchor="end" fill="var(--ink-2)" font-weight="400">Temporal <tspan class="num" fill="var(--muted)" font-weight="400">31%</tspan></text>
+<text x="1274" y="487.8" font-size="17" fill="var(--ink-2)" font-weight="400"><tspan class="num" fill="var(--muted)">31%</tspan> Temporal</text>
+<line x1="620" y1="665.8" x2="1240" y2="524.3" stroke="var(--acc)" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<circle cx="620" cy="665.8" r="8" fill="var(--acc)" stroke="var(--surface)" stroke-width="2"><title>Impersonal · Western dilemmas: 19% committed (n=36)</title></circle>
+<circle cx="1240" cy="524.3" r="8" fill="var(--acc)" stroke="var(--surface)" stroke-width="2"><title>Impersonal · Yorùbá-grounded dilemmas: 31% committed (n=84)</title></circle>
+<text x="586" y="670.8" font-size="17" text-anchor="end" fill="var(--ink)" font-weight="600">Impersonal <tspan class="num" fill="var(--muted)" font-weight="400">19%</tspan></text>
+<text x="1274" y="511.8" font-size="17" fill="var(--ink)" font-weight="600"><tspan class="num" fill="var(--muted)">31%</tspan> Impersonal</text>
+<line x1="620" y1="392.5" x2="1240" y2="626.8" stroke="var(--warm)" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<circle cx="620" cy="392.5" r="8" fill="var(--warm)" stroke="var(--surface)" stroke-width="2"><title>Second person · Western dilemmas: 42% committed (n=36)</title></circle>
+<circle cx="1240" cy="626.8" r="8" fill="var(--warm)" stroke="var(--surface)" stroke-width="2"><title>Second person · Yorùbá-grounded dilemmas: 23% committed (n=84)</title></circle>
+<text x="586" y="397.5" font-size="17" text-anchor="end" fill="var(--ink)" font-weight="600">Second person <tspan class="num" fill="var(--muted)" font-weight="400">42%</tspan></text>
+<text x="1274" y="631.8" font-size="17" fill="var(--ink)" font-weight="600"><tspan class="num" fill="var(--muted)">23%</tspan> Second person</text>
+<line x1="620" y1="802.5" x2="1240" y2="465.7" stroke="var(--acc)" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<circle cx="620" cy="802.5" r="8" fill="var(--acc)" stroke="var(--surface)" stroke-width="2"><title>Reflexive · Western dilemmas: 8% committed (n=36)</title></circle>
+<circle cx="1240" cy="465.7" r="8" fill="var(--acc)" stroke="var(--surface)" stroke-width="2"><title>Reflexive · Yorùbá-grounded dilemmas: 36% committed (n=84)</title></circle>
+<text x="586" y="807.5" font-size="17" text-anchor="end" fill="var(--ink)" font-weight="600">Reflexive <tspan class="num" fill="var(--muted)" font-weight="400">8%</tspan></text>
+<text x="1274" y="463.8" font-size="17" fill="var(--ink)" font-weight="600"><tspan class="num" fill="var(--muted)">36%</tspan> Reflexive</text>
+<line x1="620" y1="597.5" x2="1240" y2="465.7" stroke="var(--acc)" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<circle cx="620" cy="597.5" r="8" fill="var(--acc)" stroke="var(--surface)" stroke-width="2"><title>Cosmological · Western dilemmas: 25% committed (n=36)</title></circle>
+<circle cx="1240" cy="465.7" r="8" fill="var(--acc)" stroke="var(--surface)" stroke-width="2"><title>Cosmological · Yorùbá-grounded dilemmas: 36% committed (n=84)</title></circle>
+<text x="586" y="578.5" font-size="17" text-anchor="end" fill="var(--ink)" font-weight="600">Cosmological <tspan class="num" fill="var(--muted)" font-weight="400">25%</tspan></text>
+<text x="1274" y="439.8" font-size="17" fill="var(--ink)" font-weight="600"><tspan class="num" fill="var(--muted)">36%</tspan> Cosmological</text>
+<text x="606" y="276" font-size="13" text-anchor="end" fill="var(--muted)">share of replies committed to a substantive stance</text>
+  <text x="1500" y="300" font-size="15" letter-spacing="0.1em" fill="var(--muted)">READING THE FLIP</text>
+  <text x="1500" y="334" font-size="18" fill="var(--ink)" font-weight="600">Second person</text>
+  <text x="1500" y="360" font-size="17" fill="var(--ink-2)">first on Western cases, last on Yorùbá ones.</text>
+  <text x="1500" y="408" font-size="18" fill="var(--ink)" font-weight="600">Cosmological, impersonal</text>
+  <text x="1500" y="434" font-size="17" fill="var(--ink-2)">lower half on Western cases, top on Yorùbá</text>
+  <text x="1500" y="458" font-size="17" fill="var(--ink-2)">ones, once “before Olódùmarè and the</text>
+  <text x="1500" y="482" font-size="17" fill="var(--ink-2)">ancestors” has a tradition to speak from.</text>
+  <text x="1500" y="530" font-size="18" fill="var(--ink)" font-weight="600">Reflexive</text>
+  <text x="1500" y="556" font-size="17" fill="var(--ink-2)">the most hedged framing of all on Western</text>
+  <text x="1500" y="580" font-size="17" fill="var(--ink-2)">cases; quadruples on Yorùbá ones.</text>
+  <text x="1500" y="640" font-size="17" fill="var(--ink)">Deictic form carries no context-free</text>
+  <text x="1500" y="664" font-size="17" fill="var(--ink)">moral force. Its effect is set jointly</text>
+  <text x="1500" y="688" font-size="17" fill="var(--ink)">with the culture of the scenario, so</text>
+  <text x="1500" y="712" font-size="17" fill="var(--ink)">framing effects measured on Western</text>
+  <text x="1500" y="736" font-size="17" fill="var(--ink)">content do not transfer.</text>
+  <text x="100" y="1000" font-size="15" fill="var(--muted)">Committed = coded utilitarian, deontological, care or virtue; the remainder is procedural caution, mixed, or refusal. Both columns pool Yorùbá and English replies and all models in each study.</text>
+  <text x="100" y="1024" font-size="15" fill="var(--muted)">Left: Ajao &amp; Reshef Kera 2026, open condition, GPT-4o, Claude 3.5, N-ATLaS in Yorùbá, GPT-4o, Claude 3.5, DeepSeek in English. Right: culturally grounded study, GPT-4o, Claude 4.5, DeepSeek, N-ATLaS, all runs. Nine framings × six dilemmas per model-language cell.</text>
+  <text x="100" y="1048" font-size="15" fill="var(--muted)">Coder: GPT-4o against the revised codebook in both studies. Recomputed from the coded records, so shares differ by a point or two from the paper’s single-run figure.</text>
+</svg>
+</div>
+<details><summary>Table view</summary><table><tr><th>Framing</th><th>Western: committed</th><th>Western: procedural</th><th>Yorùbá-grounded: committed</th><th>Yorùbá-grounded: procedural</th></tr>
+<tr><td>Impersonal</td><td>19% (n=36)</td><td>42%</td><td>31% (n=84)</td><td>38%</td></tr><tr><td>Second person</td><td>42% (n=36)</td><td>31%</td><td>23% (n=84)</td><td>48%</td></tr><tr><td>First person</td><td>25% (n=36)</td><td>47%</td><td>24% (n=84)</td><td>55%</td></tr><tr><td>First person plural</td><td>31% (n=36)</td><td>33%</td><td>24% (n=84)</td><td>51%</td></tr><tr><td>Reflexive</td><td>8% (n=36)</td><td>56%</td><td>36% (n=84)</td><td>39%</td></tr><tr><td>Dialogic</td><td>31% (n=36)</td><td>42%</td><td>26% (n=84)</td><td>39%</td></tr><tr><td>Spatial</td><td>14% (n=36)</td><td>58%</td><td>30% (n=84)</td><td>49%</td></tr><tr><td>Temporal</td><td>31% (n=36)</td><td>47%</td><td>31% (n=84)</td><td>45%</td></tr><tr><td>Cosmological</td><td>25% (n=36)</td><td>36%</td><td>36% (n=84)</td><td>35%</td></tr>
+</table></details></div>

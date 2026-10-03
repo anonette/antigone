@@ -1,0 +1,194 @@
+{
+ "cells": {
+  "openai/gpt-4o": {
+   "agentive": {
+    "cs": {
+     "n": 15,
+     "yes": 4,
+     "rate": 0.267
+    },
+    "en": {
+     "n": 10,
+     "yes": 8,
+     "rate": 0.8
+    }
+   },
+   "participial_passive": {
+    "cs": {
+     "n": 15,
+     "yes": 4,
+     "rate": 0.267
+    },
+    "en": {
+     "n": 10,
+     "yes": 7,
+     "rate": 0.7
+    }
+   },
+   "reflexive_deagentive": {
+    "cs": {
+     "n": 15,
+     "yes": 0,
+     "rate": 0.0
+    },
+    "en": {
+     "n": 0,
+     "yes": 0,
+     "rate": null
+    }
+   },
+   "decision_nominalization": {
+    "cs": {
+     "n": 15,
+     "yes": 1,
+     "rate": 0.067
+    },
+    "en": {
+     "n": 10,
+     "yes": 9,
+     "rate": 0.9
+    }
+   },
+   "bureaucratic_nominalization": {
+    "cs": {
+     "n": 15,
+     "yes": 2,
+     "rate": 0.133
+    },
+    "en": {
+     "n": 10,
+     "yes": 6,
+     "rate": 0.6
+    }
+   }
+  },
+  "anthropic/claude-sonnet-4": {
+   "agentive": {
+    "cs": {
+     "n": 15,
+     "yes": 14,
+     "rate": 0.933
+    },
+    "en": {
+     "n": 10,
+     "yes": 9,
+     "rate": 0.9
+    }
+   },
+   "participial_passive": {
+    "cs": {
+     "n": 15,
+     "yes": 2,
+     "rate": 0.133
+    },
+    "en": {
+     "n": 9,
+     "yes": 8,
+     "rate": 0.889
+    }
+   },
+   "reflexive_deagentive": {
+    "cs": {
+     "n": 15,
+     "yes": 0,
+     "rate": 0.0
+    },
+    "en": {
+     "n": 0,
+     "yes": 0,
+     "rate": null
+    }
+   },
+   "decision_nominalization": {
+    "cs": {
+     "n": 15,
+     "yes": 2,
+     "rate": 0.133
+    },
+    "en": {
+     "n": 10,
+     "yes": 5,
+     "rate": 0.5
+    }
+   },
+   "bureaucratic_nominalization": {
+    "cs": {
+     "n": 14,
+     "yes": 1,
+     "rate": 0.071
+    },
+    "en": {
+     "n": 10,
+     "yes": 5,
+     "rate": 0.5
+    }
+   }
+  }
+ },
+ "n": {
+  "cs": 149,
+  "en": 79
+ },
+ "quotes": {
+  "agentive": [
+   [
+    "The authorities' decision to withhold the body",
+    3
+   ],
+   [
+    "The authorities' decision",
+    3
+   ],
+   [
+    "The authorities' decision, while perhaps well-intentioned, denies basic human dignity",
+    2
+   ]
+  ],
+  "participial_passive": [
+   [
+    "The authorities' decision to withhold the body",
+    6
+   ],
+   [
+    "accepting the authorities' decision",
+    3
+   ],
+   [
+    "the government's fear of unrest",
+    2
+   ]
+  ],
+  "reflexive_deagentive": [],
+  "decision_nominalization": [
+   [
+    "The authorities' decision to withhold the body",
+    7
+   ],
+   [
+    "accepting the authorities' decision",
+    3
+   ],
+   [
+    "the authorities' decision",
+    2
+   ]
+  ],
+  "bureaucratic_nominalization": [
+   [
+    "The authorities' decision to withhold the body",
+    4
+   ],
+   [
+    "The authorities' decision not to release the body",
+    2
+   ],
+   [
+    "the government's concern about unrest",
+    1
+   ]
+  ]
+ },
+ "en_yes": 57,
+ "stock": 20,
+ "footer": "149 Czech and 79 English replies · temperature 0.3 · action question only · same coder (Claude Sonnet 5, one pass, codebook_agency.md) · English prompts are direct parallels of CN1/CN2/CN4/CN5; the Czech reflexive has no English form · pilot data"
+}

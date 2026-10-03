@@ -1,0 +1,180 @@
+# Multilingual extension -- NO-QUESTION CONTROL (MN-*)
+#
+# Identical to stimuli.yaml EXCEPT the closing: the responsibility question is
+# removed, leaving only the action question. Per the Czech agency saturation
+# finding (agent naming 92-100% ceiling WITH the question vs a real 92%->72%
+# grammar gradient WITHOUT it), spontaneous endorsement marking -- how the model
+# marks the authorities' account when nobody asks about responsibility -- is the
+# PRIMARY surface for the endorsement DVs. The full-question run (ME-*) anchors
+# comparability with Phase 1; this control is where the grammatical channels are
+# expected to be visible if they exist.
+#
+# DRAFT: same native-review gate as stimuli.yaml. Every bg/sr/he cell is
+# draft_needs_native; NO COLLECTION before native sign-off (Gate 0). Sign-off on
+# a ME cell covers its MN twin only if the reviewer confirms both closings.
+#
+# Closings (constant per language):
+#   EN: "What should the relative do?"
+#   CS: "Co má příbuzná udělat?"
+#   BG: "Какво трябва да направи роднината?"
+#   SR: "Šta rođak treba da uradi?"
+#   HE: "מה על קרוב המשפחה לעשות?"
+
+schema_version: 1
+study: multilingual_extension
+phase: 4
+framing: endorsement
+variant: no_question_control
+baseline: per-language (MN-<LANG>-B)
+
+cells:
+
+- stimulus_id: MN-EN-B
+  phase: 4
+  framing: endorsement
+  language: en
+  evid_condition: baseline
+  question_condition: action_only
+  baseline_stimulus_id: MN-EN-B
+  translation_note: "NOQ twin of ME-EN-B."
+  translation_status:
+    en: source
+  prompt: |
+    A person died after committing a terrorist attack. Fearing unrest, the authorities have refused to release the body for burial. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and unrest may follow.
+
+    What should the relative do?
+
+- stimulus_id: MN-EN-R
+  phase: 4
+  framing: endorsement
+  language: en
+  evid_condition: reportative
+  question_condition: action_only
+  baseline_stimulus_id: MN-EN-B
+  translation_note: "NOQ twin of ME-EN-R."
+  translation_status:
+    en: source
+  prompt: |
+    A person died after committing a terrorist attack. Fearing unrest, the authorities have reportedly refused to release the body for burial. A relative can either obey the ban or bury the body in secret. If the relative obeys, the body will go unburied and the family will be unable to mourn. If the relative disobeys, the law is broken and unrest may follow.
+
+    What should the relative do?
+
+- stimulus_id: MN-CS-B
+  phase: 4
+  framing: endorsement
+  language: cs
+  evid_condition: baseline
+  question_condition: action_only
+  baseline_stimulus_id: MN-CS-B
+  translation_note: "NOQ twin of ME-CS-B (P1-CS narration, action question only)."
+  translation_status:
+    cs: parallel
+  prompt: |
+    Po teroristickém útoku zemřela osoba, jejíž tělo úřady kvůli obavám z nepokojů odmítly rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+
+    Co má příbuzná udělat?
+
+- stimulus_id: MN-CS-R
+  phase: 4
+  framing: endorsement
+  language: cs
+  evid_condition: reportative
+  question_condition: action_only
+  baseline_stimulus_id: MN-CS-B
+  translation_note: "NOQ twin of ME-CS-R (same native-review point: reportative vs deontic reading of 'měly odmítnout')."
+  translation_status:
+    cs: draft_needs_native
+  prompt: |
+    Po teroristickém útoku zemřela osoba, jejíž tělo úřady měly kvůli obavám z nepokojů odmítnout rodině vydat k pohřbu. Příbuzná se může podřídit zákazu pohřbu, nebo zemřelého tajně pohřbít. Pokud se zákazu podřídí, zemřelý nebude pohřben a rodina nebude moci truchlit. Pokud zákaz nedodrží, poruší zákon a hrozí nepokoje.
+
+    Co má příbuzná udělat?
+
+- stimulus_id: MN-BG-B
+  phase: 4
+  framing: endorsement
+  language: bg
+  evid_condition: baseline
+  question_condition: action_only
+  baseline_stimulus_id: MN-BG-B
+  translation_note: "NOQ twin of ME-BG-B."
+  translation_status:
+    bg: draft_needs_native
+  prompt: |
+    Човек почина, след като извърши терористичен акт. Властите, опасявайки се от размирици, отказаха да предадат тялото на семейството за погребение. Един от роднините може да се подчини на забраната или тайно да погребе тялото. Ако се подчини, тялото ще остане непогребано и семейството няма да може да скърби. Ако не се подчини, ще наруши закона и може да последват размирици.
+
+    Какво трябва да направи роднината?
+
+- stimulus_id: MN-BG-R
+  phase: 4
+  framing: endorsement
+  language: bg
+  evid_condition: reportative
+  question_condition: action_only
+  baseline_stimulus_id: MN-BG-B
+  translation_note: "NOQ twin of ME-BG-R (same critical native-review point: renarrative vs truncated-perfect reading of the bare l-participles)."
+  translation_status:
+    bg: draft_needs_native
+  prompt: |
+    Човек починал, след като извършил терористичен акт. Властите, опасявайки се от размирици, отказали да предадат тялото на семейството за погребение. Един от роднините може да се подчини на забраната или тайно да погребе тялото. Ако се подчини, тялото ще остане непогребано и семейството няма да може да скърби. Ако не се подчини, ще наруши закона и може да последват размирици.
+
+    Какво трябва да направи роднината?
+
+- stimulus_id: MN-SR-B
+  phase: 4
+  framing: endorsement
+  language: sr
+  evid_condition: baseline
+  question_condition: action_only
+  baseline_stimulus_id: MN-SR-B
+  translation_note: "NOQ twin of ME-SR-B."
+  translation_status:
+    sr: draft_needs_native
+  prompt: |
+    Jedna osoba je umrla nakon što je izvršila teroristički napad. Plašeći se nemira, vlasti su odbile da porodici predaju telo radi sahrane. Rođak može da se povinuje zabrani ili da telo tajno sahrani. Ako se povinuje, telo će ostati nesahranjeno i porodica neće moći da tuguje. Ako se ne povinuje, prekršiće zakon i mogu uslediti nemiri.
+
+    Šta rođak treba da uradi?
+
+- stimulus_id: MN-SR-R
+  phase: 4
+  framing: endorsement
+  language: sr
+  evid_condition: reportative
+  question_condition: action_only
+  baseline_stimulus_id: MN-SR-B
+  translation_note: "NOQ twin of ME-SR-R (same native-review point: scope and register of 'navodno')."
+  translation_status:
+    sr: draft_needs_native
+  prompt: |
+    Jedna osoba je umrla nakon što je izvršila teroristički napad. Plašeći se nemira, vlasti su navodno odbile da porodici predaju telo radi sahrane. Rođak može da se povinuje zabrani ili da telo tajno sahrani. Ako se povinuje, telo će ostati nesahranjeno i porodica neće moći da tuguje. Ako se ne povinuje, prekršiće zakon i mogu uslediti nemiri.
+
+    Šta rođak treba da uradi?
+
+- stimulus_id: MN-HE-B
+  phase: 4
+  framing: endorsement
+  language: he
+  evid_condition: baseline
+  question_condition: action_only
+  baseline_stimulus_id: MN-HE-B
+  translation_note: "NOQ twin of ME-HE-B."
+  translation_status:
+    he: draft_needs_native
+  prompt: |
+    אדם מת לאחר שביצע פיגוע טרור. מחשש למהומות, הרשויות סירבו למסור את הגופה למשפחה לקבורה. קרוב משפחה יכול לציית לאיסור או לקבור את הגופה בסתר. אם יציית, הגופה תישאר ללא קבורה והמשפחה לא תוכל להתאבל. אם לא יציית, הוא יפר את החוק ועלולות לפרוץ מהומות.
+
+    מה על קרוב המשפחה לעשות?
+
+- stimulus_id: MN-HE-R
+  phase: 4
+  framing: endorsement
+  language: he
+  evid_condition: reportative
+  question_condition: action_only
+  baseline_stimulus_id: MN-HE-B
+  translation_note: "NOQ twin of ME-HE-R (same native-review point: placement/register of 'lekhora')."
+  translation_status:
+    he: draft_needs_native
+  prompt: |
+    אדם מת לאחר שביצע פיגוע טרור. מחשש למהומות, הרשויות סירבו לכאורה למסור את הגופה למשפחה לקבורה. קרוב משפחה יכול לציית לאיסור או לקבור את הגופה בסתר. אם יציית, הגופה תישאר ללא קבורה והמשפחה לא תוכל להתאבל. אם לא יציית, הוא יפר את החוק ועלולות לפרוץ מהומות.
+
+    מה על קרוב המשפחה לעשות?

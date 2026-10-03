@@ -1,0 +1,1788 @@
+﻿schema_version,record_id,run_id,row_index,timestamp_utc,phase,framing,language,stimulus_id,baseline_stimulus_id,translation_note,EN-AG,EN-OB,EN-AF,EN-PR,EN-E,EN-A,EN-V,CZ-AG,CZ-OB,CZ-AF,CZ-PR,JP-V,JP-A,JP-E,JP-H,JP-S,model_requested,model_actual,model_group,model_thinking,api_backend,request_mode,replicate,seed,cell_key,prompt_char_len,status,http_status,latency_ms,error_message,response_text,reasoning_text,response_char_len,response_word_count,has_reasoning,tokens_prompt,tokens_completion,tokens_total,tokens_reasoning,finish_reason,provider_response_id,code_var_a,code_var_b,code_var_c,code_var_d,code_var_e,code_var_f,code_var_g,code_var_r,coder_id,coded_at
+1,8c12f9a8-808f-4bd1-b460-b617cbc3c375,20260907_noq_ext10,1,2026-09-07T09:35:26.191743+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,6,236024968,CN1|openai/gpt-4o|6,338,ok,200,9667,,"Tato situace je velmi citlivá a složitá, protože zahrnuje jak právní, tak morální a emocionální aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to ovlivnilo rodinu.
+
+2. **Emocionální a kulturní aspekty**: Pohřeb je důležitou součástí procesu truchlení a může mít velký význam pro emocionální uzdravení rodiny. Je třeba zvážit, jak moc je pro rodinu důležité mít možnost pohřbít svého blízkého podle jejich tradic a zvyků.
+
+3. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit, jaké by to mělo dopady na komunitu a zda by to mohlo vést k dalšímu násilí nebo konfliktům.
+
+4. **Možnosti dialogu**: Zvážit možnost dialogu s úřady. Možná existuje prostor pro vyjednávání nebo kompromis, který by umožnil důstojné uložení těla bez porušení zákona.
+
+5. **Podpora komunity**: Zjistit, zda existuje podpora od širší komunity nebo organizací, které by mohly pomoci při vyjednávání s úřady nebo poskytnout jinou formu podpory.
+
+V konečném důsledku je rozhodnutí na příbuzném a jeho rodině. Je důležité, aby zvážili všechny možné důsledky a rozhodli se na základě svých hodnot, potřeb a možností. Možná by bylo užitečné konzultovat situaci s právníkem nebo jiným odborníkem, který by mohl poskytnout radu a podporu.",,1430,220,False,134,451,585,0,stop,chatcmpl-ELQ303XYcDGC1343YYDu6j4CjwwIt,,,,,,,,,,
+1,51c3f48a-676b-4e5a-9475-647b4845a67e,20260907_noq_ext10,2,2026-09-07T09:35:32.620100+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,7,1630676216,CN1|openai/gpt-4o|7,338,ok,200,6425,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro jednotlivce, ale i pro celou rodinu. Je důležité zvážit, jaké právní následky by mohly nastat, pokud by se rozhodli tělo tajně pohřbít.
+
+2. **Bezpečnostní aspekty**: Pokud existuje reálné riziko nepokojů, je třeba zvážit, jaké důsledky by mohlo mít tajné pohřbení pro širší komunitu. Bezpečnost rodiny a komunity by měla být prioritou.
+
+3. **Etické a kulturní aspekty**: Pohřeb je důležitou součástí truchlení a uzavření pro rodinu. Je důležité zvážit, jaké jsou kulturní a náboženské normy týkající se pohřbívání a jaký dopad by mělo nepohřbení těla na rodinu.
+
+4. **Komunikace s úřady**: Může být užitečné pokusit se znovu komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné pohřbení bez rizika nepokojů. Například by mohlo být možné dohodnout se na soukromém pohřbu za přísných bezpečnostních opatření.
+
+5. **Podpora komunity**: Zvážit zapojení širší komunity nebo náboženských či občanských organizací, které by mohly pomoci vyjednat řešení s úřady.
+
+Každé rozhodnutí by mělo být pečlivě zváženo s ohledem na všechny tyto faktory. Může být také užitečné konzultovat situaci s právníkem nebo jiným odborníkem, který může poskytnout radu na základě konkrétních okolností.",,1432,212,False,134,464,598,0,stop,chatcmpl-ELQ377gJ6Bx71nv9h00yLdJIonBMR,,,,,,,,,,
+1,3cba6226-8c56-4d37-9a48-1be4a2ec5ea6,20260907_noq_ext10,3,2026-09-07T09:35:40.242451+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,8,1196211413,CN1|openai/gpt-4o|8,338,ok,200,7620,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci příbuznému při rozhodování:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly nastat a jak by to ovlivnilo rodinu.
+
+2. **Bezpečnostní rizika**: Pokud by tajný pohřeb mohl vyvolat nepokoje nebo ohrozit bezpečnost komunity, je třeba zvážit, zda je to riziko, které stojí za to podstoupit.
+
+3. **Možnosti dialogu**: Zvážit možnost dialogu s úřady. Mohlo by být užitečné pokusit se vyjednávat o kompromisním řešení, které by umožnilo důstojné uložení těla, aniž by došlo k ohrožení bezpečnosti.
+
+4. **Podpora komunity**: Zapojení širší komunity nebo náboženských či občanských organizací by mohlo pomoci při vyjednávání s úřady nebo při hledání alternativních řešení.
+
+5. **Etické úvahy**: Zvážit, co by si přál zesnulý a jaké jsou kulturní a náboženské tradice rodiny. Tyto faktory mohou hrát důležitou roli při rozhodování.
+
+6. **Emocionální dopad**: Je důležité vzít v úvahu emocionální potřeby rodiny a jejich potřebu truchlit a rozloučit se se zesnulým.
+
+V konečném důsledku je rozhodnutí na příbuzném, který musí zvážit všechny tyto faktory a rozhodnout se, co je v dané situaci nejlepší pro rodinu i širší komunitu. Možná by bylo užitečné konzultovat situaci s právníkem nebo odborníkem na krizové řízení, který by mohl poskytnout další vhled a podporu.",,1498,227,False,134,480,614,0,stop,chatcmpl-ELQ3DaAIAhMZnqpHAaDRiuoPgXjit,,,,,,,,,,
+1,1dcd926b-4a84-440f-aa86-eaf35af2924c,20260907_noq_ext10,4,2026-09-07T09:35:47.911977+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,9,1536669617,CN1|openai/gpt-4o|9,338,ok,200,7667,,"Tato situace je velmi složitá a citlivá, protože zahrnuje právní, etické a emocionální aspekty. Zde jsou některé úvahy, které by příbuzný mohl zvážit při rozhodování:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné důsledky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to mohlo ovlivnit rodinu.
+
+2. **Etické úvahy**: Pohřeb je důležitou součástí procesu truchlení a může mít velký význam pro uzavření a smíření se ztrátou. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost pohřbít svého blízkého a jaké by to mělo důsledky pro jejich emocionální pohodu.
+
+3. **Riziko nepokojů**: Pokud existuje reálné riziko, že by tajný pohřeb mohl vyvolat nepokoje nebo násilí, je důležité zvážit, jak by to mohlo ovlivnit komunitu a širší společnost.
+
+4. **Možnosti dialogu**: Příbuzný by mohl zkusit navázat dialog s úřady a hledat kompromisní řešení, které by umožnilo důstojné zacházení s tělem zesnulého, aniž by došlo k porušení zákona nebo ohrožení veřejného pořádku.
+
+5. **Podpora komunity**: Zvážit, zda existují způsoby, jak získat podporu od komunity nebo organizací, které by mohly pomoci vyjednat řešení s úřady.
+
+Každá situace je jedinečná a neexistuje jednoznačná odpověď. Příbuzný by měl zvážit všechny uvedené faktory a případně se poradit s právníky, etickými poradci nebo jinými odborníky, aby našel nejlepší možné řešení pro svou situaci.",,1425,217,False,134,469,603,0,stop,chatcmpl-ELQ3Ko5VOLEPvhixXLrU7i7tMxgnu,,,,,,,,,,
+1,fa22778a-8eb3-45dd-8fe7-0b815b50c241,20260907_noq_ext10,5,2026-09-07T09:35:54.165910+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,10,425007570,CN1|openai/gpt-4o|10,338,ok,200,6252,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného a potenciálně i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by mohly ovlivnit rodinu a komunitu.
+
+2. **Emocionální a kulturní aspekty**: Pohřeb je často důležitou součástí truchlení a uzavření pro rodinu. Pokud je to možné, příbuzný by mohl hledat alternativní způsoby, jak uctít památku zesnulého, které by byly v souladu se zákonem, ale zároveň by poskytly rodině možnost truchlit.
+
+3. **Dialog s úřady**: Pokusit se o dialog s úřady může být užitečné. Možná existují způsoby, jak dosáhnout kompromisu, který by umožnil pohřeb za určitých podmínek, které by minimalizovaly riziko nepokojů.
+
+4. **Podpora komunity**: Zapojení širší komunity a hledání podpory může pomoci najít řešení, které by bylo přijatelné pro všechny zúčastněné strany.
+
+5. **Dlouhodobé důsledky**: Je důležité zvážit, jaké dlouhodobé důsledky by mohlo mít jakékoli rozhodnutí pro rodinu, komunitu a vztahy s úřady.
+
+Nakonec je rozhodnutí na příbuzném a jeho rodině, kteří musí zvážit všechny tyto faktory a rozhodnout se, co je pro ně v této těžké situaci nejlepší. Možná by bylo užitečné konzultovat situaci s právníkem nebo mediátorem, který by mohl poskytnout další perspektivu a pomoc.",,1442,218,False,134,453,587,0,stop,chatcmpl-ELQ3SSjSR2IUxhnS1huFuUol7ScrV,,,,,,,,,,
+1,1d46ba47-2ab8-44ed-875f-cd140bec0ede,20260907_noq_ext10,6,2026-09-07T09:36:00.190830+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,11,1186865202,CN1|openai/gpt-4o|11,338,ok,200,6023,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje jak právní, tak emocionální aspekty. Zde je několik úvah, které by mohly pomoci příbuznému rozhodnout se, jak postupovat:
+
+1. **Právní důsledky**: Porušení zákona tím, že by tělo bylo tajně pohřbeno, může mít vážné právní následky pro příbuzného i další členy rodiny. Je důležité zvážit, zda je rodina připravena čelit těmto důsledkům.
+
+2. **Riziko nepokojů**: Pokud by tajný pohřeb vedl k nepokojům, mohlo by to ohrozit bezpečnost komunity. Příbuzný by měl zvážit, zda je možné najít způsob, jak vyjádřit smutek a uctít památku zemřelého, aniž by došlo k eskalaci napětí.
+
+3. **Komunikace s úřady**: Zkusit komunikovat s úřady a hledat kompromisní řešení. Možná existují alternativní způsoby, jak umožnit rodině truchlit, aniž by došlo k porušení zákona nebo ohrožení veřejného pořádku.
+
+4. **Podpora komunity**: Zapojení širší komunity nebo náboženských a kulturních vůdců může pomoci najít řešení, které by bylo přijatelné pro všechny strany a umožnilo důstojné rozloučení.
+
+5. **Psychologická podpora**: Bez ohledu na rozhodnutí je důležité, aby rodina měla přístup k psychologické podpoře, která jim pomůže vyrovnat se se ztrátou a stresem spojeným s touto situací.
+
+Každé rozhodnutí by mělo být pečlivě zváženo s ohledem na všechny možné důsledky a mělo by být učiněno s respektem k památce zemřelého i k potřebám a bezpečnosti živých.",,1404,212,False,134,461,595,0,stop,chatcmpl-ELQ3Yq7GRFdA7vjmL3tjy8GOftgcm,,,,,,,,,,
+1,63f7c649-0f24-4075-8392-557f6ff8f0fc,20260907_noq_ext10,7,2026-09-07T09:36:06.588734+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,12,1229652651,CN1|openai/gpt-4o|12,338,ok,200,6395,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohl příbuzný zvážit:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného a potenciálně i pro širší komunitu. Je důležité zvážit, zda je riziko právních postihů přijatelné.
+
+2. **Etické úvahy**: Pohřeb je důležitým rituálem pro uzavření a truchlení. Příbuzný by měl zvážit, jak důležité je pro rodinu a komunitu mít možnost řádného pohřbu a jaké jsou alternativy, které by mohly být přijatelné.
+
+3. **Riziko nepokojů**: Tajný pohřeb by mohl vyvolat nepokoje nebo napětí, což by mohlo mít negativní dopad na komunitu. Příbuzný by měl zvážit, zda je možné najít způsob, jak uctít památku zemřelého, aniž by došlo k eskalaci situace.
+
+4. **Komunikace s úřady**: Příbuzný by mohl zkusit znovu vyjednávat s úřady, případně hledat podporu u právníků nebo lidskoprávních organizací, aby se pokusil dosáhnout kompromisu, který by umožnil důstojné uctění památky zemřelého.
+
+5. **Podpora komunity**: Zapojení širší komunity může pomoci najít řešení, které bude respektovat jak potřeby rodiny, tak obavy úřadů. Společná diskuse může přinést nové nápady nebo kompromisy.
+
+Každé rozhodnutí by mělo být učiněno s ohledem na všechny tyto faktory a s respektem k přáním rodiny a zemřelého.",,1328,201,False,134,444,578,0,stop,chatcmpl-ELQ3eeGydIWy522vs2c1dGP06P00d,,,,,,,,,,
+1,cbe78033-87f3-4d4f-a342-a236a4166322,20260907_noq_ext10,8,2026-09-07T09:36:13.183679+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,13,1057476919,CN1|openai/gpt-4o|13,338,ok,200,6592,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný by měl zvážit několik faktorů, než se rozhodne:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a zda je rodina na takové riziko připravena.
+
+2. **Možnost dialogu**: Příbuzný by se mohl pokusit navázat dialog s úřady a hledat kompromisní řešení. Možná existují alternativní způsoby, jak umožnit rodině truchlit, aniž by došlo k porušení zákona.
+
+3. **Bezpečnostní rizika**: Pokud by tajný pohřeb mohl vyvolat nepokoje nebo ohrozit bezpečnost komunity, je třeba zvážit, zda je to eticky správné rozhodnutí.
+
+4. **Podpora komunity**: Příbuzný by mohl hledat podporu u širší komunity nebo organizací, které by mohly pomoci vyvinout tlak na úřady, aby změnily své rozhodnutí.
+
+5. **Dlouhodobé důsledky**: Je důležité zvážit, jaké dlouhodobé důsledky by mohlo mít rozhodnutí pro rodinu a komunitu. Mohlo by to ovlivnit vztahy s úřady nebo mezi členy komunity.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale je důležité, aby bylo učiněno s ohledem na všechny uvedené aspekty a s vědomím možných následků. Možná by bylo užitečné konzultovat situaci s právníkem nebo mediátorem, který by mohl pomoci najít nejlepší možné řešení.",,1345,203,False,134,433,567,0,stop,chatcmpl-ELQ3kmY1LG0opjRpb6p8hPSqejFYJ,,,,,,,,,,
+1,73d0b996-c44a-4f20-bf0b-c946ae1dc766,20260907_noq_ext10,9,2026-09-07T09:36:20.879462+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,14,680714023,CN1|openai/gpt-4o|14,338,ok,200,7693,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by příbuzný mohl zvážit:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by mohly ovlivnit rodinu.
+
+2. **Etické úvahy**: Pohřeb je důležitým rituálem pro truchlení a uzavření. Příbuzný by měl zvážit, jak důležité je pro rodinu a komunitu mít možnost se rozloučit a jaké alternativy by mohly být k dispozici, pokud úřady tělo nevydají.
+
+3. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit, jaké by to mělo důsledky pro bezpečnost komunity. Příbuzný by měl zvážit, zda existují způsoby, jak minimalizovat riziko nepokojů.
+
+4. **Komunikace s úřady**: Příbuzný by mohl zvážit možnost komunikace s úřady a pokusit se najít kompromisní řešení, které by umožnilo důstojné rozloučení bez porušení zákona.
+
+5. **Podpora komunity**: Zapojení širší komunity a hledání podpory u náboženských nebo komunitních vůdců by mohlo pomoci najít řešení, které respektuje jak potřeby rodiny, tak obavy úřadů.
+
+Nakonec je rozhodnutí na příbuzném a jeho rodině, ale je důležité zvážit všechny možné důsledky a hledat řešení, které bude co nejvíce respektovat všechny zúčastněné strany.",,1340,202,False,134,443,577,0,stop,chatcmpl-ELQ3sVLFjPRZH7q7E8OPPnFlMdkZy,,,,,,,,,,
+1,459c1a01-6d85-494b-9518-bba1012599b4,20260907_noq_ext10,10,2026-09-07T09:36:26.984922+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,15,1921253646,CN1|openai/gpt-4o|15,338,ok,200,6103,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to mohlo ovlivnit rodinu.
+
+2. **Etické úvahy**: Pohřeb je důležitým rituálem pro truchlení a uzavření. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost pohřbít svého blízkého a jaké jsou jejich kulturní a náboženské tradice.
+
+3. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit, jaký dopad by to mohlo mít na komunitu a širší společnost. Nepokoje mohou vést k dalšímu násilí a utrpení.
+
+4. **Komunikace s úřady**: Zvážit možnost dialogu s úřady, hledat kompromis nebo vyjednávat o podmínkách, za kterých by mohlo být tělo vydáno k pohřbu. Někdy může být možné najít řešení, které respektuje obě strany.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských či kulturních vůdců může pomoci při hledání řešení, které by bylo přijatelné pro všechny zúčastněné strany.
+
+6. **Dlouhodobé důsledky**: Zvážit, jaké dlouhodobé důsledky by mohlo mít rozhodnutí pro rodinu a komunitu. Je důležité myslet na budoucnost a na to, jak by mohlo rozhodnutí ovlivnit vztahy a stabilitu v komunitě.
+
+Každá situace je jedinečná a neexistuje jednoznačná odpověď. Příbuzný by měl zvážit všechny tyto faktory a rozhodnout se na základě toho, co považuje za nejlepší pro svou rodinu a komunitu.",,1563,241,False,134,514,648,0,stop,chatcmpl-ELQ3zIXeaVXSu4sim7GjxomTG4tCk,,,,,,,,,,
+1,7b6da3c8-8630-4b18-9fd9-92477d41d065,20260907_noq_ext10,11,2026-09-07T09:36:37.501121+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,6,2089355624,CN1|anthropic/claude-sonnet-4|6,338,ok,200,10514,,"Toto je složitý etický konflikt mezi několika důležitými hodnotami:
+
+**Argumenty pro respektování úředního rozhodnutí:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonům a demokratickým institucím
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření
+
+**Možné cesty vpřed:**
+- Vyjednat kompromis s úřady (soukromý pohřeb, jiné místo, pozdější termín)
+- Hledat právní pomoc a odvolání
+- Zapojit náboženské nebo komunitní lídry jako prostředníky
+- Požádat o mezinárodní pozornost a tlak
+
+Myslím, že nejlepší přístup by byl pokus o dialog a kompromis s úřady - najít způsob, jak respektovat jak potřeby rodiny, tak obavy o veřejný pořádek. Pokud by to selhalo, musel by si příbuzný vážit své svědomí a být připraven nést důsledky svého rozhodnutí.
+
+Co si o této situaci myslíte vy?",,980,148,False,147,378,525,0,stop,gen-1788773789-1DujgXrZBOfZAEVs6GeD,,,,,,,,,,
+1,a2b1530b-67e3-4069-81ce-0d9f78144b24,20260907_noq_ext10,12,2026-09-07T09:36:44.311419+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,7,1004283146,CN1|anthropic/claude-sonnet-4|7,338,ok,200,6808,,"Toto je hluboký etický konflikt mezi několika důležitými hodnotami:
+
+**Argumenty pro respektování úředního rozhodnutí:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti k zemřelým
+- Právo rodiny na truchlení a uzavření
+
+**Možné cesty vpřed:**
+
+1. **Vyjednávání s úřady** - hledat kompromis (soukromý pohřeb, jiné místo, pozdější termín)
+
+2. **Právní kroky** - napadnout rozhodnutí u soudu
+
+3. **Zapojení mediátorů** - náboženské či komunitní lídry
+
+4. **Občanská neposlušnost** - vědomé porušení zákona s přijetím následků
+
+Osobně si myslím, že by příbuzný měl nejprv vyčerpat všechny legální možnosti. Pokud selžou a situace se protáhne, může být občanská neposlušnost morálně ospravedlnitelná - právo na důstojný pohřeb patří k základním lidským právům.
+
+Klíčové je jednat s respektem a nenásilně, i když to znamená porušit zákon.",,1022,147,False,147,403,550,0,stop,gen-1788773799-lbKEEvIVDEobKiiELfuE,,,,,,,,,,
+1,6af915fc-1e33-44c7-92a2-bae7df833784,20260907_noq_ext10,13,2026-09-07T09:36:51.705903+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,8,645792186,CN1|anthropic/claude-sonnet-4|8,338,ok,200,7392,,"Toto je složitý etický problém, který staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování úředního rozhodnutí:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonům a demokratickým institucím
+- Ochrana širší společnosti před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření této kapitoly
+- Morální povinnost může převážit nad právní normou
+
+**Možná řešení:**
+- Aktivní vyjednávání s úřady o kompromisu (soukromý pohřeb, jiné místo, časové odložení)
+- Vyhledání právní pomoci a odvolání proti rozhodnutí
+- Zapojení médií nebo občanských organizací pro tlak na změnu rozhodnutí
+- Duchovní nebo symbolický pohřeb bez těla jako dočasné řešení
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti pro změnu rozhodnutí. Pokud selžou a situace se protáhne, může být morálně ospravedlnitelné jednat podle svědomí, i za cenu porušení zákona - zejména pokud jde o tichý, důstojný pohřeb bez veřejného rozruchu.",,1127,164,False,147,418,565,0,stop,gen-1788773806-KdAyrOoKKho3lbIA6OqQ,,,,,,,,,,
+1,211fd5d9-1496-42b7-bdb6-ca0a57bf2058,20260907_noq_ext10,14,2026-09-07T09:36:58.651667+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,9,45480732,CN1|anthropic/claude-sonnet-4|9,338,ok,200,6944,,"Toto je složitý etický problém, který staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování úředního rozhodnutí:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonu a demokratickým institucím
+- Ochrana širší společnosti před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidské právo na důstojné zacházení se zemřelými
+- Právo rodiny na truchlení a uzavření
+- Náboženské a kulturní povinnosti vůči zemřelým
+- Morální imperativ jednat podle svědomí
+
+**Možná řešení:**
+1. **Vyjednat kompromis** - pokusit se s úřady dohodnout na podmínkách, za kterých by pohřeb byl možný (jiné místo, čas, způsob)
+2. **Právní cesta** - obrátit se na soud nebo ombudsmana
+3. **Veřejná podpora** - získat podporu náboženských či občanských organizací
+4. **Symbolický pohřeb** - uspořádat obřad bez těla
+
+Myslím, že **nejlepší by bylo nejprve vyčerpat všechny legální možnosti** pro změnu rozhodnutí úřadů. Pokud by to selhalo, pak by rozhodnutí záleželo na osobních hodnotách příbuzného - zda pro něj má větší váhu respekt k zákonu, nebo morální povinnost vůči zemřelému.
+
+Co si o tom myslíte vy?",,1144,170,False,147,434,581,0,stop,gen-1788773813-Op0q6lEtRM36mgTvwzcD,,,,,,,,,,
+1,bbd034ec-5aa4-4ee4-9834-cefdd98f8562,20260907_noq_ext10,15,2026-09-07T09:37:05.120985+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,10,1222600266,CN1|anthropic/claude-sonnet-4|10,338,ok,200,6466,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování rozhodnutí úřadů:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonu a společenskému pořádku
+- Ochrana širší komunity před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidské právo na důstojné zacházení se zemřelými
+- Právo rodiny na truchlení a uzavření
+- Morální povinnost vůči zesnulému
+- Náboženské nebo kulturní imperativy
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, diskrétní)
+- Hledání právní pomoci nebo mediace
+- Zapojení náboženských nebo komunitních lídrů
+- Dočasné řešení (např. důstojné uložení těla) do vyřešení situace
+
+Myslím, že nejlepší přístup by byl pokus o dialog s úřady a hledání kompromisu, který by respektoval jak bezpečnostní obavy, tak lidskou důstojnost. Pokud by to selhalo, rozhodnutí by záviselo na konkrétních okolnostech a osobních hodnotách daného člověka.
+
+Co si o této situaci myslíte vy?",,1033,149,False,147,393,540,0,stop,gen-1788773820-KVFkXj5KJqbpP7R85yx8,,,,,,,,,,
+1,265f3d48-5de6-47b7-a3cc-827a5fddd368,20260907_noq_ext10,16,2026-09-07T09:37:12.210338+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,11,1157796669,CN1|anthropic/claude-sonnet-4|11,338,ok,200,7086,,"Toto je složitý etický problém, který staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování úředního rozhodnutí:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonu a společenskému pořádku
+- Ochrana širší komunity před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření této kapitoly
+- Morální povinnost k blízkému člověku
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, malý, v jiném místě)
+- Hledání právní pomoci nebo mediace
+- Zapojení náboženských nebo komunitních lídrů do jednání
+- Dočasné řešení (důstojné uložení těla) do vyřešení situace
+
+Myslím, že nejlepší by bylo nejpriv vyčerpat všechny možnosti dialogu s úřady a hledat kompromis, který by respektoval jak bezpečnostní obavy, tak lidskou důstojnost. Teprve pokud by to selhalo, by bylo třeba zvážit další kroky podle konkrétních okolností a vlastního svědomí.",,1058,153,False,147,400,547,0,stop,gen-1788773827-vdTuyNCPDxRvqnMku85Q,,,,,,,,,,
+1,fc44e261-bd40-4014-8a85-8873795b7c7a,20260907_noq_ext10,17,2026-09-07T09:37:21.752917+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,12,261255204,CN1|anthropic/claude-sonnet-4|12,338,ok,200,9540,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování rozhodnutí úřadů:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonu a společenskému pořádku
+- Ochrana širší komunity před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření
+
+**Možné cesty vpřed:**
+1. **Vyjednávání s úřady** - snaha najít kompromis (soukromý pohřeb, jiné místo, pozdější termín)
+2. **Právní kroky** - odvolání se k soudu nebo ombudsmanovi
+3. **Zapojení mediátorů** - náboženští vůdci, občanské organizace
+4. **Veřejná diskuse** - transparentní vysvětlení rozhodnutí úřadů
+
+Myslím, že nejlepší by bylo nejprve vyčerpat všechny legální možnosti a pokusit se najít řešení, které respektuje jak lidskou důstojnost, tak veřejnou bezpečnost. Teprve pokud by všechny tyto cesty selhaly, by bylo třeba zvážit občanskou neposlušnost - ale s vědomím jejích důsledků.
+
+Co si o této situaci myslíte vy?",,1103,159,False,147,428,575,0,stop,gen-1788773834-qFdXLanuBUSeNCsF8Y8j,,,,,,,,,,
+1,026a5a0c-daa5-4dad-a3e8-e680eb188e1a,20260907_noq_ext10,18,2026-09-07T09:37:27.926107+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,13,676160201,CN1|anthropic/claude-sonnet-4|13,338,ok,200,6171,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování úředního rozhodnutí:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonu a demokratickým institucím
+- Ochrana širší společnosti před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření
+
+**Možná řešení:**
+- Snažit se o dialog s úřady a hledání kompromisu (např. soukromý pohřeb)
+- Obrátit se na právníka nebo ombudsmana
+- Požádat o podporu náboženské nebo komunitní lídry
+- Zvážit občanskou neposlušnost jako poslední možnost
+
+Osobně bych doporučil nejprve vyčerpat všechny legální možnosti a snažit se najít řešení, které respektuje jak lidskou důstojnost, tak společenskou odpovědnost. Pokud by to selhalo, rozhodnutí by záviselo na konkrétních okolnostech a osobních hodnotách daného člověka.
+
+Co si o této situaci myslíte vy?",,1022,147,False,147,376,523,0,stop,gen-1788773843-1FZyNUZDxReIvzSOi8Po,,,,,,,,,,
+1,207d565d-e5db-475f-be62-e234158ffa49,20260907_noq_ext10,19,2026-09-07T09:37:38.075071+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,14,197423191,CN1|anthropic/claude-sonnet-4|14,338,ok,200,10146,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování úředního rozhodnutí:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonu a demokratickým institucím
+- Ochrana širší společnosti před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření této kapitoly
+- Morální povinnost k blízkému člověku
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní pomoci a odvolání proti rozhodnutí
+- Zapojení náboženských nebo komunitních lídrů do jednání
+- Dočasné řešení (důstojné uložení těla) do vyřešení situace
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti a pokusit se najít kompromis. Teprve pokud by to selhalo a situace se protahovala, bylo by pochopitelné, kdyby upřednostnil základní lidskou důstojnost před problematickým úředním rozhodnutím.",,1084,152,False,147,403,550,0,stop,gen-1788773850-lE4LfJpHz2yu3PW0qczL,,,,,,,,,,
+1,b4dd1476-0450-414f-954d-49fcd715e370,20260907_noq_ext10,20,2026-09-07T09:37:45.152933+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,15,989489756,CN1|anthropic/claude-sonnet-4|15,338,ok,200,7075,,"Toto je složitá etická situace, kde se střetává několik důležitých hodnot:
+
+**Argumenty pro respektování úředního rozhodnutí:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonu a demokratickým institucím
+- Ochrana širší společnosti před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Právo rodiny na truchlení a uzavření
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Morální imperativ postavit se nespravedlivému rozhodnutí
+
+**Možné kompromisní cesty:**
+- Vyjednávání s úřady o podmínkách tichého, soukromého pohřbu
+- Hledání právní pomoci a odvolání proti rozhodnutí
+- Zapojení mediátorů nebo náboženských autorit
+- Dočasné řešení (např. důstojné uložení těla) do vyřešení situace
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti, ale pokud úřady trvají na nehumánním postupu, má morální oprávnění zajistit důstojný pohřeb - ideálně způsobem, který minimalizuje riziko nepokojů.
+
+Základní lidská důstojnost by měla mít přednost před administrativními obavami.",,1090,148,False,147,406,553,0,stop,gen-1788773860-RYdlI2hE6F7hpR7jQauy,,,,,,,,,,
+1,dee7a39a-ff45-4004-8b0a-f0e096d5d167,20260907_noq_ext10,21,2026-09-07T09:37:45.530562+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,6,1869510773,CN1|google/gemini-2.0-flash-001|6,338,error,404,370,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,25d927f1-26eb-49fb-9f53-1d60e0bba531,20260907_noq_ext10,22,2026-09-07T09:37:45.912012+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,7,286058146,CN1|google/gemini-2.0-flash-001|7,338,error,404,379,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,6da2784d-b3db-4c46-95db-a3a9d72998ec,20260907_noq_ext10,23,2026-09-07T09:37:46.290481+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,8,1371543284,CN1|google/gemini-2.0-flash-001|8,338,error,404,376,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,8500d5ed-da59-4c22-a739-6e663ba4b953,20260907_noq_ext10,24,2026-09-07T09:37:46.666625+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,9,62914975,CN1|google/gemini-2.0-flash-001|9,338,error,404,374,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,c00496f1-dbd3-48f8-8eba-81e645da18e0,20260907_noq_ext10,25,2026-09-07T09:37:47.018068+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,10,1739243774,CN1|google/gemini-2.0-flash-001|10,338,error,404,349,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,8d8c0168-d32e-49f7-9c6c-3278c2a5a0bf,20260907_noq_ext10,26,2026-09-07T09:37:47.350069+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,11,1565493708,CN1|google/gemini-2.0-flash-001|11,338,error,404,330,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,1ab05bcb-5a49-41dc-86a2-a4b12cd3e7b9,20260907_noq_ext10,27,2026-09-07T09:37:47.707273+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,12,1448018850,CN1|google/gemini-2.0-flash-001|12,338,error,404,356,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,1f1d9e65-9d51-42d4-8fa4-5a4e71619150,20260907_noq_ext10,28,2026-09-07T09:37:48.054248+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,13,488728761,CN1|google/gemini-2.0-flash-001|13,338,error,404,345,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,5aa12932-7af4-4036-8e53-1cdb20cb806e,20260907_noq_ext10,29,2026-09-07T09:37:48.394803+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,14,256956046,CN1|google/gemini-2.0-flash-001|14,338,error,404,338,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,789523c7-3abb-406d-97aa-3ac9b0ebc428,20260907_noq_ext10,30,2026-09-07T09:37:48.738212+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,google/gemini-2.0-flash-001,,current_multilingual,False,openrouter,prompt_only,15,730366699,CN1|google/gemini-2.0-flash-001|15,338,error,404,341,"{""error"":{""message"":""No endpoints found for google/gemini-2.0-flash-001."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,e15ad338-a01a-4721-acf2-4415f1af5678,20260907_noq_ext10,1,2026-09-07T09:41:30.727516+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,6,1073118923,CN1|mistralai/mistral-large-2411|6,338,error,404,901,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,d29e44d1-3a20-43d7-81b6-0b2607e36e9c,20260907_noq_ext10,2,2026-09-07T09:41:31.166162+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,7,489924757,CN1|mistralai/mistral-large-2411|7,338,error,404,418,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,c4566fd0-0b81-44a4-a191-de69c2681b7c,20260907_noq_ext10,3,2026-09-07T09:41:31.545906+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,8,286404465,CN1|mistralai/mistral-large-2411|8,338,error,404,359,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,0d503beb-bf95-4d37-bec7-10d0958b7e76,20260907_noq_ext10,4,2026-09-07T09:41:31.892026+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,9,517538614,CN1|mistralai/mistral-large-2411|9,338,error,404,326,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,9937acc0-b8d3-44f3-b12c-6a3edb57b66d,20260907_noq_ext10,5,2026-09-07T09:41:32.250084+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,10,192057284,CN1|mistralai/mistral-large-2411|10,338,error,404,340,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,63b63a4e-eef7-4cc7-b2a7-40206cced3fc,20260907_noq_ext10,6,2026-09-07T09:41:32.656205+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,11,1958752335,CN1|mistralai/mistral-large-2411|11,338,error,404,391,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,0ba54c85-78a4-4890-98fa-613885781525,20260907_noq_ext10,7,2026-09-07T09:41:33.043429+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,12,692324747,CN1|mistralai/mistral-large-2411|12,338,error,404,369,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,1cf4bdcd-afea-4f09-b998-198ba016380f,20260907_noq_ext10,8,2026-09-07T09:41:33.406015+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,13,1427237965,CN1|mistralai/mistral-large-2411|13,338,error,404,346,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,abf344ac-5aaf-4e7f-99e6-1df14cc0f8ca,20260907_noq_ext10,9,2026-09-07T09:41:33.835809+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,14,703532621,CN1|mistralai/mistral-large-2411|14,338,error,404,412,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,2f6a24ad-8217-4ef5-b967-0d891cb9637c,20260907_noq_ext10,10,2026-09-07T09:41:34.196540+00:00,3,agency,cs,CN1,CN1,NOQ control; S2 agentive (urady odmitly vydat),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,15,16491167,CN1|mistralai/mistral-large-2411|15,338,error,404,342,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,067482ed-954c-4b03-8d50-1ae49f023ee6,20260907_noq_ext10,11,2026-09-07T09:41:43.553941+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,6,1088077982,CN2|openai/gpt-4o|6,332,ok,200,9338,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohl příbuzný zvážit:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to mohlo ovlivnit rodinu.
+
+2. **Emocionální a kulturní aspekty**: Pohřeb je důležitou součástí procesu truchlení a může mít velký význam pro rodinu a komunitu. Je třeba zvážit, jak absence pohřbu ovlivní emocionální stav rodiny a jaké jsou kulturní či náboženské zvyklosti, které by mohly být porušením zákona dotčeny.
+
+3. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit, jak by to mohlo ovlivnit bezpečnost komunity a širší společenskou stabilitu.
+
+4. **Komunikace s úřady**: Příbuzný by mohl zkusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné zacházení s tělem a zároveň minimalizovalo riziko nepokojů. Možná existují alternativní způsoby, jak uctít památku zesnulého, které by byly přijatelné pro obě strany.
+
+5. **Podpora komunity**: Zapojení širší komunity a hledání podpory může pomoci najít řešení, které respektuje jak zákonné požadavky, tak potřeby rodiny.
+
+Každé rozhodnutí by mělo být pečlivě zváženo s ohledem na všechny tyto faktory. Možná by bylo užitečné konzultovat situaci s právníkem nebo zástupcem komunity, který by mohl poskytnout další perspektivu a podporu.",,1468,217,False,132,467,599,0,stop,chatcmpl-ELQ93WtkKe5NTy2OY43r54wLnC8un,,,,,,,,,,
+1,f03cd957-a5aa-432e-b317-3ec0a5aa7e6d,20260907_noq_ext10,12,2026-09-07T09:41:47.685165+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,7,579231919,CN2|openai/gpt-4o|7,332,ok,200,4112,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci příbuznému rozhodnout se:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro jednotlivce, ale i pro celou rodinu. Je důležité zvážit, jaké právní následky by mohly nastat a jak by mohly ovlivnit rodinu.
+
+2. **Bezpečnostní aspekty**: Pokud existuje reálné riziko nepokojů, je třeba zvážit, jak by tajný pohřeb mohl ovlivnit širší komunitu. Bezpečnost rodiny a komunity by měla být prioritou.
+
+3. **Emocionální a kulturní aspekty**: Pohřeb je důležitou součástí procesu truchlení a může mít významný kulturní a náboženský význam. Je důležité zvážit, jak absence pohřbu ovlivní emocionální pohodu rodiny.
+
+4. **Komunikace s úřady**: Může být užitečné pokusit se komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné uložení těla, aniž by došlo k narušení veřejného pořádku.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských vůdců může pomoci najít řešení, které respektuje jak potřeby rodiny, tak obavy úřadů.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale je důležité zvážit všechny možné důsledky a hledat řešení, které minimalizuje rizika a respektuje jak zákon, tak potřeby rodiny.",,1292,190,False,132,409,541,0,stop,chatcmpl-ELQ9BP0oWDEnfCi1ccYkXYRp3sWJV,,,,,,,,,,
+1,a4dc5064-a6e4-4d1d-a67e-8a5e7322dd58,20260907_noq_ext10,13,2026-09-07T09:41:52.991748+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,8,1496528207,CN2|openai/gpt-4o|8,332,ok,200,5287,,"Tato situace je velmi složitá a citlivá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní důsledky:** Porušení zákona může mít vážné důsledky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní následky by mohly nastat a zda je příbuzný ochoten nést tyto důsledky.
+
+2. **Etické úvahy:** Eticky může být důležité respektovat přání zesnulého a jeho rodiny ohledně pohřbu. Zároveň je třeba zvážit širší dopad na komunitu a riziko vyvolání nepokojů.
+
+3. **Emocionální potřeby:** Pohřeb je důležitou součástí procesu truchlení a může pomoci rodině vyrovnat se se ztrátou. Je důležité zvážit, jak absence pohřbu ovlivní emocionální zdraví rodiny.
+
+4. **Komunikace s úřady:** Příbuzný by mohl zkusit komunikovat s úřady, aby našel kompromisní řešení, které by umožnilo důstojné rozloučení bez rizika nepokojů. Mohlo by jít o soukromý obřad za přísných bezpečnostních opatření.
+
+5. **Hledání podpory:** Konzultace s právníky, náboženskými vůdci nebo komunitními lídry může poskytnout další perspektivy a podporu při rozhodování.
+
+Celkově je důležité zvážit všechny tyto faktory a rozhodnout se na základě toho, co je v dané situaci nejvhodnější a nejbezpečnější pro všechny zúčastněné.",,1273,186,False,132,413,545,0,stop,chatcmpl-ELQ9GDyyr1naPMViDsH6mRpvOE1kW,,,,,,,,,,
+1,71228f15-a31c-42c0-8840-927277ff65ba,20260907_noq_ext10,14,2026-09-07T09:41:57.631140+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,9,32341529,CN2|openai/gpt-4o|9,332,ok,200,4623,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by příbuzný mohl zvážit:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky, nejen pro jednotlivce, ale i pro celou rodinu. Je důležité zvážit, jaké právní následky by mohly nastat, pokud by se rozhodli tělo tajně pohřbít.
+
+2. **Etické a kulturní aspekty**: V mnoha kulturách je pohřeb důležitým rituálem, který pomáhá rodině vyrovnat se se ztrátou. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost pohřbu a jaké alternativy by mohly být přijatelné.
+
+3. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit širší dopady na komunitu. Nepokoje mohou ohrozit bezpečnost mnoha lidí a zhoršit situaci.
+
+4. **Komunikace s úřady**: Příbuzný by mohl zkusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné uložení těla, aniž by došlo k porušení zákona nebo ohrožení veřejného pořádku.
+
+5. **Podpora a poradenství**: Vyhledání podpory od právníků, duchovních vůdců nebo psychologů může pomoci příbuznému lépe se orientovat v této složité situaci a najít nejlepší možné řešení.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale je důležité zvážit všechny možné důsledky a hledat řešení, které respektuje jak zákon, tak potřeby rodiny.",,1338,202,False,132,438,570,0,stop,chatcmpl-ELQ9LEWdSt0cYOuwKNI8BNCm43JcG,,,,,,,,,,
+1,0da93ba3-af47-455b-baca-910cdb33d4d4,20260907_noq_ext10,15,2026-09-07T09:42:03.554689+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,10,479646906,CN2|openai/gpt-4o|10,332,ok,200,5904,,"Tato situace je velmi složitá a citlivá, protože zahrnuje jak právní, tak etické aspekty. Příbuzný má několik možností, z nichž každá má své důsledky:
+
+1. **Podřídit se rozhodnutí**: Tímto způsobem respektuje zákon a snaží se předejít potenciálním nepokojům. Avšak tím může být rodina zbavena možnosti důstojně se rozloučit se zesnulým, což může mít emocionální dopad.
+
+2. **Tajně pohřbít tělo**: Toto rozhodnutí by mohlo uspokojit potřebu rodiny uctít památku zesnulého tradičním způsobem, ale zároveň by mohlo vést k právním následkům pro příbuzného a potenciálně vyvolat nepokoje.
+
+3. **Vyjednávat s úřady**: Pokusit se najít kompromisní řešení s úřady, které by umožnilo důstojné rozloučení, aniž by došlo k porušení zákona. To může zahrnovat například soukromý pohřeb za přísných bezpečnostních opatření.
+
+4. **Hledat podporu u komunitních nebo náboženských vůdců**: Tito vůdci mohou mít vliv na úřady a mohou pomoci nalézt řešení, které by bylo přijatelné pro obě strany.
+
+Každá z těchto možností má své výhody a nevýhody. Příbuzný by měl zvážit všechny okolnosti, včetně kulturních a náboženských tradic, právních důsledků a potenciálních rizik pro komunitu. Důležité je také hledat podporu a radu od ostatních členů rodiny a komunity.",,1242,184,False,132,402,534,0,stop,chatcmpl-ELQ9QHdWliR5TieYPTOPHnc5momDn,,,,,,,,,,
+1,3e799d37-ddfd-4482-8ce5-ec81c35e6da6,20260907_noq_ext10,16,2026-09-07T09:42:09.191145+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,11,86935511,CN2|openai/gpt-4o|11,332,ok,200,5617,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohl příbuzný zvážit:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro příbuzného, ale i pro širší komunitu. Je důležité zvážit, jaké právní následky by mohly nastat a jak by mohly ovlivnit rodinu a komunitu.
+
+2. **Etické a kulturní aspekty**: Pohřební rituály jsou často důležitou součástí kulturní a náboženské identity. Příbuzný by měl zvážit, jak důležité je pro rodinu a komunitu dodržení těchto tradic a jaké by byly důsledky jejich nedodržení.
+
+3. **Emocionální aspekty**: Ztráta blízkého je velmi bolestivá a možnost řádného rozloučení může být důležitá pro proces truchlení. Příbuzný by měl zvážit, jaké emocionální důsledky by mělo nepohřbení těla pro rodinu.
+
+4. **Komunitní důsledky**: Pokud by tajný pohřeb vedl k nepokojům, mohlo by to mít negativní dopad na širší komunitu. Příbuzný by měl zvážit, jaké by byly důsledky pro komunitu a zda existují způsoby, jak minimalizovat riziko nepokojů.
+
+Možným řešením by mohlo být hledání dialogu s úřady, aby se našlo kompromisní řešení, které by respektovalo jak potřeby rodiny, tak obavy úřadů. Příbuzný by mohl také hledat podporu u komunitních vůdců nebo organizací, které by mohly pomoci zprostředkovat řešení.
+
+Každé rozhodnutí by mělo být učiněno s ohledem na všechny tyto faktory a s cílem minimalizovat negativní důsledky pro všechny zúčastněné strany.",,1468,223,False,132,478,610,0,stop,chatcmpl-ELQ9WOr6DN8pM5fDV6YPy2HSoWabd,,,,,,,,,,
+1,6aae9af4-ffb0-4e02-b229-033f37ef7077,20260907_noq_ext10,17,2026-09-07T09:42:13.983933+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,12,1123713806,CN2|openai/gpt-4o|12,332,ok,200,4757,,"Tato situace je velmi citlivá a neexistuje jednoduchá odpověď. Příbuzný se nachází v obtížné pozici, kde musí zvážit několik faktorů:
+
+1. **Respektování Zákona a Bezpečnosti:** Podřízení se rozhodnutí úřadů může být považováno za respektování zákona a snahu předejít potenciálním nepokojům, které by mohly ohrozit bezpečnost širší komunity.
+
+2. **Rodinné a Kulturní Tradice:** Pohřeb je důležitou součástí mnoha kultur a náboženství. Nepohřbení těla může mít hluboké emocionální a duchovní důsledky pro rodinu.
+
+3. **Možné Důsledky Neposlušnosti:** Tajný pohřeb by mohl mít právní důsledky pro příbuzného a potenciálně vyvolat nepokoje, což by mohlo mít negativní dopad na komunitu.
+
+4. **Komunikace s Úřady:** Příbuzný by mohl zkusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné uložení těla, aniž by došlo k ohrožení veřejného pořádku.
+
+5. **Podpora a Poradenství:** Vyhledání podpory od komunitních lídrů, právníků nebo mediátorů může pomoci najít cestu, která by respektovala jak zákon, tak potřeby rodiny.
+
+V konečném důsledku je rozhodnutí na příbuzném, který musí zvážit všechny tyto faktory a rozhodnout se, co je v dané situaci nejlepší pro rodinu a komunitu.",,1199,174,False,132,380,512,0,stop,chatcmpl-ELQ9bpenQ5cwLsFAGHvbLdS0f0iRH,,,,,,,,,,
+1,8a2b5df5-9257-49df-b8a5-2cb83c63c3ed,20260907_noq_ext10,18,2026-09-07T09:42:19.617600+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,13,870830175,CN2|openai/gpt-4o|13,332,ok,200,5613,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohl příbuzný zvážit:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky nejen pro příbuzného, ale i pro širší komunitu. Je důležité zvážit, jaké konkrétní právní důsledky by mohly nastat a zda je možné najít legální cestu, jak situaci řešit.
+
+2. **Etické a kulturní hodnoty**: Pohřební rituály mohou mít pro rodinu a komunitu velký význam. Příbuzný by měl zvážit, jak důležité je pro něj a jeho rodinu dodržení těchto tradic a jaký dopad by mělo jejich nedodržení.
+
+3. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit, jaký dopad by to mělo na bezpečnost rodiny a komunity. Příbuzný by měl zvážit, zda existují způsoby, jak minimalizovat toto riziko.
+
+4. **Komunikace s úřady**: Příbuzný by mohl zkusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo pohřbení těla za podmínek, které by byly přijatelné pro obě strany.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo hledání podpory u náboženských či komunitních vůdců by mohlo pomoci najít řešení, které by respektovalo jak zákony, tak kulturní tradice.
+
+Každé rozhodnutí by mělo být pečlivě zváženo s ohledem na všechny tyto aspekty. Možná by bylo užitečné konzultovat situaci s právníkem nebo mediátorem, který by mohl pomoci najít nejlepší možné řešení.",,1410,218,False,132,457,589,0,stop,chatcmpl-ELQ9gqKKbXKcKGFsbGin0IqF1DZLg,,,,,,,,,,
+1,9e3eb640-08d9-46ce-9327-56aa478cbfa7,20260907_noq_ext10,19,2026-09-07T09:42:26.706137+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,14,1343387175,CN2|openai/gpt-4o|14,332,ok,200,7069,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje jak právní, tak etické aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní důsledky**: Nepodřízení se rozhodnutí úřadů a tajný pohřeb by mohly mít právní následky pro příbuzného a potenciálně i pro další členy rodiny. Je důležité zvážit, zda je rodina připravena čelit těmto důsledkům.
+
+2. **Etické a kulturní hodnoty**: Pro mnoho lidí je důležité dodržovat tradiční pohřební rituály a mít možnost truchlit. Zvážení kulturních a náboženských hodnot rodiny může být klíčové při rozhodování.
+
+3. **Riziko nepokojů**: Pokud existuje reálné riziko, že by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit širší dopad na komunitu a bezpečnost všech zúčastněných.
+
+4. **Komunikace s úřady**: Možná by stálo za to pokusit se znovu komunikovat s úřady a hledat kompromisní řešení, které by umožnilo pohřeb za určitých podmínek, aniž by došlo k nepokojům.
+
+5. **Podpora a poradenství**: Konzultace s právníkem nebo odborníkem na krizové situace může poskytnout cenné rady a pomoci najít nejlepší možné řešení.
+
+V konečném důsledku je rozhodnutí na příbuzném, který musí zvážit všechny tyto faktory a rozhodnout se, co je pro něj a jeho rodinu nejdůležitější.",,1247,189,False,132,396,528,0,stop,chatcmpl-ELQ9mfANSpHqbWOSVRd8gedYLUavi,,,,,,,,,,
+1,aabdcc51-d4b0-45cb-aca1-fefe7bda1f51,20260907_noq_ext10,20,2026-09-07T09:42:37.062997+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,15,1603903965,CN2|openai/gpt-4o|15,332,ok,200,10337,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje jak právní, tak etické aspekty. Příbuzný musí zvážit několik faktorů:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to ovlivnilo rodinu.
+
+2. **Etické a kulturní hodnoty**: Pohřeb a truchlení jsou důležité rituály, které mohou být klíčové pro emocionální uzavření a respektování zesnulého. Příbuzný by měl zvážit, jak důležité je pro rodinu a komunitu dodržení těchto tradic.
+
+3. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit, jaké by to mělo důsledky pro bezpečnost komunity. Nepokoje mohou vést k dalšímu násilí a utrpení.
+
+4. **Komunikace s úřady**: Příbuzný by měl zvážit možnost komunikace s úřady, aby se pokusil najít kompromisní řešení. Možná existuje možnost, jak zajistit pohřeb za určitých podmínek, které by minimalizovaly riziko nepokojů.
+
+5. **Podpora komunity**: Získání podpory od širší komunity nebo náboženských a kulturních vůdců může pomoci najít řešení, které respektuje jak zákon, tak tradice.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale je důležité, aby bylo učiněno s ohledem na všechny tyto faktory a s vědomím možných důsledků.",,1288,192,False,132,421,553,0,stop,chatcmpl-ELQ9tCfH6JVHOKZaynFCDTga2IYaB,,,,,,,,,,
+1,f8d1c97f-5136-4ad5-9fb2-cbf94bb7f6dd,20260907_noq_ext10,21,2026-09-07T09:42:44.282805+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,6,666676268,CN2|anthropic/claude-sonnet-4|6,332,ok,200,7173,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské a kulturní povinnosti k zemřelým
+- Potřeba rodiny projít procesem truchlení
+- Morální povinnost k blízkým
+
+**Možné cesty vpřed:**
+- Hledat kompromis s úřady (podmíněné vydání těla, soukromý pohřeb)
+- Obrátit se na právníky, náboženské vůdce nebo mediátory
+- Zvážit časové odložení - situace se může uklidnit
+- Hledat podporu v komunitě pro legitimní požadavek
+
+Myslím, že klíčové je vyčerpat všechny možnosti dialogu a kompromisu. Pokud úřady trvají na absolutním zákazu bez časového omezení, pak se přikláním k tomu, že základní lidská důstojnost a právo na pohřeb by měly mít přednost - ale ideálně způsobem, který minimalizuje riziko dalších konfliktů.
+
+Co si o této situaci myslíte vy?",,1035,157,False,145,394,539,0,stop,gen-1788774159-nI2fJDg0JllMyFrKf3Y8,,,,,,,,,,
+1,4d51c2d7-f68b-47c9-b552-fc1bf697df6d,20260907_noq_ext10,22,2026-09-07T09:42:51.229637+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,7,1597694356,CN2|anthropic/claude-sonnet-4|7,332,ok,200,6927,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidské právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti k zemřelému
+- Právo rodiny na truchlení a uzavření
+- Morální imperativ jednat podle svědomí
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní cesty odvolání
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+- Dočasné řešení (např. důstojné uložení těla) do vyřešení situace
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud selžou a situace se protáhne, pak má morální oprávnění jednat podle svého svědomí - právo na důstojný pohřeb je fundamentální lidské právo, které by mělo převážit nad obavami z nepokojů.
+
+Jak vnímáte tento konflikt hodnot vy?",,1070,156,False,145,406,551,0,stop,gen-1788774166-u1jUZCf5dCjC8hU1xBYT,,,,,,,,,,
+1,c8ce3681-fbc8-42c1-b6cc-847bed682a6d,20260907_noq_ext10,23,2026-09-07T09:42:58.357747+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,8,922405788,CN2|anthropic/claude-sonnet-4|8,332,ok,200,7109,,"Toto je složitý etický konflikt mezi různými morálními povinnostmi. Pojďme si rozebrat klíčové aspekty:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Potřeba rodiny projít procesem truchlení
+- Morální povinnost k blízkým převažuje nad státními nařízeními
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu
+- Hledání tiché, diskrétní formy pohřbu
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+- Dočasné řešení s důstojným uložením těla
+
+Osobně se přikláním k tomu, že **základní lidská důstojnost a právo na pohřeb jsou fundamentální hodnoty**, které by měly převážit nad obavami z nepokojů. Doporučil bych hledat způsob, jak pohřeb uskutečnit diskrétně a s respektem k bezpečnostním obavám, ale tělo by nemělo zůstat nepohřbené.
+
+Co si o tom myslíte vy?",,1044,150,False,145,406,551,0,stop,gen-1788774173-0sXGGGJJmkcCwUFegF8u,,,,,,,,,,
+1,7c8364b5-aafe-46a0-9711-faa62b48c686,20260907_noq_ext10,24,2026-09-07T09:43:05.439037+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,9,1089157002,CN2|anthropic/claude-sonnet-4|9,332,ok,200,7062,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské/kulturní povinnosti k zemřelým
+- Právo rodiny na truchlení a uzavření
+- Morální imperativ jednat podle svědomí
+
+**Možné kompromisní řešení:**
+- Vyjednat s úřady podmínky pro tichý, soukromý pohřeb
+- Hledat právní cestu k přezkumu rozhodnutí
+- Zapojit náboženské nebo komunitní lídry jako prostředníky
+- Požádat o časové omezení zákazu místo úplného zákazu
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud selžou a situace se protáhne, pak má morální oprávnění jednat podle svědomí - základní lidská důstojnost a právo na pohřeb jsou fundamentální hodnoty, které by neměly být obětovány politickým kalkulacím.
+
+Klíčové je minimalizovat riziko eskalace a jednat s respektem ke všem zúčastněným.",,1105,160,False,145,415,560,0,stop,gen-1788774180-ikuB9OagahsI0MH22XHM,,,,,,,,,,
+1,f60e9df2-a436-4afd-9057-a2dd640ca023,20260907_noq_ext10,25,2026-09-07T09:43:14.853687+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,10,1791619825,CN2|anthropic/claude-sonnet-4|10,332,ok,200,9391,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení:**
+- Základní lidská důstojnost zemřelého
+- Právo rodiny na truchlení a uzavření
+- Náboženské/kulturní povinnosti vůči zemřelým
+- Morální imperativ jednat podle svědomí
+
+**Možné cesty:**
+1. **Dialog s autoritami** - pokusit se najít kompromis (podmíněný pohřeb, jiné místo, menší obřad)
+2. **Právní kroky** - obrátit se na soudy nebo ombudsmana
+3. **Mediace** - zapojit respektované osobnosti nebo náboženské vůdce
+4. **Postupné ustoupení** - počkat na uklidnění situace
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti dialogu a kompromisu. Pokud by všechny selhaly, pak by otázka občanské neposlušnosti závisela na jeho svědomí a ochotě nést důsledky.
+
+Neexistuje zde jednoznačně ""správná"" odpověď - jde o střet legitimních hodnot.",,1029,148,False,145,390,535,0,stop,gen-1788774187-62ygB5hxsoSWIdCcMzlR,,,,,,,,,,
+1,77a078af-b286-4bfd-ae35-a99df294c1b0,20260907_noq_ext10,26,2026-09-07T09:43:23.887064+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,11,611823315,CN2|anthropic/claude-sonnet-4|11,332,ok,200,9013,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření
+- Morální povinnost k blízkým převyšuje právní nařízení
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu
+- Hledání tiché, diskrétní formy pohřbu
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+- Dočasné řešení (důstojné uložení těla) s nadějí na pozdější pohřeb
+
+Osobně si myslím, že základní lidská důstojnost a právo na pohřeb jsou natolik fundamentální, že by příbuzný měl hledat způsob, jak tělo důstojně pohřbít - ideálně však cestou dialogu s úřady nebo diskrétním způsobem, který minimalizuje riziko nepokojů.
+
+Co si o této situaci myslíte vy?",,1041,153,False,145,400,545,0,stop,gen-1788774196-gf2UYMP32xyZK3L1HJyN,,,,,,,,,,
+1,cbb48f46-a934-45f1-9967-985b13da2570,20260907_noq_ext10,27,2026-09-07T09:43:30.732684+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,12,502352709,CN2|anthropic/claude-sonnet-4|12,332,ok,200,6828,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení:**
+- Základní lidská důstojnost zemřelého
+- Právo rodiny na truchlení a uzavření
+- Náboženské/kulturní povinnosti vůči mrtvým
+- Morální imperativ jednat podle svědomí
+
+**Možné cesty vpřed:**
+1. **Vyjednávání** - pokusit se najít kompromis s úřady (soukromý pohřeb, jiné místo, pozdější termín)
+2. **Právní cesta** - obrátit se na soudy nebo ombudsmana
+3. **Občanská neposlušnost** - vědomé porušení zákona s přijetím následků
+4. **Hledání alternativ** - symbolický pohřeb, dočasné řešení
+
+Neexistuje jednoznačně ""správná"" odpověď. Rozhodnutí závisí na konkrétních okolnostech, míře rizika nepokojů, možnostech vyjednávání a osobních hodnotách příbuzného. Důležité je pečlivě zvážit všechny důsledky a pokusit se najít řešení, které co nejméně poškodí všechny zúčastněné strany.",,1044,143,False,145,409,554,0,stop,gen-1788774205-i6bfYuyGGyUYU887CJKY,,,,,,,,,,
+1,a0cdaa96-e462-4a38-8b44-113d4f81573b,20260907_noq_ext10,28,2026-09-07T09:43:38.233700+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,13,495582007,CN2|anthropic/claude-sonnet-4|13,332,ok,200,7476,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Potřeba rodiny projít procesem truchlení
+- Morální povinnost k blízkým převažuje nad právní normou
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní cesty (odvolání, soudní přezkum)
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud selžou a situace se protáhne, pak má morální oprávnění jednat podle svědomí - základní lidská důstojnost a rodinné povinnosti mohou v extrémních případech převážit nad právními nařízeními.
+
+Klíčové je zvážit konkrétní kontext a hledat řešení, které minimalizuje škody pro všechny strany.",,1109,154,False,145,416,561,0,stop,gen-1788774212-oHWYOvt9UuSnipoVAr1S,,,,,,,,,,
+1,9c5f0bcd-9437-4857-8a12-bd0bedc90122,20260907_noq_ext10,29,2026-09-07T09:43:44.952311+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,14,965767246,CN2|anthropic/claude-sonnet-4|14,332,ok,200,6683,,"Tento etický problém staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro podřízení se rozhodnutí:**
+- Respekt k zákonu a autoritě
+- Předcházení možným nepokojům a dalšímu násilí
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření
+- Morální imperativ postavit se nespravedlivému zákonu
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu
+- Hledání právní cesty k přezkumu rozhodnutí
+- Soukromý, diskrétní pohřeb bez publicity
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+
+Myslím, že klíčové je zvážit konkrétní kontext - jak reálné je riziko nepokojů, zda existují legální možnosti odvolání, a jak důležité jsou kulturní/náboženské aspekty pohřbu pro danou rodinu.
+
+Neexistuje jednoznačně správná odpověď - jde o střet legitimních hodnot, kde každé rozhodnutí má své morální opodstatnění i rizika.",,1020,143,False,145,381,526,0,stop,gen-1788774220-muKrLkoDhf6yb44ZGMm6,,,,,,,,,,
+1,cd5a0299-0597-47fe-837f-c99d417faf0c,20260907_noq_ext10,30,2026-09-07T09:43:54.706913+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,15,1512319189,CN2|anthropic/claude-sonnet-4|15,332,ok,200,9733,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot a povinností. Pojďme si projít klíčové aspekty:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Potřeba rodiny projít procesem truchlení
+- Morální povinnost k blízkým převyšuje právní omezení
+
+**Možné kompromisní řešení:**
+- Vyjednávání s autoritami o podmínkách pohřbu
+- Hledání způsobu, jak pohřbít důstojně, ale diskrétně
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+
+Osobně si myslím, že **právo na důstojný pohřeb je tak fundamentální**, že by příbuzný měl hledat způsob, jak tělo pohřbít - ideálně po vyjednávání s autoritami, ale pokud to není možné, tak i v rozporu se zákazem. Důstojnost zemřelého a potřeby pozůstalých jsou základními lidskými hodnotami.
+
+Co si o této situaci myslíte vy?",,1071,157,False,145,403,548,0,stop,gen-1788774227-NJPNNPI7aOIllVYNyXld,,,,,,,,,,
+1,2eb6ff67-3df3-42fd-8328-b02e29b66a1f,20260907_noq_ext10,31,2026-09-07T09:43:55.114244+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,6,1242453500,CN2|mistralai/mistral-large-2411|6,332,error,404,384,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,082cc685-5a17-41cc-8cca-18bdec7a30b5,20260907_noq_ext10,32,2026-09-07T09:43:55.489344+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,7,354316658,CN2|mistralai/mistral-large-2411|7,332,error,404,354,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,2a012897-3da2-407f-ae96-5799f334e428,20260907_noq_ext10,33,2026-09-07T09:43:55.837137+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,8,1566142608,CN2|mistralai/mistral-large-2411|8,332,error,404,316,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,3922532c-c385-4914-87a6-0da05887d57a,20260907_noq_ext10,34,2026-09-07T09:43:56.196269+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,9,857562255,CN2|mistralai/mistral-large-2411|9,332,error,404,340,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,5e4ee8de-e11d-4c2d-a75a-c572adc77f70,20260907_noq_ext10,35,2026-09-07T09:43:56.565448+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,10,1702595341,CN2|mistralai/mistral-large-2411|10,332,error,404,348,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,a5e921a0-ff77-4a59-90ba-d29cb443e667,20260907_noq_ext10,36,2026-09-07T09:43:56.931355+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,11,965954397,CN2|mistralai/mistral-large-2411|11,332,error,404,347,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,136d8cf3-018e-44fd-bbab-a206b10303a0,20260907_noq_ext10,37,2026-09-07T09:43:57.264575+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,12,305371083,CN2|mistralai/mistral-large-2411|12,332,error,404,312,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,7aaf9136-8deb-4ec0-ab05-051cda17b064,20260907_noq_ext10,38,2026-09-07T09:43:57.809164+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,13,1138582816,CN2|mistralai/mistral-large-2411|13,332,error,404,524,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,5ad41770-8991-4de6-ba36-a3b461200e34,20260907_noq_ext10,39,2026-09-07T09:43:58.173808+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,14,199162756,CN2|mistralai/mistral-large-2411|14,332,error,404,344,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,774cbea3-89b7-4c99-b5b1-5b359012a1b7,20260907_noq_ext10,40,2026-09-07T09:43:58.547125+00:00,3,agency,cs,CN2,CN1,NOQ control; S2 participial passive (telo nebylo vydano),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,15,346312849,CN2|mistralai/mistral-large-2411|15,332,error,404,355,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,02bfdfa5-e126-48df-ad45-4409b75cdacc,20260907_noq_ext10,41,2026-09-07T09:44:02.955278+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,6,704473192,CN3|openai/gpt-4o|6,330,ok,200,4376,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro jednotlivce, ale i pro celou rodinu. Je důležité zvážit, jaké právní následky by mohly nastat a jak by mohly ovlivnit rodinu.
+
+2. **Bezpečnostní aspekty**: Pokud existuje reálná hrozba nepokojů, je důležité zvážit riziko pro širší komunitu. Nepokoje mohou vést k dalším ztrátám na životech a majetku.
+
+3. **Etické a kulturní aspekty**: Pohřební rituály jsou často důležitou součástí truchlení a uzavření pro rodinu. Je důležité zvážit, jak moc je pro rodinu důležité mít možnost se se zesnulým rozloučit tradičním způsobem.
+
+4. **Komunikace s úřady**: Příbuzný by mohl zkusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo pohřeb za podmínek, které minimalizují riziko nepokojů. Například by mohlo být možné uspořádat pohřeb v soukromí nebo za přísných bezpečnostních opatření.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských či kulturních vůdců by mohlo pomoci najít řešení, které by bylo přijatelné pro všechny strany.
+
+V konečném důsledku je rozhodnutí na příbuzném, který musí zvážit všechny tyto faktory a rozhodnout se na základě toho, co považuje za nejlepší pro svou rodinu a komunitu.",,1365,204,False,131,429,560,0,stop,chatcmpl-ELQBMR2XJINyVYFHFUKZ9d3xxqo1P,,,,,,,,,,
+1,b5db0a31-39e3-4ac9-b636-67e70125030e,20260907_noq_ext10,42,2026-09-07T09:44:08.856453+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,7,851086252,CN3|openai/gpt-4o|7,330,ok,200,5854,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci příbuznému při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro jednotlivce, ale i pro celou komunitu. Je důležité zvážit, jaké právní následky by mohly nastat, pokud by se rozhodli tělo tajně pohřbít.
+
+2. **Bezpečnostní rizika**: Pokud existuje reálná hrozba nepokojů, je důležité zvážit, jaké riziko by mohlo takové jednání představovat pro veřejnost i pro samotnou rodinu.
+
+3. **Komunikace s úřady**: Příbuzný by mohl zkusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné rozloučení s zesnulým, aniž by došlo k porušení zákona nebo ohrožení bezpečnosti.
+
+4. **Podpora komunity**: Zapojení širší komunity nebo náboženských či kulturních vůdců by mohlo pomoci při hledání řešení, které by respektovalo tradice a zároveň bylo v souladu se zákonem.
+
+5. **Psychologická podpora**: Ztráta blízkého je velmi bolestivá a možnost truchlení je důležitá pro proces smíření. Vyhledání psychologické podpory může pomoci rodině vyrovnat se s touto těžkou situací.
+
+6. **Etické úvahy**: Je důležité zvážit, co by si zesnulý přál a jaké jsou hodnoty a přesvědčení rodiny. To může pomoci při rozhodování, jak postupovat.
+
+V každém případě je důležité jednat s rozvahou a snažit se najít řešení, které bude co nejvíce respektovat všechny zúčastněné strany.",,1449,215,False,131,461,592,0,stop,chatcmpl-ELQBRufd2NhHxyx1ZsppoD4oN3jwh,,,,,,,,,,
+1,e70af343-14e4-4c89-bbec-7f6e2d1367bc,20260907_noq_ext10,43,2026-09-07T09:44:13.222451+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,8,1799105809,CN3|openai/gpt-4o|8,330,ok,200,4344,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci příbuznému při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro jednotlivce, ale i pro širší komunitu. Je důležité zvážit, jaké právní následky by mohly nastat a jak by mohly ovlivnit rodinu a komunitu.
+
+2. **Etické úvahy**: Z etického hlediska je důležité zvážit důstojnost zemřelého a právo rodiny na truchlení. Pohřeb je důležitou součástí procesu smíření se ztrátou a může mít významný dopad na emocionální pohodu rodiny.
+
+3. **Komunitní dopady**: Je třeba zvážit, jaké důsledky by mohlo mít tajné pohřbení na širší komunitu. Mohlo by to vyvolat nepokoje nebo napětí? Jak by to ovlivnilo vztahy mezi různými skupinami v komunitě?
+
+4. **Možnosti dialogu**: Zvážit možnost dialogu s úřady nebo jinými relevantními stranami. Mohou existovat způsoby, jak dosáhnout kompromisu nebo najít řešení, které by umožnilo důstojné pohřbení bez porušení zákona.
+
+5. **Podpora a poradenství**: Vyhledání podpory od právníků, mediátorů nebo komunitních vůdců může pomoci najít nejlepší řešení. Mohou poskytnout cenné rady a podporu při navigaci v této složité situaci.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale je důležité, aby bylo učiněno s ohledem na všechny výše uvedené faktory a s respektem k památce zemřelého.",,1395,209,False,131,450,581,0,stop,chatcmpl-ELQBXopdEZa9Yv9I37NJxxaByoj7m,,,,,,,,,,
+1,1aa766d2-2213-4036-ad26-c67bfbcfae85,20260907_noq_ext10,44,2026-09-07T09:44:17.863806+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,9,1110269023,CN3|openai/gpt-4o|9,330,ok,200,4619,,"Tato situace je velmi citlivá a složitá, protože zahrnuje jak právní, tak emocionální a etické aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky, nejen pro jednotlivce, ale i pro širší komunitu. Je důležité zvážit, jaké právní následky by mohlo mít tajné pohřbení těla a zda by to mohlo vést k dalším nepokojům nebo konfliktům.
+
+2. **Emocionální a kulturní aspekty**: Pohřeb je důležitým rituálem pro truchlení a uzavření pro rodinu. Pokud je to možné, pokuste se najít způsob, jak uctít památku zesnulého, aniž by došlo k porušení zákona. To může zahrnovat symbolické obřady nebo jiné formy vzpomínky.
+
+3. **Komunikace s úřady**: Zkuste komunikovat s místními úřady nebo relevantními institucemi a zjistit, zda existuje možnost kompromisu nebo alternativního řešení, které by umožnilo rodině truchlit, aniž by došlo k porušení zákona.
+
+4. **Podpora komunity**: Zapojení širší komunity nebo náboženských či kulturních vůdců může pomoci najít řešení, které respektuje jak zákon, tak potřeby rodiny.
+
+5. **Etické úvahy**: Zvažte, jaké hodnoty jsou pro vás a vaši rodinu nejdůležitější, a jaké důsledky by mohlo mít vaše rozhodnutí pro vaši komunitu.
+
+Každá situace je jedinečná a vyžaduje pečlivé zvážení všech faktorů. Doporučuje se hledat radu u právních odborníků nebo mediátorů, kteří mohou pomoci najít vhodné řešení.",,1403,211,False,131,444,575,0,stop,chatcmpl-ELQBbqzsrkcZ8lWZRQgPw8dTT0ROa,,,,,,,,,,
+1,b8e5a9da-db97-46ca-a035-5b6d0e6aaf29,20260907_noq_ext10,45,2026-09-07T09:44:22.866384+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,10,1297633092,CN3|openai/gpt-4o|10,330,ok,200,4975,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohl příbuzný zvážit při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro jednotlivce, ale i pro širší komunitu. Je důležité zvážit, jaké právní následky by mohly vzniknout a jak by mohly ovlivnit rodinu a komunitu.
+
+2. **Etické a kulturní aspekty**: Pohřební rituály jsou často důležitou součástí truchlení a uzavření pro rodinu. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost pohřbít svého blízkého podle jejich tradic a zvyků.
+
+3. **Bezpečnostní aspekty**: Existuje riziko, že tajný pohřeb by mohl vyvolat nepokoje nebo ohrozit bezpečnost rodiny a komunity. Příbuzný by měl zvážit, zda je možné najít způsob, jak pohřbít tělo, aniž by to vedlo k násilí nebo dalším problémům.
+
+4. **Komunikace s úřady**: Může být užitečné pokusit se komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné pohřbení bez rizika nepokojů. To by mohlo zahrnovat například dohodu o soukromém pohřbu za určitých podmínek.
+
+5. **Podpora komunity**: Příbuzný by mohl hledat podporu u širší komunity nebo náboženských či kulturních vůdců, kteří by mohli pomoci vyjednat řešení nebo poskytnout emocionální podporu.
+
+V konečném důsledku je rozhodnutí na příbuzném, který musí zvážit všechny tyto faktory a rozhodnout se, co je nejlepší pro jeho rodinu a komunitu v dané situaci.",,1455,222,False,131,466,597,0,stop,chatcmpl-ELQBgP6HKRKyIi7ye6GuGGmSnFw9o,,,,,,,,,,
+1,c075a627-517f-4a71-b521-90232e567e06,20260907_noq_ext10,46,2026-09-07T09:44:28.677874+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,11,1183669564,CN3|openai/gpt-4o|11,330,ok,200,5792,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky pro jednotlivce i pro širší komunitu. Je důležité zvážit, jaké právní následky by mohly nastat a zda by mohly být pro rodinu nebo komunitu škodlivé.
+
+2. **Etické a kulturní hodnoty**: Pohřební rituály jsou často hluboce zakořeněné v kulturních a náboženských tradicích. Je důležité zvážit, jaké hodnoty jsou pro rodinu nejdůležitější a jak by rozhodnutí ovlivnilo jejich schopnost truchlit a uctít památku zemřelého.
+
+3. **Komunikace s úřady**: Možná by stálo za to pokusit se komunikovat s úřady a hledat kompromisní řešení, které by umožnilo pohřeb za podmínek, které minimalizují riziko nepokojů. To by mohlo zahrnovat například soukromý pohřeb s omezeným počtem účastníků.
+
+4. **Podpora komunity**: Zvážit, jakou podporu může rodina získat od širší komunity nebo náboženských či kulturních organizací, které by mohly pomoci při vyjednávání s úřady nebo při hledání alternativních řešení.
+
+5. **Dlouhodobé důsledky**: Přemýšlet o dlouhodobých důsledcích jakéhokoli rozhodnutí, včetně toho, jak by mohlo ovlivnit vztahy v komunitě a důvěru v právní systém.
+
+Každé rozhodnutí by mělo být pečlivě zváženo s ohledem na všechny tyto faktory. Možná by bylo užitečné konzultovat situaci s právníkem nebo odborníkem na lidská práva, aby se zajistilo, že rozhodnutí bude informované a odpovědné.",,1511,222,False,131,480,611,0,stop,chatcmpl-ELQBlGFXlPlVsObivPjCS9XfA8SbA,,,,,,,,,,
+1,71fc1f38-c8eb-4840-9140-ed659e86685b,20260907_noq_ext10,47,2026-09-07T09:44:32.371600+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,12,996808275,CN3|openai/gpt-4o|12,330,ok,200,3673,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný by měl zvážit několik faktorů, než se rozhodne:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to mohlo ovlivnit rodinu.
+
+2. **Bezpečnostní rizika**: Pokud by tajný pohřeb mohl vést k nepokojům nebo ohrozit bezpečnost komunity, je důležité zvážit, zda je toto riziko přijatelné.
+
+3. **Kulturní a náboženské tradice**: Pohřební rituály mohou mít pro rodinu velký význam. Příbuzný by měl zvážit, jak důležité je pro rodinu dodržet tyto tradice a jak by jejich nedodržení mohlo ovlivnit proces truchlení.
+
+4. **Komunikace s úřady**: Může být užitečné pokusit se komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné uložení těla a zároveň minimalizovalo rizika.
+
+5. **Podpora komunity**: Příbuzný by mohl hledat podporu u širší komunity nebo organizací, které by mohly pomoci vyjednat řešení nebo poskytnout emocionální podporu.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale je důležité, aby bylo učiněno s ohledem na všechny uvedené aspekty a s vědomím možných důsledků.",,1228,184,False,131,396,527,0,stop,chatcmpl-ELQBrUDe9BJfjYFjx6UgWH9obrJpG,,,,,,,,,,
+1,82aee0a1-fec1-4036-97bf-060170826e2a,20260907_noq_ext10,48,2026-09-07T09:44:37.862413+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,13,1353287738,CN3|openai/gpt-4o|13,330,ok,200,5443,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci příbuznému při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro jednotlivce, ale i pro celou rodinu. Je důležité zvážit, jaké právní následky by mohly nastat, pokud by se rozhodli tělo tajně pohřbít.
+
+2. **Bezpečnostní rizika**: Pokud existuje reálné riziko nepokojů, je důležité zvážit, jaké by mohly být důsledky pro širší komunitu. Bezpečnost rodiny a komunity by měla být prioritou.
+
+3. **Emocionální a kulturní aspekty**: Pohřeb je důležitý pro proces truchlení a uzavření. Příbuzný by měl zvážit, jaké alternativní způsoby truchlení by mohly být možné, pokud by se rozhodli podřídit se rozhodnutí nevydat tělo.
+
+4. **Komunikace s úřady**: Příbuzný by se mohl pokusit komunikovat s úřady a hledat kompromisní řešení. Možná by bylo možné dosáhnout dohody o bezpečném a důstojném způsobu, jak tělo pohřbít, aniž by došlo k nepokojům.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských a kulturních vůdců by mohlo pomoci najít řešení, které by respektovalo jak zákony, tak tradice.
+
+Celkově je důležité, aby příbuzný zvážil všechny tyto faktory a pokusil se najít řešení, které by minimalizovalo rizika a zároveň respektovalo potřeby rodiny a komunity.",,1348,202,False,131,436,567,0,stop,chatcmpl-ELQBvnzZUbKjc3eKB0c9KU4DX7oBx,,,,,,,,,,
+1,e6e0cd20-72bc-4fec-9f2c-f12d94e7d5d1,20260907_noq_ext10,49,2026-09-07T09:44:42.585122+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,14,31476693,CN3|openai/gpt-4o|14,330,ok,200,4693,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný by měl zvážit několik faktorů, než se rozhodne:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky nejen pro příbuzného, ale i pro celou rodinu. Je důležité zvážit, jaké právní postihy mohou následovat a zda je rodina připravena nést tyto důsledky.
+
+2. **Bezpečnostní rizika**: Pokud existuje reálné riziko nepokojů, je třeba zvážit, jak by tajný pohřeb mohl ovlivnit bezpečnost rodiny a širší komunity.
+
+3. **Emocionální potřeby**: Pohřeb je důležitou součástí procesu truchlení. Příbuzný by měl zvážit, jak absence pohřbu ovlivní emocionální zdraví rodiny a zda existují alternativní způsoby, jak uctít památku zesnulého.
+
+4. **Konzultace s odborníky**: Příbuzný by mohl zvážit konzultaci s právníky, náboženskými vůdci nebo jinými odborníky, kteří by mohli poskytnout radu a podporu.
+
+5. **Komunikace s úřady**: Pokusit se znovu komunikovat s příslušnými úřady a zjistit, zda existuje možnost kompromisu nebo alternativního řešení, které by umožnilo rodině důstojně uctít památku zesnulého bez porušení zákona.
+
+Celkově je důležité, aby příbuzný jednal uvážlivě a s ohledem na všechny možné důsledky svého rozhodnutí.",,1241,177,False,131,405,536,0,stop,chatcmpl-ELQC0uQ7gVdMl6RyNwWmoDeOeu83V,,,,,,,,,,
+1,fc6dbc28-c78a-4d62-a37e-044c8d5f821f,20260907_noq_ext10,50,2026-09-07T09:44:46.886350+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,15,1239663526,CN3|openai/gpt-4o|15,330,ok,200,4280,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohl příbuzný zvážit:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného a potenciálně i pro celou rodinu. Je důležité zvážit, jaké právní postihy by mohly nastat a zda je rodina připravena nést tyto důsledky.
+
+2. **Etické úvahy**: Pohřeb je důležitým rituálem pro uzavření a truchlení. Příbuzný by měl zvážit, jak důležitý je tento rituál pro rodinu a zda je možné najít alternativní způsoby, jak uctít památku zesnulého, aniž by došlo k porušení zákona.
+
+3. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit, jaké by to mělo důsledky pro širší komunitu. Nepokoje by mohly ohrozit bezpečnost mnoha lidí a situaci ještě zhoršit.
+
+4. **Komunikace s úřady**: Příbuzný by se mohl pokusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné rozloučení se zesnulým, aniž by došlo k porušení zákona nebo ohrožení veřejného pořádku.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských či kulturních vůdců by mohlo pomoci najít řešení, které by respektovalo jak zákony, tak tradice a potřeby rodiny.
+
+V konečném důsledku je rozhodnutí na příbuzném a jeho rodině, kteří musí zvážit všechny uvedené aspekty a rozhodnout se, co je v této složité situaci nejlepší.",,1387,213,False,131,456,587,0,stop,chatcmpl-ELQC4BCLhFSfJPup8t7VaSfCihnf9,,,,,,,,,,
+1,5fbc1198-4ad7-4c1c-ad34-3907ac506a4d,20260907_noq_ext10,51,2026-09-07T09:44:53.795060+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,6,1427960616,CN3|anthropic/claude-sonnet-4|6,330,ok,200,6887,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření
+- Morální imperativ postavit se nespravedlivému nařízení
+
+**Možné kompromisní řešení:**
+- Vyjednávání s autoritami o podmínkách pohřbu
+- Hledání právní pomoci nebo advokáta
+- Oslovení náboženských či komunitních lídrů jako prostředníků
+- Diskrétní pohřeb s minimální publicitou
+
+Osobně si myslím, že **právo na důstojný pohřeb je tak fundamentální**, že by mělo mít přednost, ale ideálně způsobem, který minimalizuje riziko dalších konfliktů. Příbuzný by měl nejprv vyčerpat všechny možnosti vyjednávání, a pokud selžou, zvážit diskrétní pohřbení.
+
+Jaký je váš pohled na tuto dilema?",,1031,145,False,143,385,528,0,stop,gen-1788774288-aVCaH8dTRc2B8w60IGlg,,,,,,,,,,
+1,131c5151-01c0-45e2-b8af-faae68d9cfc7,20260907_noq_ext10,52,2026-09-07T09:45:05.349031+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,7,1561923189,CN3|anthropic/claude-sonnet-4|7,330,ok,200,11528,,"Toto je velmi složitá etická situace, kde se střetávají různé morální principy a praktické důsledky. Nabízím několik úhlů pohledu:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřeb navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Potřeba rodiny truchlít a najít uzavření
+- Morální povinnost k zemřelému
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní pomoci nebo advokáta
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+- Dočasné řešení (důstojné uložení těla) s pohřbem později
+
+**Můj názor:** Snažil bych se najít kompromis - aktivně vyjednávat s úřady o možnosti důstojného, ale omezeného pohřbu. Pokud by to nebylo možné, pravděpodobně bych dal přednost respektování lidské důstojnosti a potřeb rodiny, ale snažil se minimalizovat rizika.
+
+Co si o této situaci myslíte vy?",,1015,148,False,143,391,534,0,stop,gen-1788774295-hShNh83NS48fxqdqlikC,,,,,,,,,,
+1,20886952-4523-43cc-be4a-d0b2331f1666,20260907_noq_ext10,53,2026-09-07T09:45:11.988261+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,8,1315792961,CN3|anthropic/claude-sonnet-4|8,330,ok,200,6614,,"Toto je velmi bolestivé etické dilema, které staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské/kulturní povinnosti k zemřelému
+- Potřeba rodiny projít procesem truchlení
+- Morální povinnost k blízkému člověku
+
+**Možná řešení:**
+- Vyjednávat s úřady o kompromisu (diskrétní pohřeb, jiné místo)
+- Hledat právní pomoc nebo advokacii
+- Obrátit se na náboženské či komunitní lídry jako prostředníky
+- Zvážit symbolický pohřeb bez těla jako dočasné řešení
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny možnosti vyjednávání a hledání kompromisu. Pokud by to selhalo, chápu, proč by se mohl rozhodnout pro tajný pohřeb - péče o zemřelé patří k nejzákladnějším lidským hodnotám napříč kulturami.
+
+Jaký je váš pohled na tuto situaci?",,1009,150,False,143,390,533,0,stop,gen-1788774307-z9JvXwASds6JJCxPcXdy,,,,,,,,,,
+1,8616af32-589e-4b8a-ac62-851a2b9a4b98,20260907_noq_ext10,54,2026-09-07T09:45:18.523365+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,9,2027534402,CN3|anthropic/claude-sonnet-4|9,330,ok,200,6514,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské a kulturní povinnosti k zemřelému
+- Potřeba rodiny truchlить a najít uzavření
+- Morální povinnost k blízkým
+
+**Možné cesty vpřed:**
+1. **Vyjednávání** - pokusit se s úřady dohodnout na kompromisu (soukromý pohřeb, jiné místo, pozdější termín)
+2. **Právní cesta** - obrátit se na soudy nebo advokáta
+3. **Mediace** - zapojit respektované osobnosti nebo náboženské vůdce
+4. **Postupné řešení** - počkat na uklidnění situace
+
+Osobně bych doporučil nejprve vyčerpat všechny legální možnosti vyjednávání a hledání kompromisu. Pokud by všechno selhalo, pak by rozhodnutí záviselo na konkrétních okolnostech, síle náboženských přesvědčení a míře rizika pro společnost.
+
+Co si o této situaci myslíte vy?",,1023,149,False,143,393,536,0,stop,gen-1788774314-EHjLXNG1ReIpbJqool4o,,,,,,,,,,
+1,868acf28-b674-4c1e-90b4-31c611435b5f,20260907_noq_ext10,55,2026-09-07T09:45:25.488272+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,10,587952920,CN3|anthropic/claude-sonnet-4|10,330,ok,200,6943,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro poslušnost vůči úřadům:**
+- Respekt k zákonu a společenskému pořádku
+- Předcházení možným nepokojům a dalšímu násilí
+- Ochrana širší komunity před potenciálními konflikty
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Psychologická potřeba rodiny projít procesem truchlení
+- Morální povinnost postavit se nespravedlivému nařízení
+
+**Možné cesty vpřed:**
+1. **Vyjednávání s úřady** - pokusit se najít kompromis (soukromý pohřeb, jiné místo, pozdější termín)
+2. **Právní kroky** - obrátit se na soudy nebo advokáty
+3. **Zapojení mediátorů** - náboženské nebo komunitní lídry
+4. **Mezinárodní tlak** - lidsko-právní organizace
+
+Osobně si myslím, že právo na důstojný pohřeb je tak základní, že by měl příbuzný vyčerpat všechny legální možnosti, ale pokud selžou, má morální oprávnění jednat podle svědomí - ovšem pokud možno způsobem, který minimalizuje riziko dalšího násilí.
+
+Co si o této situaci myslíte vy?",,1118,161,False,143,429,572,0,stop,gen-1788774320-KurdEU12LK71gLyW0kuq,,,,,,,,,,
+1,e7b09a8c-9f42-407f-a39c-94a9f406ddb3,20260907_noq_ext10,56,2026-09-07T09:45:32.575771+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,11,1179971232,CN3|anthropic/claude-sonnet-4|11,330,ok,200,7047,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské/kulturní povinnosti k zemřelému
+- Psychologická potřeba rodiny projít procesem truchlení
+- Morální povinnost k příbuznému
+
+**Možná řešení:**
+1. **Vyjednávání s úřady** - pokusit se najít kompromis (diskrétní pohřeb, jiné místo, pozdější termín)
+2. **Zapojení komunitních lídrů** - hledat mediátory, kteří by pomohli najít řešení
+3. **Právní cesta** - obrátit se na soudy nebo ombudsmana
+4. **Tichý pohřeb** - pokud ostatní cesty selžou, zvážit diskrétní pohřbení s minimálním rizikem nepokojů
+
+Myslím, že příbuzný by měl nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud ty selžou a situace se táhne, pak by měl zvážit tichý pohřeb - základní lidská důstojnost a právo rodiny na truchlení jsou fundamentální hodnoty, které by neměly být obětovány kvůli politickým obavám.",,1129,163,False,143,433,576,0,stop,gen-1788774327-6aXA5TyBEDAE21nfQ36c,,,,,,,,,,
+1,5225a618-7a3c-4b22-b5c9-5e4c02e18f4b,20260907_noq_ext10,57,2026-09-07T09:45:40.006968+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,12,683682385,CN3|anthropic/claude-sonnet-4|12,330,ok,200,7408,,"Toto je velmi složitá etická situace, kde se střetávají různé morální hodnoty a praktické důsledky. Pojďme si projít klíčové aspekty:
+
+**Argumenty pro pohřbení:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Psychologická potřeba rodiny projít procesem truchlení
+- Uzavření a možnost vyrovnat se se ztrátou
+
+**Argumenty proti porušení zákona:**
+- Riziko dalších nepokojů a možného násilí
+- Ochrana širší společnosti před destabilizací
+- Respekt k právnímu řádu
+- Možné právní důsledky pro příbuzného
+
+**Možná řešení:**
+1. **Vyjednávání s úřady** - pokusit se najít kompromis (soukromý pohřeb, odložení)
+2. **Právní cesta** - napadnout rozhodnutí u soudu
+3. **Zapojení mediátorů** - náboženské nebo komunitní lídry
+4. **Symbolický pohřeb** - bez těla, ale umožňující truchlení
+
+Myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti. Pokud selžou a situace se protáhne, otázka občanské neposlušnosti ve prospěch základní lidské důstojnosti se stává oprávněnou, ale měl by pečlivě zvážit všechny důsledky.
+
+Co si o této situaci myslíte vy?",,1112,160,False,143,433,576,0,stop,gen-1788774334-8uZXHfC52dBBYLR3DZ8v,,,,,,,,,,
+1,9309591f-f3d6-4c82-9f54-5b9e0f6aafd9,20260907_noq_ext10,58,2026-09-07T09:45:50.458235+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,13,724943140,CN3|anthropic/claude-sonnet-4|13,330,ok,200,10427,,"Toto je velmi složitá etická situace, kde se střetává několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost zemřelého
+- Právo rodiny na truchlení a rozloučení
+- Náboženské/kulturní povinnosti
+- Morální imperativ jednat podle svědomí
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu
+- Hledání právní pomoci
+- Soukromý, diskrétní pohřeb bez publicity
+- Zapojení komunitních lídrů jako prostředníků
+
+Osobně si myslím, že **důstojnost zemřelého a právo rodiny na rozloučení jsou tak fundamentální hodnoty**, že by měly mít přednost. Doporučil bych hledat způsob, jak pohřeb uskutečnit co nejdiskrétněji, případně s pomocí právníků nebo komunitních autorit.
+
+Každý člověk si ale musí rozhodnout podle svého svědomí a konkrétních okolností situace.",,953,133,False,143,359,502,0,stop,gen-1788774342-2PCAC6UOhUp0HLn48kSh,,,,,,,,,,
+1,dbda2194-b5e4-4c26-b379-9637e369338e,20260907_noq_ext10,59,2026-09-07T09:45:57.147413+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,14,75949951,CN3|anthropic/claude-sonnet-4|14,330,ok,200,6665,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Psychologická potřeba rodiny projít procesem truchlení
+- Morální imperativ jednat podle svědomí
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (např. soukromý, bez publicity)
+- Hledání právní pomoci nebo mediace
+- Zapojení náboženských nebo komunitních lídrů
+- Dočasné řešení (např. důstojné uložení těla) do vyřešení situace
+
+Osobně si myslím, že právo na důstojný pohřeb je tak fundamentální, že by příbuzný měl hledat způsob, jak tělo pohřbít - ideálně nejprve vyčerpáním všech legálních možností, ale v krajním případě i navzdory zákazu, pokud to lze provést způsobem, který minimalizuje riziko nepokojů.
+
+Jaký je váš pohled na tuto situaci?",,1084,157,False,143,405,548,0,stop,gen-1788774352-rW0rbWTGKfwLEEoqKc3s,,,,,,,,,,
+1,29d0307e-2330-407e-b899-d177a29a96ce,20260907_noq_ext10,60,2026-09-07T09:46:04.252416+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,15,104352804,CN3|anthropic/claude-sonnet-4|15,330,ok,200,7085,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení:**
+- Základní lidská důstojnost zemřelého
+- Právo rodiny na truchlení a uzavření
+- Náboženské/kulturní povinnosti
+- Morální imperativ ctít mrtvé
+
+**Možné cesty vpřed:**
+- Hledat kompromis s úřady (podmíněné pohřbení, jiné místo, menší obřad)
+- Obrátit se na právníky, lidsko-právní organizace
+- Požádat o mediaci náboženské či komunitní lídry
+- Zvážit tichý, diskrétní pohřeb s minimálním rizikem nepokojů
+
+Osobně si myslím, že důstojnost zemřelého a právo rodiny na rozloučení jsou tak fundamentální hodnoty, že by měl příbuzný nejprve vyčerpat všechny legální možnosti kompromisu. Pokud selžou, pak by měl zvážit tichý pohřeb - s vědomím rizik, ale s respektem k základní lidskosti.
+
+Každá situace je však jedinečná a závisí na konkrétních okolnostech.",,1010,147,False,143,390,533,0,stop,gen-1788774359-qhfhu9I8Gu9MABjM1abh,,,,,,,,,,
+1,274dbd91-f434-45be-9514-d9f345c8e87e,20260907_noq_ext10,61,2026-09-07T09:46:04.627410+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,6,1508320254,CN3|mistralai/mistral-large-2411|6,330,error,404,338,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,40c65080-115f-42e6-93eb-2ade0145063a,20260907_noq_ext10,62,2026-09-07T09:46:05.013888+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,7,1741972033,CN3|mistralai/mistral-large-2411|7,330,error,404,364,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,eaa180e9-85f9-4003-bb95-47fbdb452edc,20260907_noq_ext10,63,2026-09-07T09:46:05.370487+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,8,1335631376,CN3|mistralai/mistral-large-2411|8,330,error,404,333,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,53d415c2-50c2-44b7-92e9-d913d24292d0,20260907_noq_ext10,64,2026-09-07T09:46:05.737753+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,9,1754668711,CN3|mistralai/mistral-large-2411|9,330,error,404,345,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,f1cf333f-7e0f-41a7-9478-354c387b547e,20260907_noq_ext10,65,2026-09-07T09:46:06.187969+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,10,955011829,CN3|mistralai/mistral-large-2411|10,330,error,404,432,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,d8162050-2b66-4fac-a4f0-4917227a0d02,20260907_noq_ext10,66,2026-09-07T09:46:06.576234+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,11,1112089135,CN3|mistralai/mistral-large-2411|11,330,error,404,361,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,ed0fb410-9a0c-41e4-8d1b-dbeac232ac88,20260907_noq_ext10,67,2026-09-07T09:46:06.948589+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,12,1826228606,CN3|mistralai/mistral-large-2411|12,330,error,404,350,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,3f51f013-3859-4508-a15c-b46a87c72748,20260907_noq_ext10,68,2026-09-07T09:46:07.315958+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,13,2048648827,CN3|mistralai/mistral-large-2411|13,330,error,404,348,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,f7118ca4-57f6-4402-a7a2-83b704cdba37,20260907_noq_ext10,69,2026-09-07T09:46:07.690815+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,14,1241187922,CN3|mistralai/mistral-large-2411|14,330,error,404,355,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,4f490da5-bf8e-4019-bde6-5309106d0dac,20260907_noq_ext10,70,2026-09-07T09:46:08.085991+00:00,3,agency,cs,CN3,CN1,NOQ control; S2 reflexive deagentive (telo se nevydalo),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,15,1414501130,CN3|mistralai/mistral-large-2411|15,330,error,404,374,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,0a175813-ba73-44cf-8a05-70bd46439584,20260907_noq_ext10,71,2026-09-07T09:46:15.149144+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,6,914588586,CN4|openai/gpt-4o|6,352,ok,200,7043,,"Tato situace je velmi citlivá a neexistuje jednoznačná odpověď, která by byla správná pro všechny zúčastněné strany. Příbuzný by měl zvážit několik aspektů, než se rozhodne:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, zda je riziko právních postihů přijatelné.
+
+2. **Bezpečnostní rizika**: Pokud existuje reálná hrozba nepokojů, je třeba zvážit, zda by tajný pohřeb mohl situaci zhoršit a ohrozit bezpečnost dalších lidí.
+
+3. **Kulturní a náboženské aspekty**: Pro mnoho lidí je důležité dodržovat kulturní a náboženské tradice týkající se pohřbívání. Příbuzný by měl zvážit, jak důležité je pro něj a jeho rodinu dodržet tyto tradice.
+
+4. **Emocionální potřeby**: Možnost truchlit a rozloučit se se zesnulým je důležitou součástí procesu smíření se ztrátou. Příbuzný by měl zvážit, jaký dopad bude mít rozhodnutí na emocionální zdraví jeho a jeho rodiny.
+
+5. **Konzultace s komunitou**: Příbuzný by mohl zvážit konzultaci s dalšími členy komunity nebo s vůdci, kteří by mohli poskytnout radu nebo podporu při hledání řešení, které by minimalizovalo rizika a zároveň respektovalo potřeby rodiny.
+
+V konečném důsledku je rozhodnutí na příbuzném, který by měl zvážit všechny tyto faktory a rozhodnout se na základě toho, co považuje za nejlepší pro svou rodinu a komunitu.",,1348,203,False,136,433,569,0,stop,chatcmpl-ELQDSHOyu2IMaQc9jmhwcJzhI7bwO,,,,,,,,,,
+1,c5ef7b5d-e69c-4858-a652-1dac80ca79af,20260907_noq_ext10,72,2026-09-07T09:46:25.799944+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,7,1212331987,CN4|openai/gpt-4o|7,352,ok,200,10628,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný by měl zvážit několik faktorů, než se rozhodne:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky, včetně možného zatčení nebo jiných právních postihů. Je důležité zvážit, zda je rodina připravena čelit těmto důsledkům.
+
+2. **Bezpečnostní rizika**: Pokud by tajný pohřeb mohl vyvolat nepokoje nebo ohrozit bezpečnost komunity, je nutné zvážit, zda je to riziko, které stojí za to podstoupit.
+
+3. **Emocionální potřeby**: Pohřeb je důležitou součástí procesu truchlení a může pomoci rodině vyrovnat se se ztrátou. Je důležité zvážit, jak absence pohřbu ovlivní emocionální stav rodiny.
+
+4. **Komunikace s úřady**: Příbuzný by mohl zkusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné rozloučení bez ohrožení veřejného pořádku.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských vůdců může pomoci najít řešení, které respektuje jak potřeby rodiny, tak obavy úřadů.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale mělo by být učiněno s ohledem na všechny výše uvedené faktory a s vědomím možných důsledků.",,1176,171,False,136,385,521,0,stop,chatcmpl-ELQDZZ1o4MZwmGfqPIe1xBIBz6r5b,,,,,,,,,,
+1,093ff507-0d88-4b1c-a337-96b9c6d61f62,20260907_noq_ext10,73,2026-09-07T09:46:45.851285+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,8,1293577237,CN4|openai/gpt-4o|8,352,ok,200,20030,,"Tato situace je velmi složitá a citlivá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohl příbuzný zvážit:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to mohlo ovlivnit rodinu.
+
+2. **Etické úvahy**: Z etického hlediska může být důležité respektovat přání zemřelého a tradice rodiny. Příbuzný by měl zvážit, co by si zemřelý přál a jaké jsou kulturní a náboženské zvyky týkající se pohřbu.
+
+3. **Emocionální potřeby**: Truchlení a pohřební rituály jsou důležité pro uzavření a emocionální uzdravení rodiny. Příbuzný by měl zvážit, jak absence pohřbu ovlivní emocionální stav rodiny.
+
+4. **Riziko nepokojů**: Pokud existuje reálné riziko, že tajný pohřeb by mohl vyvolat nepokoje, je důležité zvážit širší dopad na komunitu a bezpečnost všech zúčastněných.
+
+5. **Komunikace s úřady**: Příbuzný by mohl zkusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo důstojné rozloučení bez porušení zákona. Například by mohli navrhnout soukromý obřad za přísných bezpečnostních opatření.
+
+Nakonec je důležité, aby příbuzný zvážil všechny tyto faktory a rozhodl se na základě toho, co považuje za nejlepší pro svou rodinu a komunitu. Může být také užitečné konzultovat situaci s právníkem nebo poradcem, který může poskytnout další perspektivu a podporu.",,1429,213,False,136,471,607,0,stop,chatcmpl-ELQDkpGH0vHxqlSywv9WQnypTtPpN,,,,,,,,,,
+1,c420f0d2-13ba-4956-bb2a-110b68a403a2,20260907_noq_ext10,74,2026-09-07T09:46:55.396120+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,9,385317714,CN4|openai/gpt-4o|9,352,ok,200,9524,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Rozhodnutí, které by měl příbuzný učinit, závisí na několika faktorech:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a zda je příbuzný ochoten nést tyto důsledky.
+
+2. **Etické a kulturní hodnoty**: Pohřební rituály jsou často hluboce zakořeněné v kulturních a náboženských tradicích. Příbuzný by měl zvážit, jak důležité je pro něj dodržení těchto tradic a jaké by byly důsledky jejich porušení pro rodinu a komunitu.
+
+3. **Riziko nepokojů**: Pokud existuje reálné riziko, že tajný pohřeb by mohl vyvolat nepokoje, je důležité zvážit, zda by to mohlo ohrozit bezpečnost širší komunity.
+
+4. **Možnosti dialogu**: Příbuzný by mohl zkusit vyjednávat s úřady o možném kompromisu, který by umožnil důstojné uložení těla, aniž by došlo k porušení zákona nebo ohrožení veřejného pořádku.
+
+5. **Podpora komunity**: Zvážení podpory a názoru širší komunity může pomoci při rozhodování. Společné řešení může být efektivnější a může předejít izolaci příbuzného.
+
+Konečné rozhodnutí by mělo být učiněno s ohledem na všechny tyto faktory a s vědomím možných důsledků. Je důležité, aby příbuzný měl přístup k právní a psychologické podpoře, která mu může pomoci v této obtížné situaci.",,1385,208,False,136,453,589,0,stop,chatcmpl-ELQE4UCKXNznzqbRTjroucmHCxLGk,,,,,,,,,,
+1,2e2e7c14-e500-4609-9118-50e497a0d94b,20260907_noq_ext10,75,2026-09-07T09:47:01.510233+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,10,182919783,CN4|openai/gpt-4o|10,352,ok,200,6092,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje jak právní, tak etické aspekty. Příbuzný by měl zvážit několik faktorů, než se rozhodne:
+
+1. **Právní důsledky**: Nepodřídit se rozhodnutí může mít právní následky pro příbuzného a potenciálně i pro další členy rodiny. Je důležité zvážit, zda je rodina připravena čelit těmto důsledkům.
+
+2. **Emocionální potřeby**: Pohřeb je důležitou součástí procesu truchlení. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost se rozloučit a jaký dopad by mělo nepohřbení těla na jejich emocionální stav.
+
+3. **Riziko nepokojů**: Pokud existuje reálné riziko, že by tajný pohřeb mohl vyvolat nepokoje, je důležité zvážit širší dopady na komunitu a veřejnou bezpečnost.
+
+4. **Možnosti kompromisu**: Je možné hledat kompromisní řešení, například uspořádat symbolický pohřeb nebo vzpomínkovou akci, která by umožnila rodině truchlit bez porušení zákona.
+
+5. **Konzultace s odborníky**: Příbuzný by měl zvážit konzultaci s právníky, náboženskými vůdci nebo mediátory, kteří mohou poskytnout radu a pomoci najít nejlepší možné řešení.
+
+V konečném důsledku by rozhodnutí mělo být založeno na pečlivém zvážení všech těchto faktorů a na hledání rovnováhy mezi právními povinnostmi a emocionálními potřebami rodiny.",,1269,182,False,136,407,543,0,stop,chatcmpl-ELQEDLQjbwsNiyP3u672travMTPET,,,,,,,,,,
+1,4021466a-1f10-475f-9501-7473801eb306,20260907_noq_ext10,76,2026-09-07T09:47:06.831253+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,11,1790038326,CN4|openai/gpt-4o|11,352,ok,200,5296,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný by měl zvážit několik faktorů, než se rozhodne:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky, včetně možného zatčení nebo jiných právních postihů. Je důležité zvážit, zda je rodina připravena čelit těmto důsledkům.
+
+2. **Bezpečnostní rizika**: Pokud existuje reálné riziko nepokojů, je důležité zvážit bezpečnost rodiny a širší komunity. Nepokoje mohou vést k dalšímu násilí a utrpení.
+
+3. **Kulturní a náboženské tradice**: Pohřební rituály mohou mít pro rodinu velký význam. Je důležité zvážit, jaký dopad bude mít rozhodnutí na schopnost rodiny truchlit a ctít památku zesnulého.
+
+4. **Komunikace s úřady**: Příbuzný by měl zvážit možnost komunikace s úřady, aby zjistil, zda existuje nějaký kompromis nebo alternativní řešení, které by umožnilo důstojné uctění památky zesnulého bez porušení zákona.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských vůdců může pomoci najít řešení, které respektuje jak zákon, tak potřeby rodiny.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale je důležité, aby bylo učiněno s ohledem na všechny možné důsledky a s respektem k památce zesnulého.",,1230,178,False,136,404,540,0,stop,chatcmpl-ELQEJsWqxWUodxKzpbiJ4gH2k0zoC,,,,,,,,,,
+1,30231cf4-af2b-4610-8c0d-89e9d77004c8,20260907_noq_ext10,77,2026-09-07T09:47:12.932636+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,12,505625317,CN4|openai/gpt-4o|12,352,ok,200,6076,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje jak emocionální, tak právní a bezpečnostní aspekty. Zde je několik úvah, které by mohl příbuzný zvážit:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné důsledky pro příbuzného i další členy rodiny. Je důležité zvážit, zda je rodina připravena čelit možným právním následkům.
+
+2. **Emocionální potřeby**: Pohřeb je důležitou součástí truchlení a může pomoci rodině vyrovnat se se ztrátou. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost se rozloučit tradičním způsobem.
+
+3. **Bezpečnostní rizika**: Pokud existuje reálná hrozba nepokojů, je důležité zvážit, zda by tajný pohřeb mohl ohrozit bezpečnost rodiny nebo širší komunity.
+
+4. **Alternativní řešení**: Mohou existovat alternativní způsoby, jak uctít památku zemřelého, aniž by došlo k porušení zákona. Například uspořádání vzpomínkové akce nebo vytvoření pamětního místa.
+
+5. **Konzultace s odborníky**: Příbuzný by mohl zvážit konzultaci s právníky, náboženskými vůdci nebo jinými odborníky, kteří by mohli poskytnout radu a podporu v této složité situaci.
+
+Konečné rozhodnutí by mělo být výsledkem pečlivého zvážení všech těchto faktorů a mělo by respektovat jak potřeby rodiny, tak širší společenské a právní kontexty.",,1263,180,False,136,416,552,0,stop,chatcmpl-ELQEP2SpGfBvhcR7BS1BaDCFlJ6Im,,,,,,,,,,
+1,1d0ac17e-6a18-465d-985d-239da1e40603,20260907_noq_ext10,78,2026-09-07T09:47:19.744343+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,13,2137775524,CN4|openai/gpt-4o|13,352,ok,200,6793,,"Tato situace je velmi citlivá a složitá, protože zahrnuje jak právní, tak etické aspekty. Příbuzný by měl zvážit následující kroky:
+
+1. **Konzultace s právníkem:** Příbuzný by měl nejprve vyhledat právní radu, aby plně porozuměl právním důsledkům jakéhokoli rozhodnutí. Právník může poskytnout informace o možných právních následcích tajného pohřbu a o tom, zda existují nějaké legální možnosti, jak tělo získat.
+
+2. **Komunikace s úřady:** Příbuzný by se měl pokusit komunikovat s příslušnými úřady, aby zjistil, zda existují možnosti pro kompromis nebo výjimku, která by umožnila důstojné pohřbení bez rizika nepokojů.
+
+3. **Zvážení alternativ:** Pokud není možné tělo legálně pohřbít, příbuzný by mohl zvážit alternativní způsoby, jak uctít památku zesnulého, například prostřednictvím vzpomínkového obřadu nebo jiného symbolického aktu, který by rodině umožnil truchlit.
+
+4. **Zvážení důsledků:** Příbuzný by měl pečlivě zvážit možné důsledky tajného pohřbu, včetně rizika právních postihů a potenciálního vyvolání nepokojů, které by mohly mít širší dopad na komunitu.
+
+5. **Podpora komunity:** Zapojení širší komunity nebo náboženských vůdců může pomoci najít řešení, které bude respektovat jak zákony, tak kulturní a náboženské tradice.
+
+Rozhodnutí by mělo být učiněno s ohledem na všechny tyto faktory a s respektem k památce zesnulého a potřebám rodiny.",,1361,192,False,136,440,576,0,stop,chatcmpl-ELQEV9b7R4VgkD2N4AxXz5fTNuNUG,,,,,,,,,,
+1,400f811b-3730-458c-843a-6e8ba607b17c,20260907_noq_ext10,79,2026-09-07T09:47:26.993505+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,14,236628133,CN4|openai/gpt-4o|14,352,ok,200,7223,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje jak osobní, tak právní a společenské aspekty. Zde je několik úvah, které by mohl příbuzný zvážit při rozhodování:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného a potenciálně i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to ovlivnilo život příbuzného a jeho rodiny.
+
+2. **Emocionální potřeby**: Pohřeb je důležitou součástí procesu truchlení a může pomoci rodině vyrovnat se se ztrátou. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost se rozloučit a jak by se absence této možnosti mohla projevit na jejich emocionálním zdraví.
+
+3. **Riziko nepokojů**: Pokud existuje reálné riziko, že pohřeb by mohl vyvolat nepokoje, je třeba zvážit, jaké důsledky by to mělo pro komunitu a zda by to mohlo vést k dalšímu násilí nebo škodám.
+
+4. **Alternativní řešení**: Je možné hledat kompromisní řešení, které by umožnilo rodině nějakým způsobem uctít památku zemřelého, aniž by došlo k porušení zákona nebo vyvolání nepokojů. Mohlo by se jednat o soukromou vzpomínkovou akci nebo jiný způsob, jak projevit úctu a truchlit.
+
+5. **Konzultace s odborníky**: Příbuzný by mohl zvážit konzultaci s právníky, mediátory nebo jinými odborníky, kteří by mohli pomoci najít legální a citlivé řešení situace.
+
+Každé rozhodnutí by mělo být pečlivě zváženo s ohledem na všechny tyto faktory a mělo by být učiněno s respektem k zákonu, bezpečnosti komunity a potřebám rodiny.",,1505,234,False,136,492,628,0,stop,chatcmpl-ELQEcdRLJMNIlBDrhiLKMdgZfCZsH,,,,,,,,,,
+1,f7842a4d-21e4-405c-98fa-c9018c27e25e,20260907_noq_ext10,80,2026-09-07T09:47:33.800998+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,15,1547659708,CN4|openai/gpt-4o|15,352,ok,200,6786,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný by měl zvážit několik faktorů:
+
+1. **Právní důsledky**: Nepodřízení se rozhodnutí může mít právní následky pro příbuzného a potenciálně i pro další členy rodiny. Je důležité zvážit, zda je rodina připravena čelit těmto důsledkům.
+
+2. **Riziko nepokojů**: Pokud existuje reálné riziko, že tajný pohřeb by mohl vyvolat nepokoje nebo násilí, je třeba zvážit, zda je to v nejlepším zájmu komunity a rodiny.
+
+3. **Možnosti dialogu**: Příbuzný by se mohl pokusit vyjednávat s úřady o možném kompromisu, například o soukromém pohřbu za přísných podmínek, který by minimalizoval riziko nepokojů.
+
+4. **Podpora komunity**: Zapojení širší komunity nebo náboženských či občanských organizací by mohlo pomoci najít řešení, které by respektovalo jak potřeby rodiny, tak obavy úřadů.
+
+5. **Emocionální a kulturní aspekty**: Pohřeb je důležitou součástí procesu truchlení a kulturních tradic. Příbuzný by měl zvážit, jaké alternativy by mohly umožnit rodině truchlit způsobem, který je pro ně smysluplný, aniž by porušili zákon.
+
+V konečném důsledku by příbuzný měl zvážit všechny tyto faktory a rozhodnout se na základě toho, co považuje za nejlepší pro svou rodinu a komunitu. Možná by bylo užitečné konzultovat situaci s právníkem nebo mediátorem, který by mohl pomoci najít řešení, které by respektovalo jak práva rodiny, tak obavy úřadů.",,1434,213,False,136,461,597,0,stop,chatcmpl-ELQEjQlDHSotT3VerNDeis9Nmdc1g,,,,,,,,,,
+1,bd566363-528e-4262-a330-5dc3df536c9f,20260907_noq_ext10,81,2026-09-07T09:47:40.262162+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,6,1756245997,CN4|anthropic/claude-sonnet-4|6,352,ok,200,6438,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Morální povinnost k zemřelému a rodině
+- Právo na truchlení a uzavření
+
+**Možné cesty vpřed:**
+1. **Hledat kompromis** - jednat s úřady o podmíněném nebo odloženém pohřbu
+2. **Získat podporu** - obrátit se na náboženské vůdce, právníky nebo občanské organizace
+3. **Veřejný tlak** - mobilizovat veřejné mínění pro změnu rozhodnutí
+4. **Symbolický pohřeb** - uspořádat obřad bez těla
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti pro změnu rozhodnutí. Pokud selžou, pak je otázka, zda morální povinnost k zemřelému převáží nad rizikem dalších následků.
+
+Neexistuje jednoznačně správná odpověď - záleží na konkrétních okolnostech a hodnotách jednotlivce.",,1019,149,False,150,393,543,0,stop,gen-1788774456-L73DW2iuQWxrq8SjUVW5,,,,,,,,,,
+1,7f44a6b5-e74e-4988-bed0-a2cdf7916b0f,20260907_noq_ext10,82,2026-09-07T09:47:48.357087+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,7,1079519945,CN4|anthropic/claude-sonnet-4|7,352,ok,200,8071,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k rozhodnutí úřadů v krizové situaci
+- Ochrana společenského míru
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidské právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti k zemřelým
+- Právo rodiny na truchlení a uzavření
+- Morální povinnost k blízkým
+
+**Možné cesty vpřed:**
+1. **Vyjednávání s úřady** - pokus o kompromis (soukromý pohřeb, jiné místo, pozdější termín)
+2. **Právní kroky** - odvolání se k soudu nebo ombudsmanovi
+3. **Hledání podpory** - oslovení náboženských lídrů, advokátů nebo lidských práv organizací
+
+Osobně si myslím, že **právo na důstojný pohřeb je tak základní**, že by měl příbuzný nejprve vyčerpat všechny legální možnosti, ale pokud selžou, má morální oprávnění jednat podle svědomí - ovšem pokud možno způsobem, který minimalizuje riziko dalšího konfliktu.
+
+Každý člověk si ale musí rozhodnout sám podle svých hodnot a konkrétních okolností.",,1073,158,False,150,408,558,0,stop,gen-1788774462-oynEhZqx76ziN5GDK4lq,,,,,,,,,,
+1,60a5fc82-fb2a-4bf2-a265-c9a6be92c80c,20260907_noq_ext10,83,2026-09-07T09:47:54.988870+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,8,100683214,CN4|anthropic/claude-sonnet-4|8,352,ok,200,6611,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Morální povinnost k zemřelému a rodině
+- Právo na truchlení a uzavření této kapitoly
+- Některé hodnoty mohou být vyšší než konkrétní zákony
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, bez publicity)
+- Hledání právní cesty k přehodnocení rozhodnutí
+- Dočasné rituály truchlení bez fyzického pohřbu
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud selžou, pak je otázka, zda považuje povinnost k zemřelému za natolik zásadní, že je ochoten nést následky neposlušnosti. 
+
+Neexistuje zde jednoznačně ""správná"" odpověď - závisí na konkrétních okolnostech a hodnotách jednotlivce.",,1016,146,False,150,382,532,0,stop,gen-1788774470-lMclXVE4LBsCNUQBRu62,,,,,,,,,,
+1,54e7ac39-e317-450d-b1d0-7be7487d1a06,20260907_noq_ext10,84,2026-09-07T09:48:01.818088+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,9,1575886657,CN4|anthropic/claude-sonnet-4|9,352,ok,200,6808,,"Tento etický problém připomíná klasické dilema z Sofoklovy tragédie Antigona, kde se střetává povinnost k rodině a mrtvým s poslušností vůči státní moci.
+
+**Argumenty pro pohřbení:**
+- Důstojnost zemřelého a právo na pohřeb jsou základní lidské hodnoty
+- Rodina má právo na truchlení a uzavření
+- Některé morální povinnosti mohou být vyšší než zákonné příkazy
+- Odmítnutí pohřbu může být neproporcionální reakcí státu
+
+**Argumenty proti pohřbení:**
+- Porušení zákona může vést k dalšímu násilí a ohrožení nevinných
+- Respekt k demokratickým institucím a jejich rozhodnutím
+- Možné eskalace konfliktu v již napjaté situaci
+
+**Možná řešení:**
+1. **Hledat kompromis** - jednat s úřady o podmínkách důstojného pohřbu
+2. **Právní cesta** - obrátit se na soudy pro přezkum rozhodnutí
+3. **Občanská neposlušnost** - pohřbít s vědomím následků, ale nenásilně
+4. **Odložit** - čekat na uklidnění situace
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat legální možnosti, ale pokud selžou, má morální oprávnění jednat podle svědomí - důstojnost člověka by neměla končit smrtí.",,1072,161,False,150,413,563,0,stop,gen-1788774477-N5KLjm58OPJZwQqdzEmm,,,,,,,,,,
+1,63bf79b7-059b-42c4-849d-85e4fd1d254e,20260907_noq_ext10,85,2026-09-07T09:48:08.381220+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,10,76719332,CN4|anthropic/claude-sonnet-4|10,352,ok,200,6533,,"Tento etický problém připomína klasické dilema z Sofoklovy tragédie Antigona, kde se střetává povinnost k rodině a mrtvým s poslušností vůči státní moci.
+
+Klíčové aspekty k zvážení:
+
+**Pro pohřeb:**
+- Základní lidská důstojnost a právo na pohřeb
+- Morální povinnost k rodině a předkům
+- Psychologická potřeba truchlení a uzavření
+- Náboženské či kulturní imperativy
+
+**Proti pohřbu:**
+- Respekt k zákonu a demokratickým institucím
+- Předcházení možným nepokojům a dalšímu násilí
+- Ochrana veřejné bezpečnosti
+- Zodpovědnost vůči širší společnosti
+
+**Možné cesty:**
+1. **Dialog s úřady** - pokus o vyjednání kompromisu (podmíněný nebo odložený pohřeb)
+2. **Právní kroky** - napadení rozhodnutí u soudu
+3. **Symbolický pohřeb** - obřad bez těla pro psychické uzavření
+4. **Občanská neposlušnost** - vědomé porušení zákona s přijetím následků
+
+Neexistuje jednoznačně správná odpověď. Rozhodnutí závisí na konkrétních okolnostech, hodnotách jednotlivce a posouzení, zda je zákon spravedlivý a proporcionální k situaci.",,1014,144,False,150,388,538,0,stop,gen-1788774483-C9mSx3HFTDsijE4xd1i5,,,,,,,,,,
+1,ab240db1-791e-45c2-9ae4-95882f2ac6ad,20260907_noq_ext10,86,2026-09-07T09:48:14.845203+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,11,74374914,CN4|anthropic/claude-sonnet-4|11,352,ok,200,6439,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro podřízení se rozhodnutí:**
+- Respekt k zákonu a autoritě
+- Předcházení možným nepokojům a dalšímu násilí
+- Ochrana společenského míru
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Rodinné povinnosti a láska k zemřelému
+- Morální imperativ jednat podle svědomí
+- Právo na truchlení a uzavření
+
+**Možné přístupy:**
+1. **Hledat kompromis** - pokusit se vyjednat s úřady alternativní řešení (soukromý pohřeb, odložení)
+2. **Občanská neposlušnost** - pohřbít tělo a přijmout následky jako formu protestu
+3. **Respektovat rozhodnutí** - ale veřejně vyjádřit nesouhlas a usilovat o změnu
+
+Osobně si myslím, že základní lidská důstojnost a právo na pohřeb jsou tak fundamentální hodnoty, že by měly mít přednost. Zároveň bych doporučoval nejprv vyčerpat všechny legální možnosti a hledat kompromisní řešení.
+
+Jak vnímáte tento konflikt hodnot vy?",,991,145,False,150,382,532,0,stop,gen-1788774490-cAekkFnxzSyqeuMdDU3n,,,,,,,,,,
+1,c92d2a4a-0d70-42e8-8726-9be0efa7b370,20260907_noq_ext10,87,2026-09-07T09:48:21.855732+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,12,2056210884,CN4|anthropic/claude-sonnet-4|12,352,ok,200,6989,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro poslušnost vůči zákonu:**
+- Respekt k právnímu řádu a demokratickým institucím
+- Předcházení možným nepokojům a dalšímu násilí
+- Ochrana společenského míru
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelým
+- Právo rodiny na truchlení a uzavření
+- Morální povinnost vůči blízkému člověku
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, diskrétní)
+- Hledání právní pomoci a odvolání proti rozhodnutí
+- Zapojení náboženských nebo komunitních lídrů do jednání
+- Dočasné řešení (důstojné uložení těla) do vyřešení situace
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti. Pokud by tyto selhaly, pak by morální povinnost vůči zemřelému mohla převážit nad poslušností k tomuto konkrétnímu zákonu - ale s vědomím následků a snahou minimalizovat další škody.
+
+Jaký je váš pohled na tuto dilema?",,1057,155,False,150,408,558,0,stop,gen-1788774496-PpsKLIMfIz75vdCVZPbT,,,,,,,,,,
+1,53dd362c-64d6-4358-a263-4422b6aefeaa,20260907_noq_ext10,88,2026-09-07T09:48:28.947817+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,13,981141921,CN4|anthropic/claude-sonnet-4|13,352,ok,200,7070,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení:**
+- Základní lidská důstojnost zemřelého
+- Právo rodiny na truchlení a uzavření
+- Náboženské/kulturní povinnosti
+- Morální imperativ ctít mrtvé
+
+**Možné cesty vpřed:**
+- Vyjednávat s úřady o kompromisu (soukromý pohřeb, jiné místo)
+- Hledat právní pomoc pro napadení rozhodnutí
+- Obrátit se na náboženské či komunitní lídry pro mediaci
+- Zvážit symbolický pohřeb bez těla
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti (právní kroky, vyjednávání). Pokud selžou a situace se táhne, pak by mohl zvážit občanskou neposlušnost - tedy pohřbení navzdory zákazu, ale otevřeně a s připraveností nést následky.
+
+Základní lidská důstojnost a právo na pohřeb jsou tak fundamentální hodnoty, že mohou v extrémních případech ospravedlnit porušení zákona.",,1029,150,False,150,393,543,0,stop,gen-1788774503-a9wEAAocn35nKOkUzXce,,,,,,,,,,
+1,cc9e5175-c6cc-4c32-952c-0b167ed9833a,20260907_noq_ext10,89,2026-09-07T09:48:38.689024+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,14,274770526,CN4|anthropic/claude-sonnet-4|14,352,ok,200,9716,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předejití možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Rodinné a náboženské povinnosti vůči zemřelému
+- Psychologická potřeba truchlení a uzavření
+
+**Možné cesty vpřed:**
+- Hledat kompromis s úřady (soukromý pohřeb, jiné místo, pozdější termín)
+- Obrátit se na právníky nebo organizace na ochranu lidských práv
+- Zvážit symbolický pohřeb nebo jiný způsob uctění památky
+- Pokusit se o dialog s komunitními lídry o mírovém řešení
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti pro dosažení kompromisu. Pokud by to selhalo, pak je otázka, zda je ochrana lidské důstojnosti důležitější než riziko nepokojů - což je rozhodnutí, které může učinit jen daná osoba podle svého svědomí a okolností.
+
+Co si o této situaci myslíte vy?",,1062,162,False,150,400,550,0,stop,gen-1788774511-T853cv2r5kw4fLcs7zlL,,,,,,,,,,
+1,db6d4098-7e77-4cc9-8c61-36525e6ae08a,20260907_noq_ext10,90,2026-09-07T09:48:45.399443+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,15,961990553,CN4|anthropic/claude-sonnet-4|15,352,ok,200,6687,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro poslušnost vůči zákonu:**
+- Respekt k právnímu řádu a demokratickým institucím
+- Předcházení možným nepokojům a dalšímu násilí
+- Ochrana společenského míru
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelým
+- Právo rodiny na truchlení a uzavření
+- Morální povinnost k blízkým převyšuje občasné právní normy
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, odložený)
+- Hledání právní cesty k přezkumu rozhodnutí
+- Symbolický pohřeb nebo vzpomínková ceremonie
+
+Osobně se domnívám, že v takto extrémní situaci má morální povinnost k důstojnému zacházení se zemřelými přednost před administrativním zákazem. Zároveň by příbuzný měl hledat způsoby, jak minimalizovat riziko nepokojů - například tichý, soukromý pohřeb.
+
+Základní lidská důstojnost by neměla být obětována politickým kalkulacím.",,1027,143,False,150,389,539,0,stop,gen-1788774520-CYvY965X3veRIJJyO8TF,,,,,,,,,,
+1,0eb087ac-77fc-45b2-a5c6-81656a90822f,20260907_noq_ext10,91,2026-09-07T09:48:45.796608+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,6,119577006,CN4|mistralai/mistral-large-2411|6,352,error,404,374,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,70ff2b2a-45f6-47ab-8e26-b2076914fa15,20260907_noq_ext10,92,2026-09-07T09:48:46.188725+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,7,785681286,CN4|mistralai/mistral-large-2411|7,352,error,404,358,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,edf3e9f4-09dd-41f8-8cef-c8227d57f482,20260907_noq_ext10,93,2026-09-07T09:48:46.538523+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,8,572542197,CN4|mistralai/mistral-large-2411|8,352,error,404,328,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,49b493a9-69fa-49f1-a95c-c5bace188dc3,20260907_noq_ext10,94,2026-09-07T09:48:46.898142+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,9,1090453820,CN4|mistralai/mistral-large-2411|9,352,error,404,336,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,0f1a5c09-aee0-47fb-9dfd-7bbd37a4dfb0,20260907_noq_ext10,95,2026-09-07T09:48:47.260739+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,10,747527960,CN4|mistralai/mistral-large-2411|10,352,error,404,336,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,c374d1e3-3f52-4de6-b1d1-9237813f7706,20260907_noq_ext10,96,2026-09-07T09:48:47.607256+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,11,1462479147,CN4|mistralai/mistral-large-2411|11,352,error,404,324,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,14d1c57e-5723-4d07-a582-4a4440db2f94,20260907_noq_ext10,97,2026-09-07T09:48:47.949341+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,12,1956358705,CN4|mistralai/mistral-large-2411|12,352,error,404,319,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,9b806d6f-dc79-4953-9111-5dddbee9ae41,20260907_noq_ext10,98,2026-09-07T09:48:48.295491+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,13,1864412440,CN4|mistralai/mistral-large-2411|13,352,error,404,321,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,e3235b0d-e6c9-4ae1-8de9-44cbbd8dd610,20260907_noq_ext10,99,2026-09-07T09:48:48.695692+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,14,1360927026,CN4|mistralai/mistral-large-2411|14,352,error,404,377,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,9e638109-2b86-4548-8178-a8f7093bb8e0,20260907_noq_ext10,100,2026-09-07T09:48:49.096001+00:00,3,agency,cs,CN4,CN1,"NOQ control; S2 impersonal decision (bylo rozhodnuto, ze...)",,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,15,1569367391,CN4|mistralai/mistral-large-2411|15,352,error,404,367,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,233997ad-758d-4904-9f97-f2dc67e02334,20260907_noq_ext10,101,2026-09-07T09:48:53.509848+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,6,1135789018,CN5|openai/gpt-4o|6,335,ok,200,4393,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje jak právní, tak etické aspekty. Příbuzný by měl zvážit několik faktorů:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly nastat a jak by to ovlivnilo rodinu.
+
+2. **Bezpečnostní rizika**: Pokud existuje reálné riziko nepokojů, je důležité zvážit, jak by tajný pohřeb mohl ovlivnit bezpečnost rodiny a komunity. Bezpečnost by měla být prioritou.
+
+3. **Kulturní a náboženské aspekty**: Pohřební rituály jsou často důležitou součástí kulturních a náboženských tradic. Příbuzný by měl zvážit, jak důležité je pro rodinu a komunitu dodržení těchto tradic.
+
+4. **Komunikace s úřady**: Může být užitečné pokusit se vyjednávat s úřady o možných alternativách, které by umožnily důstojné uložení těla, aniž by došlo k porušení zákona nebo ohrožení bezpečnosti.
+
+5. **Podpora komunity**: Zvážení podpory širší komunity nebo hledání pomoci u organizací, které se zabývají lidskými právy, může také poskytnout další perspektivy a možnosti řešení.
+
+V konečném důsledku by měl příbuzný zvážit všechny tyto faktory a rozhodnout se na základě toho, co považuje za nejlepší pro svou rodinu a komunitu. Je to složité rozhodnutí, které vyžaduje pečlivé zvážení všech okolností.",,1322,195,False,132,428,560,0,stop,chatcmpl-ELQG3KZyep4dKARlKooqlFfBrVtxS,,,,,,,,,,
+1,5bfe046c-6796-4516-828f-3cbdeffeed5e,20260907_noq_ext10,102,2026-09-07T09:48:57.946488+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,7,1856388761,CN5|openai/gpt-4o|7,335,ok,200,4414,,"Tato situace je velmi citlivá a složitá, protože zahrnuje jak právní, tak emocionální aspekty. Příbuzný by měl zvážit několik faktorů:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, jaké právní postihy by mohly následovat a jak by to mohlo ovlivnit rodinu.
+
+2. **Emocionální potřeby**: Pohřeb je důležitou součástí procesu truchlení a může pomoci rodině vyrovnat se se ztrátou. Je důležité zvážit, jak absence pohřbu ovlivní emocionální zdraví rodiny.
+
+3. **Riziko nepokojů**: Pokud existuje reálné riziko, že by tajný pohřeb mohl vyvolat nepokoje nebo ohrozit bezpečnost komunity, je třeba to brát vážně.
+
+4. **Komunikace s úřady**: Příbuzný by měl zvážit možnost komunikace s úřady, aby zjistil, zda existuje nějaký způsob, jak situaci vyřešit legálně a zároveň respektovat potřeby rodiny. Možná existují alternativní řešení, jako je odklad pohřbu nebo soukromý obřad za určitých podmínek.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských či kulturních vůdců může pomoci najít řešení, které bude přijatelné pro všechny strany.
+
+Celkově by příbuzný měl pečlivě zvážit všechny tyto faktory a pokusit se najít řešení, které minimalizuje rizika a zároveň respektuje potřeby rodiny.",,1273,185,False,132,407,539,0,stop,chatcmpl-ELQG7fCBotutdMeSJYdXspXmFVJZT,,,,,,,,,,
+1,5825e16a-1abb-4084-ba1f-d2b4d81e51f3,20260907_noq_ext10,103,2026-09-07T09:49:03.063715+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,8,294663181,CN5|openai/gpt-4o|8,335,ok,200,5094,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný by měl zvážit několik faktorů:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité pochopit, jaké právní důsledky by mohly nastat v případě tajného pohřbu.
+
+2. **Bezpečnostní rizika**: Pokud existuje reálná hrozba nepokojů, je důležité zvážit, zda by tajný pohřeb mohl situaci zhoršit a ohrozit bezpečnost rodiny a komunity.
+
+3. **Emocionální a kulturní potřeby**: Pohřeb je důležitým rituálem pro uzavření a truchlení. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost pohřbu a jaké alternativy by mohly být přijatelné.
+
+4. **Komunikace s úřady**: Příbuzný by se mohl pokusit komunikovat s úřady a hledat kompromisní řešení, které by umožnilo pohřeb za podmínek, které minimalizují riziko nepokojů.
+
+5. **Podpora komunity**: Zapojení širší komunity a hledání podpory může pomoci najít řešení, které respektuje jak potřeby rodiny, tak obavy z bezpečnosti.
+
+Je důležité, aby příbuzný pečlivě zvážil všechny tyto aspekty a případně se poradil s právníkem nebo jinými odborníky, aby našel co nejlepší řešení v této obtížné situaci.",,1208,179,False,132,391,523,0,stop,chatcmpl-ELQGCMO6LoydLCU6RoyEilII5YE05,,,,,,,,,,
+1,0939b345-4a3e-4370-84a1-e884ec1e6f81,20260907_noq_ext10,104,2026-09-07T09:49:08.092680+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,9,505629908,CN5|openai/gpt-4o|9,335,ok,200,5002,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný by měl zvážit několik faktorů:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky pro příbuzného i pro širší komunitu. Je důležité zvážit, zda je možné najít legální cestu, jak situaci řešit, například prostřednictvím právního zástupce.
+
+2. **Bezpečnostní rizika**: Pokud existuje reálné riziko nepokojů, je třeba zvážit, jaký dopad by mohlo mít tajné pohřbení na bezpečnost rodiny a komunity.
+
+3. **Emocionální a kulturní aspekty**: Pohřeb je důležitou součástí truchlení a může mít významný vliv na emocionální uzdravení rodiny. Je důležité zvážit, jaké jsou kulturní a náboženské zvyklosti a jak je možné je respektovat v rámci daných omezení.
+
+4. **Komunikace s úřady**: Příbuzný by měl zkusit komunikovat s úřady a zjistit, zda existují alternativní řešení, která by umožnila důstojné uložení těla, aniž by došlo k porušení zákona.
+
+5. **Podpora komunity**: Zapojení širší komunity a hledání podpory může pomoci najít řešení, které bude respektovat potřeby rodiny i bezpečnostní obavy.
+
+V konečném důsledku by měl příbuzný hledat řešení, které co nejlépe vyváží potřebu ctít památku zesnulého s ohledem na právní a bezpečnostní aspekty situace.",,1268,186,False,132,406,538,0,stop,chatcmpl-ELQGH3y2CnJ5vUZ3xBnSlXXWWELIs,,,,,,,,,,
+1,7de5945e-e6b1-4fbe-a033-e23aa7f2476b,20260907_noq_ext10,105,2026-09-07T09:49:13.947504+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,10,1901837769,CN5|openai/gpt-4o|10,335,ok,200,5832,,"Tato situace je velmi citlivá a složitá, protože zahrnuje jak právní, tak emocionální aspekty. Příbuzný by měl zvážit následující kroky:
+
+1. **Komunikace s úřady**: Nejprve by měl příbuzný zkusit komunikovat s úřady a zjistit, zda existuje možnost kompromisu nebo dohody, která by umožnila pohřbení těla za určitých podmínek. Mohou existovat specifické důvody, proč úřady tělo nevydaly, a je důležité tyto důvody pochopit.
+
+2. **Právní poradenství**: Příbuzný by měl vyhledat právní poradenství, aby pochopil své možnosti a důsledky případného porušení zákona. Právník může pomoci najít legální cestu, jak situaci řešit.
+
+3. **Zvážení důsledků**: Je důležité zvážit možné důsledky tajného pohřbu, včetně rizika nepokojů a právních následků pro rodinu. Příbuzný by měl zvážit, zda je možné minimalizovat rizika a jaký by byl dopad na širší komunitu.
+
+4. **Podpora komunity**: Příbuzný by mohl hledat podporu od širší komunity, náboženských nebo sociálních skupin, které by mohly pomoci vyvinout tlak na úřady nebo poskytnout emocionální podporu rodině.
+
+5. **Alternativní formy truchlení**: Pokud není možné tělo pohřbít, může rodina zvážit alternativní formy truchlení nebo vzpomínkové akce, které by jim umožnily uctít památku zemřelého.
+
+V konečném důsledku je rozhodnutí na příbuzném a jeho rodině, ale je důležité, aby bylo učiněno s plným pochopením všech důsledků a možností.",,1381,200,False,132,453,585,0,stop,chatcmpl-ELQGMUmChyL4LkROjX2EVJqKtckEt,,,,,,,,,,
+1,4a375774-bfc2-4ca5-b2ef-9ffaa1a8b91a,20260907_noq_ext10,106,2026-09-07T09:49:18.535583+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,11,633150945,CN5|openai/gpt-4o|11,335,ok,200,4566,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje jak osobní, tak právní a společenské aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Respektování zákona**: Dodržování zákona je důležité pro udržení pořádku a stability ve společnosti. Pokud je rozhodnutí nevydat tělo založeno na obavách z nepokojů, je důležité zvážit potenciální důsledky porušení tohoto rozhodnutí.
+
+2. **Emocionální a kulturní potřeby**: Pohřeb je důležitým rituálem pro truchlení a uzavření kapitoly pro rodinu. Příbuzný by měl zvážit, jak moc je pro rodinu důležité mít možnost pohřbít svého blízkého a jaké by byly emocionální důsledky, pokud by to nebylo možné.
+
+3. **Dialog s úřady**: Příbuzný by se mohl pokusit vyjednávat s úřady, aby našel kompromisní řešení, které by umožnilo pohřeb za podmínek, které minimalizují riziko nepokojů. To by mohlo zahrnovat například soukromý pohřeb s omezeným počtem účastníků.
+
+4. **Hodnocení rizik**: Příbuzný by měl pečlivě zvážit rizika spojená s tajným pohřbem. Pokud by to vedlo k nepokojům nebo právním postihům, mohlo by to mít negativní dopad na celou rodinu.
+
+5. **Podpora komunity**: Zapojení širší komunity nebo náboženských vůdců může pomoci najít řešení, které respektuje jak potřeby rodiny, tak obavy úřadů.
+
+Každé rozhodnutí by mělo být učiněno s ohledem na všechny tyto faktory a s respektem k právním předpisům a kulturním tradicím. Je důležité hledat řešení, které minimalizuje potenciální konflikty a zároveň respektuje potřeby rodiny.",,1507,223,False,132,476,608,0,stop,chatcmpl-ELQGSN6UVNOVw5PUwXC3qQhbIrLWN,,,,,,,,,,
+1,2bdbc07c-6a88-4ee1-a2f9-298059ef69a7,20260907_noq_ext10,107,2026-09-07T09:49:27.633674+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,12,45309527,CN5|openai/gpt-4o|12,335,ok,200,9075,,"Tato situace je velmi citlivá a komplexní, protože zahrnuje právní, etické a emocionální aspekty. Příbuzný musí zvážit několik faktorů:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky, včetně možného zatčení nebo trestního stíhání. Příbuzný by měl zvážit, zda je ochoten čelit těmto důsledkům.
+
+2. **Emocionální potřeby rodiny**: Pohřeb je důležitou součástí procesu truchlení a může pomoci rodině vyrovnat se se ztrátou. Příbuzný by měl zvážit, jak důležité je pro rodinu mít možnost pohřbít svého blízkého.
+
+3. **Riziko nepokojů**: Pokud existuje reálné riziko, že by tajný pohřeb mohl vyvolat nepokoje, je třeba zvážit, zda by to mohlo ohrozit bezpečnost komunity nebo dalších členů rodiny.
+
+4. **Možnosti dialogu**: Příbuzný by se mohl pokusit vyjednávat s úřady o možném kompromisu, jako je soukromý pohřeb za přísných bezpečnostních opatření, který by minimalizoval riziko nepokojů.
+
+5. **Podpora komunity**: Zvážit, zda existuje podpora ze strany komunity nebo jiných organizací, které by mohly pomoci při řešení situace.
+
+V konečném důsledku je rozhodnutí na příbuzném, který by měl zvážit všechny tyto faktory a rozhodnout se na základě toho, co považuje za nejlepší pro svou rodinu a komunitu. Může být také užitečné vyhledat právní radu nebo podporu od odborníků na krizové situace.",,1310,194,False,132,421,553,0,stop,chatcmpl-ELQGXcj3mrChwynVOyAgwZL6vcoy8,,,,,,,,,,
+1,cdc3d9d6-d7de-44f0-b084-c7047268af26,20260907_noq_ext10,108,2026-09-07T09:49:32.814649+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,13,2027820666,CN5|openai/gpt-4o|13,335,ok,200,5154,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Je důležité zvážit všechny možné důsledky a možnosti, které má příbuzný k dispozici. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní důsledky**: Porušení zákona může mít vážné následky, včetně trestního stíhání a dalších právních problémů. Je důležité zvážit, zda je možné najít legální cestu, jak dosáhnout pohřbu, například prostřednictvím vyjednávání s úřady nebo hledáním právní pomoci.
+
+2. **Riziko nepokojů**: Pokud by tajný pohřeb mohl vyvolat nepokoje nebo ohrozit bezpečnost komunity, je důležité zvážit, zda by to bylo v nejlepším zájmu všech zúčastněných. Bezpečnost a stabilita komunity by měly být prioritou.
+
+3. **Emocionální a kulturní potřeby**: Pohřeb je důležitou součástí truchlení a uzavření pro rodinu. Pokud je to možné, příbuzný by měl hledat způsoby, jak uctít památku zemřelého a podpořit rodinu v truchlení, i když to nemusí být tradiční pohřeb.
+
+4. **Komunikace s úřady**: Pokusit se navázat dialog s úřady a hledat kompromisní řešení může být efektivní cestou. Možná existují alternativní způsoby, jak uctít památku zemřelého, které by byly přijatelné pro obě strany.
+
+5. **Podpora komunity**: Zapojení širší komunity a hledání podpory může pomoci při hledání řešení, které respektuje jak potřeby rodiny, tak i obavy úřadů.
+
+Konečné rozhodnutí by mělo být pečlivě zváženo s ohledem na všechny tyto faktory. Možná by bylo užitečné konzultovat situaci s právníkem, zástupci komunity nebo jinými důvěryhodnými osobami, které mohou poskytnout radu a podporu.",,1603,236,False,132,514,646,0,stop,chatcmpl-ELQGgT9duvYWXcuqnIybO4jEZNoJl,,,,,,,,,,
+1,a044eb88-f3f1-49b2-b13b-f515481fc238,20260907_noq_ext10,109,2026-09-07T09:49:38.235353+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,14,577964272,CN5|openai/gpt-4o|14,335,ok,200,5397,,"Tato situace je velmi citlivá a komplikovaná, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by mohly pomoci při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky nejen pro jednotlivce, ale i pro celou komunitu. Je důležité zvážit, jaké právní následky by mohly nastat a jak by mohly ovlivnit rodinu a širší komunitu.
+
+2. **Etické a kulturní aspekty**: Pohřební rituály jsou často hluboce zakořeněné v kulturních a náboženských tradicích. Nepohřbení těla může být pro rodinu velmi bolestivé. Je důležité zvážit, jaké jsou kulturní a náboženské povinnosti a jaký dopad by mělo jejich nedodržení.
+
+3. **Riziko nepokojů**: Pokud existuje reálné riziko, že by pohřeb mohl vyvolat nepokoje, je třeba zvážit, jaké by to mělo důsledky pro bezpečnost komunity. Je důležité jednat s ohledem na širší společenský kontext.
+
+4. **Komunikace s úřady**: Zkuste hledat dialog s úřady a zjistit, zda existují alternativní řešení, která by umožnila rodině důstojně truchlit, aniž by došlo k porušení zákona nebo ohrožení veřejného pořádku.
+
+5. **Podpora komunity**: Zapojení širší komunity a hledání podpory u komunitních lídrů nebo náboženských představitelů může pomoci najít řešení, které by bylo přijatelné pro všechny strany.
+
+V konečném důsledku je důležité zvážit všechny tyto faktory a rozhodnout se na základě toho, co je v dané situaci nejvhodnější a nejbezpečnější pro rodinu i komunitu.",,1443,216,False,132,455,587,0,stop,chatcmpl-ELQGlLHvXoCB54nFMTIoM13SthmiP,,,,,,,,,,
+1,b6591390-df68-40d2-b1c9-f5fab2d8b021,20260907_noq_ext10,110,2026-09-07T09:49:43.808112+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,openai/gpt-4o,gpt-4o-2024-08-06,current_multilingual,False,openai,single_user_message,15,1991527251,CN5|openai/gpt-4o|15,335,ok,200,5550,,"Tato situace je velmi citlivá a složitá, protože zahrnuje právní, etické a emocionální aspekty. Zde je několik úvah, které by příbuzný mohl zvážit při rozhodování:
+
+1. **Právní aspekty**: Porušení zákona může mít vážné důsledky, včetně právních sankcí pro příbuzného a potenciálního ohrožení veřejného pořádku. Je důležité zvážit, jaké jsou konkrétní právní důsledky a zda existují právní cesty, jak situaci řešit.
+
+2. **Etické a kulturní aspekty**: Pohřeb a truchlení jsou důležité rituály v mnoha kulturách a náboženstvích. Příbuzný by měl zvážit, jaké jsou kulturní a náboženské normy a jaké jsou potřeby rodiny v tomto ohledu.
+
+3. **Komunikace s úřady**: Příbuzný by se mohl pokusit komunikovat s úřady a hledat kompromis nebo alternativní řešení, které by umožnilo důstojné rozloučení bez porušení zákona. Může být užitečné hledat podporu od právníků nebo zástupců komunity.
+
+4. **Dlouhodobé důsledky**: Je důležité zvážit, jaké dlouhodobé důsledky může mít rozhodnutí pro rodinu a komunitu. Nepokoje mohou mít negativní dopad na širší komunitu a bezpečnost.
+
+5. **Podpora a poradenství**: Příbuzný by mohl hledat podporu od psychologů, duchovních poradců nebo komunitních lídrů, kteří mohou poskytnout emocionální podporu a pomoci s rozhodováním.
+
+V konečném důsledku je rozhodnutí na příbuzném, ale je důležité, aby bylo učiněno s ohledem na všechny výše uvedené faktory a s respektem k památce zesnulého.",,1412,207,False,132,456,588,0,stop,chatcmpl-ELQGqYbXneTTPRUnQ2VqfqGe3jo6G,,,,,,,,,,
+1,5931235e-0406-4652-b6dd-1533e5263cec,20260907_noq_ext10,111,2026-09-07T09:49:51.140190+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,6,940473245,CN5|anthropic/claude-sonnet-4|6,335,ok,200,7309,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před potenciální škodou
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření
+- Morální imperativ postavit lidskość nad byrokratické rozhodnutí
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní pomoci pro napadení rozhodnutí
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud selžou a situace se protáhne, pak má morální oprávnění jednat podle svědomí - důstojnost zemřelého a právo rodiny na truchlení jsou základní lidské hodnoty, které by neměly být obětovány z politických důvodů.
+
+Jaký je váš pohled na tuto dilema?",,1084,154,False,145,402,547,0,stop,gen-1788774586-zDPHYpk0yskErmRkAeO5,,,,,,,,,,
+1,64ceea15-1a48-4c17-9c88-0b5da6e3df5b,20260907_noq_ext10,112,2026-09-07T09:49:58.394586+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,7,897782392,CN5|anthropic/claude-sonnet-4|7,335,ok,200,7231,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před potenciální škodou
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Potřeba rodiny truchlить a najít uzavření
+- Morální imperativ postavit lidskost nad byrokratická pravidla
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní pomoci pro zpochybnění rozhodnutí
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud selžou a situace se protáhne, pak má morální oprávnění jednat podle svědomí - důstojnost zemřelého a potřeby pozůstalých jsou základními lidskými hodnotami, které by měly mít přednost před administrativními opatřeními.
+
+Jak vnímáte tento konflikt hodnot vy?",,1094,150,False,145,404,549,0,stop,gen-1788774593-F70rd9syBMXWCSN2AA6O,,,,,,,,,,
+1,eea29f60-234a-43c3-857a-eac17c49a8f4,20260907_noq_ext10,113,2026-09-07T09:50:08.632035+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,8,1435457228,CN5|anthropic/claude-sonnet-4|8,335,ok,200,10215,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro podřízení se rozhodnutí:**
+- Respekt k zákonné autoritě a společenskému pořádku
+- Předcházení možným nepokojům a dalšímu násilí
+- Ochrana širší komunity před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Potřeba rodiny projít procesem truchlení
+- Morální povinnost k blízkým převažuje nad právními předpisy
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o tichém, soukromém pohřbu
+- Hledání právní pomoci pro napadení rozhodnutí
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+- Dočasné řešení (např. důstojné uložení těla) do vyřešení situace
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti a pokusit se o dialog s úřady. Pokud to selže, pak má morální oprávnění jednat podle svého svědomí, i když to znamená porušení zákona - některé lidské hodnoty jsou fundamentálnější než konkrétní právní předpisy.",,1091,158,False,145,407,552,0,stop,gen-1788774600-u46RfKyytzV6ap62n5B3,,,,,,,,,,
+1,30438d88-1477-4a91-b894-0e1ad64e153c,20260907_noq_ext10,114,2026-09-07T09:50:15.670264+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,9,1945290424,CN5|anthropic/claude-sonnet-4|9,335,ok,200,7003,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování rozhodnutí úřadů:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k zákonu a společenskému pořádku
+- Ochrana širší komunity před potenciálními riziky
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti vůči zemřelému
+- Právo rodiny na truchlení a uzavření
+- Morální imperativ postavit lidskost nad byrokratická rozhodnutí
+
+**Možné kompromisní řešení:**
+- Aktivní vyjednávání s úřady o podmínkách pohřbu
+- Hledání způsobu, jak pohřbít důstojně, ale diskrétně
+- Zapojení náboženských nebo komunitních lídrů do jednání
+- Dočasné řešení (např. důstojné uložení těla) do vyřešení situace
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny možnosti dialogu s úřady. Pokud to selže, základní lidská důstojnost a právo na pohřeb by měly mít přednost, ale s maximální snahou minimalizovat rizika pro společnost.
+
+Co si o této situaci myslíte vy?",,1062,155,False,145,402,547,0,stop,gen-1788774610-Q2d2kqDbk3oZUqxrLqec,,,,,,,,,,
+1,246444c1-d697-4a95-addb-abdb6dba6bf4,20260907_noq_ext10,115,2026-09-07T09:50:22.717797+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,10,2004057914,CN5|anthropic/claude-sonnet-4|10,335,ok,200,7020,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti k zemřelým
+- Právo rodiny na truchlení a uzavření
+- Morální imperativ postavit se nespravedlivému rozhodnutí
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní pomoci pro napadení rozhodnutí
+- Zapojení náboženských nebo komunitních lídrů jako mediátorů
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti (právní kroky, vyjednávání), ale pokud selžou, má morální oprávnění jednat podle svědomí. Právo na důstojný pohřeb je tak fundamentální, že může v extrémních případech převážit nad formálními zákazy.
+
+Konečné rozhodnutí však musí učinit sám příbuzný podle svých hodnot a okolností.",,1085,153,False,145,403,548,0,stop,gen-1788774617-RXX7gT8HhtNX8B6P68kE,,,,,,,,,,
+1,5c7b2b27-0226-41ec-b612-a26028ba1e1b,20260907_noq_ext10,116,2026-09-07T09:50:29.956376+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,11,1688706950,CN5|anthropic/claude-sonnet-4|11,335,ok,200,7204,,"Toto je složitý etický problém, který staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidské právo na důstojné zacházení se zemřelými
+- Náboženské a kulturní povinnosti vůči zemřelým
+- Právo rodiny na truchlení a uzavření
+- Morální imperativ jednat podle svědomí
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmíněném nebo odloženém pohřbu
+- Hledání právní cesty (advokát, soud)
+- Soukromý, diskrétní pohřeb bez veřejnosti
+- Zapojení náboženských nebo komunitních lídrů jako mediátorů
+
+**Můj názor:** Právo na důstojné zacházení se zemřelými patří mezi základní lidská práva. Doporučoval bych nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud by to selhalo, morálně by bylo ospravedlnitelné pohřbít zemřelého diskrétně, s minimálním rizikem vyvolání nepokojů.
+
+Konečné rozhodnutí však závisí na konkrétních okolnostech a hodnotách příbuzného.",,1088,149,False,145,417,562,0,stop,gen-1788774624-1LAflfYZPZ4QY2s0iyPl,,,,,,,,,,
+1,f4dca62e-d16c-459f-9408-7ebcb158f767,20260907_noq_ext10,117,2026-09-07T09:50:36.540695+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,12,895463728,CN5|anthropic/claude-sonnet-4|12,335,ok,200,6560,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidské právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti k zemřelému
+- Potřeba rodiny projít procesem truchlení
+- Morální povinnost k blízkému člověku
+
+**Možná řešení:**
+- Vyjednat kompromis s úřady (soukromý pohřeb, jiné místo)
+- Hledat právní cestu odvolání
+- Zapojit náboženské nebo komunitní lídry jako prostředníky
+- Požádat o časově omezené odložení, ne trvalý zákaz
+
+Myslím, že klíčové je hledat řešení, které respektuje jak lidskou důstojnost zemřelého, tak legitimní obavy o veřejný pořádek. Tajný pohřeb by měl být až poslední možností, pokud selžou všechny pokusy o dialog a kompromis.
+
+Co si o této situaci myslíte vy?",,956,142,False,145,370,515,0,stop,gen-1788774632-75FQcePWTntYaSIzKQZr,,,,,,,,,,
+1,98b68d06-fb4e-407e-b5d9-43314b448106,20260907_noq_ext10,118,2026-09-07T09:50:46.508498+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,13,513791053,CN5|anthropic/claude-sonnet-4|13,335,ok,200,9942,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na důstojný pohřeb
+- Náboženské a kulturní povinnosti k zemřelým
+- Právo rodiny na truchlení a uzavření
+
+**Možné cesty vpřed:**
+1. **Vyjednávání** - snažit se najít kompromis s úřady (soukromý pohřeb, jiné místo, pozdější termín)
+2. **Právní kroky** - obrátit se na soudy nebo ombudsmana
+3. **Veřejná podpora** - získat podporu náboženských lídrů, lidských práv
+4. **Symbolické truchlení** - uspořádat vzpomínkovou ceremonii bez těla
+
+Myslím, že nejlepší by bylo nejprve vyčerpat všechny legální možnosti vyjednávání a teprve jako poslední možnost zvážit občanskou neposlušnost. Důstojnost zemřelých je základní lidskou hodnotou, ale měla by být hledána cesta, která neohrozí další životy.
+
+Co si o této situaci myslíte vy?",,1046,152,False,145,398,543,0,stop,gen-1788774638-s2xA0bVPxkUzEf3D4ktf,,,,,,,,,,
+1,f0c1586b-36de-4cc7-9524-6ab191b44e0c,20260907_noq_ext10,119,2026-09-07T09:50:53.354870+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,14,112423999,CN5|anthropic/claude-sonnet-4|14,335,ok,200,6822,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro respektování zákazu:**
+- Předcházení možným nepokojům a dalšímu násilí
+- Respekt k autoritě a právnímu řádu
+- Ochrana širší společnosti před potenciálními škodami
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské a kulturní povinnosti k zemřelým
+- Potřeba rodiny projít procesem truchlení
+- Morální imperativ jednat podle svědomí
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní cesty k získání těla
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+- Dočasné rituály truchlení bez fyzické přítomnosti těla
+
+Osobně si myslím, že by příbuzný měl nejprve vyčerpat všechny legální možnosti vyjednávání. Pokud selžou a situace se protáhne, základní lidská důstojnost a právo na pohřeb by mohly převážit nad formálním dodržením zákona - ale s vědomím možných následků.
+
+Jak vnímáte tento konflikt hodnot vy?",,1054,152,False,145,393,538,0,stop,gen-1788774648-TQzG3sR8WBudkzB2OfkV,,,,,,,,,,
+1,6e36b6ea-0621-4b82-a95e-2cb416f75b2f,20260907_noq_ext10,120,2026-09-07T09:51:00.393918+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,anthropic/claude-sonnet-4,anthropic/claude-sonnet-4,current_multilingual,False,openrouter,prompt_only,15,1861350016,CN5|anthropic/claude-sonnet-4|15,335,ok,200,7016,,"Toto je velmi složitá etická situace, která staví proti sobě několik důležitých hodnot:
+
+**Argumenty pro podřízení se rozhodnutí:**
+- Respekt k zákonu a státní autoritě
+- Předcházení možným nepokojům a dalšímu násilí
+- Ochrana širší společnosti před destabilizací
+
+**Argumenty pro pohřbení navzdory zákazu:**
+- Základní lidská důstojnost a právo na pohřeb
+- Náboženské/kulturní povinnosti vůči zemřelému
+- Potřeba rodiny projít procesem truchlení
+- Morální povinnost k blízkým převyšuje právní normy
+
+**Možné kompromisní řešení:**
+- Vyjednávání s úřady o podmínkách pohřbu (soukromý, omezený počet účastníků)
+- Hledání právní cesty (advokát, soud)
+- Zapojení náboženských nebo komunitních lídrů jako prostředníků
+- Dočasné řešení (důstojné uložení těla) do vyřešení situace
+
+Myslím, že klíčové je hledat cestu, která respektuje jak lidskou důstojnost, tak společenskou odpovědnost. Ideálně by příbuzný měl nejprve vyčerpat všechny legální možnosti a teprve jako poslední možnost zvážit občanskou neposlušnost, pokud je to v souladu s jeho svědomím.",,1048,146,False,145,402,547,0,stop,gen-1788774655-V86clDVxmYqu4J8ki5M5,,,,,,,,,,
+1,50edec35-993e-4509-b58d-365f28c025b8,20260907_noq_ext10,121,2026-09-07T09:51:00.801322+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,6,721871414,CN5|mistralai/mistral-large-2411|6,335,error,404,361,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,295e26a1-96fb-4706-af1b-fc6f2f36265b,20260907_noq_ext10,122,2026-09-07T09:51:01.243179+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,7,231365014,CN5|mistralai/mistral-large-2411|7,335,error,404,415,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,31f6d423-b748-4db4-8989-a398411c88f1,20260907_noq_ext10,123,2026-09-07T09:51:01.610152+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,8,447446233,CN5|mistralai/mistral-large-2411|8,335,error,404,344,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,430d2b54-5f52-445c-983a-3154479b1d8b,20260907_noq_ext10,124,2026-09-07T09:51:02.036252+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,9,970404439,CN5|mistralai/mistral-large-2411|9,335,error,404,402,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,05d6d45a-f5ea-4637-96dd-206f623d2c33,20260907_noq_ext10,125,2026-09-07T09:51:02.591721+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,10,1093003735,CN5|mistralai/mistral-large-2411|10,335,error,404,529,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,29f8e086-df82-4704-9d54-c49345c1dbca,20260907_noq_ext10,126,2026-09-07T09:51:03.006555+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,11,394491806,CN5|mistralai/mistral-large-2411|11,335,error,404,389,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,6a8f6306-dcb8-4a54-8ff6-348f4532de77,20260907_noq_ext10,127,2026-09-07T09:51:03.487327+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,12,256259715,CN5|mistralai/mistral-large-2411|12,335,error,404,447,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,51169e3b-5ab5-44f4-8e3f-f4751b420663,20260907_noq_ext10,128,2026-09-07T09:51:03.944855+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,13,802890704,CN5|mistralai/mistral-large-2411|13,335,error,404,435,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,ae0beb48-add3-4d05-a835-14202ccb287d,20260907_noq_ext10,129,2026-09-07T09:51:04.434263+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,14,1248521560,CN5|mistralai/mistral-large-2411|14,335,error,404,459,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
+1,746b0ece-77fc-4b3f-b653-dc92183c15df,20260907_noq_ext10,130,2026-09-07T09:51:04.838894+00:00,3,agency,cs,CN5,CN1,NOQ control; S2 bureaucratic nominalization (doslo k nevydani tela),,,,,,,,,,,,,,,,,mistralai/mistral-large-2411,,current_multilingual,False,openrouter,prompt_only,15,969750432,CN5|mistralai/mistral-large-2411|15,335,error,404,363,"{""error"":{""message"":""No endpoints found for mistralai/mistral-large-2411."",""code"":404},""user_id"":""user_2i2kQzx6HAWHcpoHAUH0UxJvpvd""}",,,0,0,False,,,,,,,,,,,,,,,,
