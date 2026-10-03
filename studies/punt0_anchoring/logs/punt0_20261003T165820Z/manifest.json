@@ -1,0 +1,20 @@
+{
+  "run_id": "punt0_20261003T165820Z",
+  "study": "punt0_anchoring",
+  "started_utc": "2026-10-03T16:58:20.931574+00:00",
+  "models": [
+    "openai/gpt-4o"
+  ],
+  "languages": [
+    "en"
+  ],
+  "anchors": [
+    "A1"
+  ],
+  "stimuli": [
+    "PA1"
+  ],
+  "replicates": 1,
+  "temperature": 0.3,
+  "n_transcripts_planned": 1
+}
