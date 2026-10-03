@@ -33,3 +33,6 @@ share/phase*_*_ingest.json
 .DS_Store
 .vscode/
 .idea/
+
+# --- Working paper draft: local only until submission ---
+paper/
